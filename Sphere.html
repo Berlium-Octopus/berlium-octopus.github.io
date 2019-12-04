@@ -33,41 +33,48 @@
     transition-timing-function: linear;
     transition: 0.31s;
     border: 2px solid black;
-    padding: 7px 13px;
-    margin: 0px 10px;
+    padding: 11px 17px;
+    margin: 0px 13px;
   }
 
   .butto button:hover {
-    padding: 9px 15px;
+    border: 3px solid black;
+    margin: 0px 13px;
+  }
+
+  .butto button:focus {
+    border: 3px solid black;
+    padding: 10px 16px;
   }
 
   #Sp {
     position: relative;
     top: -6px;
-    left: -6px;
+    left: -1px;
   }
 
   #search {
     transition-timing-function: linear;
-    transition: 1s;
+    transition: 0.8s;
     font-size: 15px;
-    width: 90px;
-    height: 32px;
+    width: 92px;
+    height: 40px;
     padding: 0px 5px;
-    margin: 0px 26px;
+    margin: 0px px;
     border: 2px solid black;
     position: absolute;
     font-family: lexend exa;
-    right: 180px;
-    top: 23px;
+    right: 237px;
+    top: 21px;
   }
 
   #search:hover {
     width: 180px;
   }
 
-  #search:focus{
+  #search:focus {
     width: 180px;
+    border: 3px solid black;
   }
 
   #slide div {
@@ -84,19 +91,24 @@
     bottom: 46px;
     left: 1050px;
   }
+
+  .hcard {
+    color: black;
+    font-family: lexend exa;
+  }
 </style>
 
 <head>
   <meta name="description" content="I am a game creator and a website designer">
   <link href="./Img/Sphere.png" rel="icon">
-  <title> Targy </title>
+  <title> Spargy </title>
 </head>
 
 <body>
 
   <div>
 
-    <hr style="position:absolute; border-top:none; border-right: none; border-bottom: 3px solid black; top:-15px; left:-9px; right:-11px;">
+    <hr style="position:absolute; border-top:none; border-right: none; border-bottom: 3px solid black; top:-16px; left:-9px; right:-11px;">
     <hr style="position:absolute; border-top:none; border-right: none; border-bottom: 3px solid black; top:91px; left:-30px; right:-11px;">
 
     <div style="position:relative; top:10px; left:11px; right:-70px;">
@@ -126,24 +138,25 @@
       <iframe src="" style="border:1px solid blue; width:380px; height:659px; position:absolute; bottom:0px;"> </iframe>
     </div>
 
-    <div style="position:absolute; left:7px; top:90px;">
+    <div style="position:absolute; left:7px; top:100px;">
       <p> <a style="font-family:lexend deca; font-size:37px;">
           Introduction
         </a>
       </p>
-      <p style="font-family:lexend deca; font-size:18px;">
-        I am an amature website and game designer that works alone (for now).I am planning to make
-        <br>Needlemouse Gurandoriraito and other projects.
-      </p>
+      <h1 style="font-family:lexend deca; font-size:18px;">
+        I am an amature website and game designer that works alone (for now).
+        <br>
+        I am planning to make Needlemouse Gurandoriraito and other projects.
+      </h1>
     </div>
 
-    <div style="position:absolute; left: 0px; right:0px; bottom:3px; margin: 0px -3px">
+    <footer style="position:absolute; left: 0px; right:0px; bottom:3px; margin: 0px -3px">
       <hr style="position:absolute; border-top:none; border-right: none; border-bottom: 3px solid black; top:1px; left:-30px; right:-8px;">
       <p class="lex" style="position:relative; right:-7px; bottom:-12px">
-        Email: <b> berlium.octopus@gmail.com </b>
+        Email:
+        <address class="hcard"> <a href="mailto:berlium.octopus@gmail.com"> berlium.octopus@gmail.com </a> </address>
       </p>
-
-    </div>
+    </footer>
 
   </div>
 
