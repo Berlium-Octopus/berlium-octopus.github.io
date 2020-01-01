@@ -101,6 +101,14 @@
     right: -11px;
   }
 
-  #HACKED{
-    font-family:HACKED;
+  #HACKED {
+    font-family: HACKED;
+  }
+
+  #Main-Div {
+    position: relative;
+    top: 0px;
+    left: 11px;
+    right: -70px;
+    bottom: 0px;
   }
