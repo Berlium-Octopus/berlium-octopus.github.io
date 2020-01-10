@@ -3,9 +3,9 @@
   }
 
   body {
-    top: 0px;
-    left: 0px;
-    right: 0px;
+    top: 0;
+    left: 0;
+    right: 0;
     bottom: -3000px;
     position: absolute;
     background-color: white;
@@ -14,7 +14,7 @@
   .butto button {
     border: 2px solid black;
     padding: 11px 17px;
-    margin: 0px 13px;
+    margin: 0 13px;
   }
 
   .butto a {
@@ -32,83 +32,97 @@
     transition: 0.31s;
   }
 
-  #Game_Intro:hover {
+  .Game_Intro:hover {
     position: relative;
     outline: 2px solid black;
     outline-offset: -3px;
-    left: 0px;
+    left: 0;
   }
 
-  #News:hover {
+  .News:hover {
     position: relative;
     outline: 2px solid black;
     outline-offset: -3px;
-    right: 0px;
+    right: 0;
   }
 
   .butto button:focus {
     border: 3px solid blue;
   }
 
-  #Sp {
+  .Sp {
     position: relative;
     top: -6px;
     left: -1px;
   }
 
-  #search {
-    transition-timing-function: linear;
-    transition: 0.8s;
-    font-size: 15px;
-    width: 95px;
-    height: 40px;
-    padding: 0px 5px;
-    margin: 0px px;
-    border: 2px solid black;
-    position: absolute;
-    font-family: lexend deca;
-    right: -1040px;
-    top: 21px;
+  .search {
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: width 2s;
   }
 
-  #search:hover {
-    width: 200px;
-    border: 2px solid black;
+  .search:hover {
+    width: 300px;
   }
 
-  #search:focus {
-    width: 200px;
-    border: 3px solid black;
-  }
-
-  #Up {
+  .Up {
     position: absolute;
     border-top: none;
     border-right: none;
     border-bottom: 3px solid black;
-    top: 10px;
+    top: -16px;
     left: -9px;
     right: -11px;
   }
 
-  #Down {
+  .Down {
     position: absolute;
     border-top: none;
     border-right: none;
     border-bottom: 3px solid black;
-    top: -10px;
+    top: 80px;
     left: -30px;
     right: -11px;
   }
 
-  #HACKED {
+  .Middle {
+    position: absolute;
+    border-top: none;
+    border-right: none;
+    border-bottom: 3px solid black;
+    top: 800px;
+    left: -30px;
+    right: -11px;
+  }
+
+  .HACKED {
     font-family: HACKED;
   }
 
-  #Main-Div {
+  .Main-Div {
     position: relative;
-    top: 0px;
+    top: 0;
     left: 11px;
     right: -70px;
-    bottom: 0px;
+    bottom: 0;
+  }
+
+  .Slider {
+    position: relative;
+    top: -110px;
+  }
+
+  .AAA {
+    position: relative;
+    top: 4px;
+  }
+
+  .Menu {
+    width:30px;
+    height:23px;
+    position: absolute;
+    right: -1090px;
+    top: 30px;
   }
