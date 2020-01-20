@@ -57,14 +57,19 @@
   }
 
   .search {
-    width: 100px;
-    height: 100px;
-    background: red;
+    border: 2px solid black;
+    padding: 10px 10px;
+    font-size: 16px;
+    position: absolute;
+    top: 10px;
+    right: -1000px;
+    font-family: lexend deca;
+    background: white;
     transition: width 2s;
   }
 
   .search:hover {
-    width: 300px;
+    transition: 1
   }
 
   .Up {
@@ -114,15 +119,29 @@
     top: -110px;
   }
 
-  .AAA {
+  .UpBar {
     position: relative;
     top: 4px;
   }
 
   .Menu {
-    width:30px;
-    height:23px;
+    width: 30px;
+    height: 23px;
     position: absolute;
     right: -1090px;
     top: 30px;
   }
+
+.Hor{
+  position: absolute;
+  border-top: 1px solid black;
+  border-right:  1px solid black;
+  border-left: 2px solid black;
+  border-bottom: 3px solid black;
+  top: 100px;
+  left: 0;
+  right: 0;
+  width: 0px;
+  height: 10px;
+
+}
