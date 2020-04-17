@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: http://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="1920.24pt"
+    height="1380.24pt"
+    viewBox="0 0 1920.24 1380.24">
+<defs>
+  <linearGradient id="gradient0" gradientUnits="objectBoundingBox" x1="0.471702743624414" y1="0.801816810541566" x2="0.59175159627968" y2="1.15695137568048" spreadMethod="pad">
+   <stop stop-color="#757575" offset="0" stop-opacity="1"/>
+   <stop stop-color="#000000" offset="1" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="gradient1" gradientUnits="objectBoundingBox" x1="-0.26407074401504" y1="-0.321750452286738" x2="1" y2="1" spreadMethod="pad">
+   <stop stop-color="#000000" offset="0" stop-opacity="0.698039215686274"/>
+   <stop stop-color="#000000" offset="1" stop-opacity="0.109803921568627"/>
+  </linearGradient>
+ </defs>
+<ellipse id="shape0" transform="matrix(0.999999959647857 0 0 0.999999959647857 617.423877089668 275.466140125394)" rx="348.457054572285" ry="340.458033104836" cx="348.457054572285" cy="340.458033104836" fill="#262626" fill-rule="evenodd" stroke="#666666" stroke-width="25.9967954154542" stroke-linecap="square" stroke-linejoin="bevel"/><path id="shape01" transform="matrix(0.999999926997185 0 0 0.999999926997185 609.686776434737 400.95062700371)" fill="#454545" fill-rule="evenodd" stroke="#000000" stroke-opacity="0" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M627.161 0C544.123 53.6576 -25.2228 29.0911 14.2304 88.0058C-18.7073 139.143 10.9439 237.327 48.2321 339.277C95.3664 497.052 276.166 593.755 450.182 537.662C749.1 440.828 695.992 126.815 627.161 0Z"/><path id="shape01" transform="matrix(0.99999988131897 0 0 0.99999988131897 605.925282168622 528.934873134601)" fill="#5e5e5e" fill-rule="evenodd" stroke="#000000" stroke-opacity="0" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M687.583 0C600.234 54.068 58.5139 57.1016 0 93.9884C56.9361 377.609 225.037 288.818 401.805 248.508C631.813 275.645 768.216 278.666 687.583 0Z"/><path id="shape011" transform="matrix(0.999999902612917 0 0 0.999999902612917 658.914162426596 661.918453538645)" fill="url(#gradient0)" fill-rule="evenodd" stroke="#000000" stroke-opacity="0" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M645.425 0C559.436 63.7046 -3.21343 96.8048 0.0138283 105.951C47.1481 239.543 185.953 334.102 359.969 286.606C530.902 284.351 610.109 150.713 645.425 0Z"/><ellipse id="shape011" transform="matrix(0.999999903159162 0 0 0.999999903159162 611.424568016513 275.466173823775)" rx="348.457054572285" ry="340.458033104836" cx="348.457054572285" cy="340.458033104836" fill="none" stroke="#333333" stroke-width="35.9955628829365" stroke-linecap="square" stroke-linejoin="bevel"/><path id="shape0111" transform="matrix(0.999999883607041 0 0 0.999999883607041 537.24147176499 207.714989808274)" fill="url(#gradient1)" fill-rule="evenodd" stroke="#000000" stroke-opacity="0" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M845.28 412.199C845.28 316.826 812.069 229.015 756.309 159.172C678.973 62.3068 558.268 0 422.641 0C189.222 -3.18503e-14 3.17071e-14 184.548 1.80477e-30 412.199C-3.17071e-14 639.851 189.222 824.4 422.641 824.4C656.058 824.4 845.28 639.851 845.28 412.199Z"/><rect id="shape0111" transform="matrix(0.999999927951253 0 0 0.999999927951253 570.929585500209 810.90008582677)" fill="#2b2b2b" fill-rule="evenodd" stroke="#404040" stroke-width="0.00999876746748237" stroke-linecap="square" stroke-linejoin="bevel" width="777.904108970128" height="306.962161251709" rx="73.7769281978039" ry="70.5335712762076"/><rect id="shape1" transform="matrix(0.99999986996835 0 0 0.99999986996835 868.892802524278 473.442351650719)" fill="#3a3a3a" stroke="#737373" stroke-width="39.9950698699295" stroke-linecap="square" stroke-linejoin="bevel" width="193.97612097209" height="288.464430267391" rx="40.4116918691853" ry="38.7721008423913"/><rect id="shape2" transform="matrix(0.99999986996835 0 0 0.99999986996835 954.882207614746 535.184732733959)" fill="none" stroke="#808080" stroke-width="39.9950698699295" stroke-linecap="square" stroke-linejoin="bevel" width="21.9972884284612" height="159.480341106344" rx="10.9986442142306" ry="10.9986442142306"/>
+</svg>
