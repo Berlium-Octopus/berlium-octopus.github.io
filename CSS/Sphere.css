@@ -116,7 +116,7 @@
   }
 
   .UpBar {
-    position: relative;
+    position: absolute;
     top: 4px;
   }
 
