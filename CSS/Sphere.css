@@ -161,3 +161,15 @@ background-size: contain;
 background-position: center;
 left: -19;
   }
+
+  .og{
+position: inherit;
+width: 100%;
+min-height: 40cm;
+margin: auto;
+background-repeat: no-repeat;
+background-image: url('REF BOI.png');
+background-size: contain;
+background-position: center;
+left: -19;
+  }
