@@ -1,0 +1,175 @@
+  .lex {
+    font-family: lexend deca;
+  }
+
+  body {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: -3000px;
+    position: absolute;
+    background-color: white;
+  }
+
+  .butto button {
+    border: 2px solid black;
+    padding: 11px 17px;
+    margin: 0 13px;
+  }
+
+  .butto a {
+    color: black;
+    font-size: 15px;
+    font-family: lexend deca;
+    text-decoration: none;
+  }
+
+  .butto {
+    position: absolute;
+    top: 5px;
+    right: 1100px;
+    transition-timing-function: linear;
+    transition: 0.31s;
+  }
+
+  .Game_Intro:hover {
+    position: relative;
+    outline: 2px solid black;
+    outline-offset: -3px;
+    left: 0;
+  }
+
+  .News:hover {
+    position: relative;
+    outline: 2px solid black;
+    outline-offset: -3px;
+    right: 0;
+  }
+
+  .butto button:focus {
+    border: 3px solid blue;
+  }
+
+  .Sp {
+    position: relative;
+    top: -6px;
+    left: -1px;
+  }
+
+  .search {
+    border: 2px solid black;
+    padding: 10px 10px;
+    font-size: 16px;
+    position: absolute;
+    top: 10px;
+    right: -1000px;
+    font-family: lexend deca;
+    background: white;
+    transition: width 2s;
+  }
+
+  .search:hover {
+    transition: 1
+  }
+
+  .Up {
+    position: absolute;
+    border-top: none;
+    border-right: none;
+    border-bottom: 3px solid black;
+    top: -16px;
+    left: -9px;
+    right: -11px;
+  }
+
+  .Down {
+    position: absolute;
+    border-top: none;
+    border-right: none;
+    border-bottom: 3px solid black;
+    top: 80px;
+    left: -30px;
+    right: -11px;
+  }
+
+  .Middle {
+    position: absolute;
+    border-top: none;
+    border-right: none;
+    border-bottom: 3px solid black;
+    top: 800px;
+    left: -30px;
+    right: -11px;
+  }
+
+  .Main-Div {
+    position: relative;
+    top: 0;
+    left: 11px;
+    right: -70px;
+    bottom: 0;
+  }
+
+  .Slider {
+    position: relative;
+    top: -110px;
+  }
+
+  .UpBar {
+    position: relative;
+    top: 4px;
+  }
+
+  .Menu {
+    width: 30px;
+    height: 23px;
+    position: absolute;
+    right: -1080px;
+    top: 21px;
+  }
+
+  .Hor {
+    position: absolute;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-left: 2px solid black;
+    border-bottom: 3px solid black;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+    width: 0px;
+    height: 1000px;
+  }
+
+  .Button-2 {
+    position: relative;
+    top: -5px;
+  }
+
+  .TheBack{
+    position: relative;
+  }
+
+  .bg{
+position: inherit;
+width: 100%;
+min-height: 40cm;
+margin: auto;
+background-repeat: no-repeat;
+background-image: url('Space.png');
+background-size: contain;
+background-position: center;
+left: -19;
+  }
+
+  .og{
+position: inherit;
+width: 100%;
+min-height: 40cm;
+margin: auto;
+background-repeat: no-repeat;
+background-image: url('REF BOI.png');
+background-size: contain;
+background-position: center;
+left: -19;
+  }
