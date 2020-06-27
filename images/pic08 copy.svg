@@ -71,17 +71,18 @@
        inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
+     borderlayer="true"
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="770.47089"
-     inkscape:cy="439.87653"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="845.12676"
+     inkscape:cy="502.20141"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1440"
@@ -97,7 +98,7 @@
      inkscape:snap-page="true"
      showguides="false"
      inkscape:snap-global="false"
-     showborder="false" />
+     showborder="true" />
   <metadata
      id="metadata960">
     <rdf:RDF>
@@ -112,19 +113,18 @@
   </metadata>
   <g
      style="display:inline"
-     sodipodi:insensitive="true"
      inkscape:label="Backgrund"
      id="layer3"
      inkscape:groupmode="layer">
     <rect
-       style="display:inline;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke-width:12.6992;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       style="display:inline;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke-width:15.0795;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
        id="rect997"
-       width="368.00003"
-       height="256"
-       x="5.0840783"
-       y="-9.3834343"
+       width="433.74832"
+       height="306.24667"
+       x="-19.77796"
+       y="-14.432554"
        ry="0"
-       rx="45.660717" />
+       rx="0" />
   </g>
   <g
      style="display:inline"
@@ -193,7 +193,6 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     sodipodi:insensitive="true"
      style="display:inline"
      id="g1650"
      inkscape:groupmode="layer"
@@ -238,7 +237,6 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     sodipodi:insensitive="true"
      id="g1837"
      inkscape:groupmode="layer"
      inkscape:label="Fix"
