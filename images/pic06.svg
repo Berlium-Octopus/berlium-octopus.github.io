@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
-   sodipodi:docname="Grindy Grindy Man.svg">
+   sodipodi:docname="pic06.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -32,8 +32,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="543.41373"
-     inkscape:cy="285.4897"
+     inkscape:cx="852.69944"
+     inkscape:cy="-430.10085"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,7 +63,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:1;fill:#c87137;fill-opacity:1;fill-rule:evenodd;stroke-width:8.87824;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       style="opacity:1;fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke-width:8.87824;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
        id="rect997"
        width="317.5"
        height="145.02946"
@@ -114,7 +114,7 @@
        height="127.59606"
        width="11.495741"
        id="rect48"
-       style="opacity:1;fill:#483737;fill-opacity:1;fill-rule:evenodd;stroke-width:6.95224;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+       style="opacity:1;fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke-width:6.95224;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
     <ellipse
        id="path934"
        style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke-width:1.64862;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
@@ -123,7 +123,7 @@
        cy="68.160599"
        cx="142.21353" />
     <rect
-       style="opacity:1;fill:#483737;fill-opacity:1;fill-rule:evenodd;stroke-width:6.95224;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       style="opacity:1;fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke-width:6.95224;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
        id="rect1456"
        width="11.495741"
        height="127.59606"
@@ -137,5 +137,45 @@
        ry="6.4181833"
        style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke-width:1.64862;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
        id="ellipse85" />
+    <ellipse
+       ry="50.648808"
+       rx="35.151783"
+       cy="-76.199997"
+       cx="127.37798"
+       id="path1486"
+       style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7.15733;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+    <circle
+       r="58.019348"
+       cy="-123.7872"
+       cx="127.56696"
+       id="path1480"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+    <ellipse
+       style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7.15733;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="ellipse1488"
+       cx="127.37798"
+       cy="-89.429176"
+       rx="35.151783"
+       ry="50.648808" />
+    <circle
+       r="23.434523"
+       cy="-123.7872"
+       cx="127.56696"
+       id="path1482"
+       style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+    <circle
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="circle1505"
+       cx="127.56696"
+       cy="-123.7872"
+       r="58.019348" />
+    <rect
+       rx="387.64102"
+       y="-148.73363"
+       x="101.48661"
+       height="49.892857"
+       width="52.160713"
+       id="rect1507"
+       style="fill:#ff2a2a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
   </g>
 </svg>

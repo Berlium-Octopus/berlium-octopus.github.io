@@ -52,7 +52,11 @@ table {
 }
 
 body {
+
 	-webkit-text-size-adjust: none;
+}
+body::-webkit-scrollbar {
+display: none;
 }
 
 mark {
@@ -2282,6 +2286,7 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
+    background-image: url("img_tree.gif"), url("paper.gif");
 		position: absolute;
 		top: 0;
 		left: 0;
