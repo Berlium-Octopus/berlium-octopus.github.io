@@ -2322,6 +2322,19 @@ body.homepage.is-preload #header:after {
   height: 3.8em;
 }
 
+#nav {
+  background: rgba(45, 36, 44, 0.6);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  padding: 1.5em 0 1.5em 0;
+  z-index: 1;
+  overflow: hidden;
+  height: 3.8em;
+}
+
 #nav>ul {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -2389,6 +2402,7 @@ body.homepage.is-preload #header:after {
 #nav>ul>li>ul {
   display: none;
 }
+
 
 #navPanel {
   -moz-backface-visibility: hidden;
@@ -3118,6 +3132,10 @@ body.homepage.is-preload #header:after {
   #nav {
     display: none;
   }
+  #nauv {
+    display: none;
+  }
+
 
   /* Banner */
   #banner {
