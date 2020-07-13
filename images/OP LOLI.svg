@@ -21,6 +21,16 @@
   <defs
      id="defs2">
     <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1872"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1620"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
        lpeversion="1"
        is_visible="true"
        id="path-effect1068"
@@ -72,7 +82,7 @@
       <stop
          id="stop1619"
          offset="1"
-         style="stop-color:#000080;stop-opacity:0" />
+         style="stop-color:#000055;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -354,30 +364,6 @@
        x2="410.78299"
        y2="295.54059"
        gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient929"
-       id="radialGradient1736"
-       cx="254"
-       cy="142.875"
-       fx="254"
-       fy="142.875"
-       r="253.20715"
-       gradientTransform="matrix(1,0,0,0.56697509,-9.2279097e-8,61.868434)"
-       gradientUnits="userSpaceOnUse" />
-    <filter
-       height="1.4794243"
-       y="-0.23971216"
-       width="1.4794243"
-       x="-0.23971216"
-       id="filter1017"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur1019"
-         stdDeviation="5.3816917"
-         inkscape:collect="always" />
-    </filter>
     <clipPath
        id="clipPath1050"
        clipPathUnits="userSpaceOnUse">
@@ -406,6 +392,109 @@
          id="path1096"
          style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.17379;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
     </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1017-2"
+       x="-0.79414812"
+       width="2.5882962"
+       y="-0.79414812"
+       height="2.5882962">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="17.829134"
+         id="feGaussianBlur1019-9" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1622">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 89.233108,243.45 c -1.817037,-11.64382 -0.566545,-23.79598 3.895979,-34.70314 6.552691,-16.01588 19.799183,-28.77205 35.183193,-36.69533 15.38401,-7.92327 32.79986,-11.29621 50.09218,-11.94578 34.58462,-1.29914 68.73985,7.89187 103.33091,9.00679 26.26138,0.84645 52.85319,-3.07217 77.11168,-13.16685 8.64031,-3.59549 17.12232,-8.00533 26.38739,-9.32482 7.78604,-1.10886 15.85655,0.0694 23.08483,3.16842 7.22829,3.09901 13.6078,8.09135 18.51862,14.2343 9.82165,12.28589 13.46497,28.92093 11.22324,44.48956 -2.24174,15.56864 -10.03134,30.04096 -20.63657,41.65719 -10.60524,11.61624 -23.92895,20.51196 -38.06196,27.41602 -31.25588,15.26868 -66.14589,20.98404 -100.27952,27.68912 -29.67898,5.83003 -59.58636,12.57135 -89.80257,11.22532 -22.35549,-0.99586 -44.87915,-6.64838 -63.52755,-19.01757 C 107.10456,285.11404 92.683419,265.56006 89.233108,243.45 Z"
+         id="path1624"
+         inkscape:connector-curvature="0"
+         inkscape:path-effect="#path-effect1620"
+         inkscape:original-d="m 89.233108,243.45 c -18.70913,-28.93665 -27.035752,-17.49071 3.895979,-34.70314 30.931703,-17.21242 163.661383,-37.88789 188.606283,-39.63432 24.94489,-1.74642 57.40527,-1.19291 77.11168,-13.16685 19.70643,-11.97394 17.94465,-12.56628 26.38739,-9.32482 8.44278,3.24147 -3.91429,87.3106 -5.87184,130.96549 -1.95752,43.6549 -66.85275,18.45972 -100.27952,27.68912 -33.42678,9.22941 -59.86812,7.48382 -89.80257,11.22532 -29.93445,3.7415 -81.3383,-44.11419 -100.047402,-73.0508 z"
+         sodipodi:nodetypes="sssssssss" />
+    </clipPath>
+    <filter
+       height="1.2075441"
+       y="-0.10377204"
+       width="1.1010032"
+       x="-0.050501624"
+       id="filter1670"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur1668"
+         stdDeviation="7.370501"
+         inkscape:collect="always" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1684">
+      <path
+         sodipodi:nodetypes="sssssssss"
+         inkscape:connector-curvature="0"
+         id="path1686"
+         d="m 89.233109,238.1583 c -1.817037,-11.64382 -0.566545,-23.79598 3.895979,-34.70314 6.552691,-16.01588 19.799182,-28.77205 35.183192,-36.69533 15.38401,-7.92327 32.79986,-11.29621 50.09218,-11.94578 34.58462,-1.29914 68.73985,7.89187 103.33091,9.00679 26.26138,0.84645 52.85319,-3.07217 77.11168,-13.16685 8.64031,-3.59549 17.12232,-8.00533 26.38739,-9.32482 7.78604,-1.10886 15.85655,0.0694 23.08483,3.16842 7.22829,3.09901 13.6078,8.09135 18.51862,14.2343 9.82165,12.28589 13.46497,28.92093 11.22324,44.48956 -2.24174,15.56864 -10.03134,30.04096 -20.63657,41.65719 -10.60524,11.61624 -23.92895,20.51196 -38.06196,27.41602 -31.25588,15.26868 -66.14589,20.98404 -100.27952,27.68912 -29.67898,5.83003 -59.58636,12.57135 -89.80257,11.22532 -22.35549,-0.99586 -44.87915,-6.64838 -63.52755,-19.01757 -18.6484,-12.36919 -33.06954,-31.92317 -36.519851,-54.03323 z"
+         style="mix-blend-mode:normal;fill:#0044aa;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter1670)"
+         clip-path="none"
+         inkscape:original-d="m 89.233109,238.1583 c -18.70913,-28.93665 -27.035752,-17.49071 3.895979,-34.70314 30.931702,-17.21242 163.600832,-39.47501 188.606282,-39.63432 24.94489,-0.15892 57.40527,-1.19291 77.11168,-13.16685 19.70643,-11.97394 17.94465,-12.56628 26.38739,-9.32482 8.44278,3.24147 -3.91429,87.3106 -5.87184,130.96549 -1.95752,43.6549 -66.85275,18.45972 -100.27952,27.68912 -33.42678,9.22941 -59.86812,7.48382 -89.80257,11.22532 -29.93445,3.7415 -81.3383,-44.11419 -100.047401,-73.0508 z"
+         inkscape:path-effect="#path-effect1031" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1820"
+       x="-0.24522122"
+       width="1.4904424"
+       y="-0.54255262"
+       height="2.0851052">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="85.871935"
+         id="feGaussianBlur1822" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1915"
+       x="-0.17569297"
+       width="1.3513859"
+       y="-0.17569297"
+       height="1.3513859">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.9444199"
+         id="feGaussianBlur1913" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1923"
+       x="-0.35435118"
+       width="1.7087024"
+       y="-0.35435118"
+       height="1.7087024">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.955411"
+         id="feGaussianBlur1925" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1929"
+       x="-0.17396535"
+       width="1.3479307"
+       y="-0.17745525"
+       height="1.3549105">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="16.328108"
+         id="feGaussianBlur1931" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -415,8 +504,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="1129.2943"
-     inkscape:cy="462.1816"
+     inkscape:cx="1175.5641"
+     inkscape:cy="472.34812"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -424,8 +513,8 @@
      units="px"
      showguides="true"
      inkscape:window-width="1440"
-     inkscape:window-height="716"
-     inkscape:window-x="0"
+     inkscape:window-height="711"
+     inkscape:window-x="47"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
      borderlayer="true" />
@@ -476,12 +565,19 @@
        id="rect1273"
        style="fill:url(#radialGradient1284);fill-opacity:1;fill-rule:evenodd;stroke-width:5.06136;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;opacity:0" />
     <rect
-       style="opacity:1;fill:#0b0b28;fill-opacity:1;fill-rule:evenodd;stroke:url(#radialGradient1736);stroke-width:5.06136;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       style="opacity:1;fill:#0b0b28;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
        id="rect608"
        width="506.41431"
        height="287.1243"
-       x="0.79284668"
-       y="-0.68714905" />
+       x="1.4214958"
+       y="-0.40722236" />
+    <ellipse
+       cx="254"
+       cy="142.875"
+       rx="112.63007"
+       ry="110.41505"
+       style="fill:#000000;fill-rule:evenodd;stroke-width:3.66984;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;opacity:1;fill-opacity:1;filter:url(#filter1929)"
+       id="ellipse1927" />
     <ellipse
        id="path34"
        style="fill:url(#linearGradient1599);fill-rule:evenodd;stroke-width:3.66984;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;opacity:1;fill-opacity:1"
@@ -496,6 +592,11 @@
        id="path913"
        d="m 166.15833,129.11666 c -0.76486,-15.85554 3.80906,-31.921975 12.81017,-44.997269 9.00111,-13.075295 22.37656,-23.082691 37.46066,-28.027725 2.6034,-0.853477 5.25481,-1.560518 7.9375,-2.116667"
        style="fill:none;stroke:#0012d5;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="ellipse1806"
+       style="opacity:0.77491961;fill:#00112b;fill-opacity:1;fill-rule:evenodd;stroke-width:13.8703;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;filter:url(#filter1820)"
+       d="M 1383.9688 577.45898 C 1374.7319 581.46751 1365.5235 585.55036 1356.2715 589.40039 C 1264.5859 627.55351 1164.0818 642.3652 1064.8262 639.16602 C 934.08831 634.95214 804.99868 600.21486 674.28516 605.125 C 630.07343 606.78577 585.65049 613.16613 543.5332 626.38477 A 425.68845 417.31672 0 0 0 960 957.31641 A 425.68845 417.31672 0 0 0 1383.9688 577.45898 z "
+       transform="scale(0.26458333)" />
     <ellipse
        ry="110.41505"
        rx="112.63007"
@@ -505,14 +606,33 @@
        style="fill:url(#linearGradient1712);fill-rule:evenodd;stroke-width:3.66984;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;opacity:1;fill-opacity:1"
        clip-path="url(#clipPath1344)" />
     <circle
+       style="fill:#ffcc00;fill-rule:evenodd;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;filter:url(#filter1915)"
+       id="circle1015"
+       cx="69.554092"
+       cy="143.13631"
+       r="26.940769" />
+    <circle
        r="26.940769"
        cy="143.13631"
        cx="69.554092"
        id="path76"
        style="fill:#ffcc00;fill-rule:evenodd;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
     <circle
-       style="fill:#ffcc00;fill-rule:evenodd;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;filter:url(#filter1017)"
-       id="circle1015"
+       r="26.940769"
+       cy="142.875"
+       cx="448.73334"
+       id="circle1015-2"
+       style="opacity:0.768489;fill:#0000ff;fill-rule:evenodd;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;filter:url(#filter1017-2)"
+       transform="matrix(0.80968101,0,0,0.80968101,75.083726,27.191826)" />
+    <circle
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:3.3283;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="path76-8"
+       cx="437.62085"
+       cy="142.875"
+       r="15.828269" />
+    <circle
+       style="fill:#ffcc00;fill-rule:evenodd;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;filter:url(#filter1923)"
+       id="circle1917"
        cx="69.554092"
        cy="143.13631"
        r="26.940769" />
