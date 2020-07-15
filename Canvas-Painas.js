@@ -791,7 +791,7 @@ an.getComposition = function(id) {
 }
 
 
-// Layer depth API : 
+// Layer depth API :
 
 AdobeAn.Layer = new function() {
 	this.getLayerZDepth = function(timeline, layerName)
