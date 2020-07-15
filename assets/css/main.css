@@ -2144,7 +2144,7 @@ header .icon.circled {
 /* Header */
 #header {
   position: relative;
-  background: url("images/Space2");
+  background: url("../../images/Space2.svg");
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
