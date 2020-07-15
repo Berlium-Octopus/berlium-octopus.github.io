@@ -2144,7 +2144,7 @@ header .icon.circled {
 /* Header */
 #header {
   position: relative;
-  background: url("CanvasPainas.html");
+  background: url("images/Space2");
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
