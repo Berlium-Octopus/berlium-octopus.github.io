@@ -45,6 +45,25 @@ footer, header, hgroup, menu, nav, section {
   display: block;
 }
 
+e{
+  color: #5b5b5b;
+  -moz-transition: color 0.9s ease-in-out, color 0.5s ease-in-out;
+  -webkit-transition: color 0.9s ease-in-out, color 0.5s ease-in-out;
+  -ms-transition: color 0.9s ease-in-out, color 0.5s ease-in-out;
+  transition: color 0.9s ease-in-out, color 0.5s ease-in-out;
+}
+#EA{
+
+}
+
+#EA:hover{
+  color: red;
+  -moz-transition: color 0.9s ease-in-out, color 0.5s ease-in-out;
+  -webkit-transition: color 0.9s ease-in-out, color 0.5s ease-in-out;
+  -ms-transition: color 0.9s ease-in-out, color 0.5s ease-in-out;
+  transition: color 0.9s ease-in-out, color 0.5s ease-in-out;
+}
+
 body {
   line-height: 1;
 }
