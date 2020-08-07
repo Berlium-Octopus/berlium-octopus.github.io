@@ -7,46 +7,46 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="96"
-   inkscape:export-xdpi="96"
-   inkscape:export-filename="/Users/aaronarcelio/Desktop/Targy/Grindy Grindy Man.png"
-   width="1200"
-   height="551"
-   viewBox="0 0 317.5 145.78541"
-   version="1.1"
-   id="svg8"
+   sodipodi:docname="pic06.svg"
    inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
-   sodipodi:docname="pic06.svg">
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 317.5 145.78541"
+   height="551"
+   width="1200"
+   inkscape:export-filename="/Users/aaronarcelio/Desktop/Targy/Grindy Grindy Man.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
-     showguides="false"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:bbox-nodes="true"
-     inkscape:bbox-paths="true"
-     inkscape:snap-bbox="true"
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="642.69944"
-     inkscape:cy="244.18486"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     borderlayer="false"
-     units="px"
-     inkscape:window-width="1440"
-     inkscape:window-height="711"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
+     showborder="true"
      inkscape:window-maximized="0"
-     showborder="true" />
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="711"
+     inkscape:window-width="1440"
+     units="px"
+     borderlayer="false"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="187.042"
+     inkscape:cx="1047.6994"
+     inkscape:zoom="0.7"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     showguides="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -60,73 +60,73 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     id="layer1"
      inkscape:groupmode="layer"
-     id="layer1">
+     inkscape:label="Layer 1">
     <rect
-       style="opacity:1;fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke-width:8.87824;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-       id="rect997"
-       width="317.5"
-       height="145.02946"
-       x="-4.3579954e-14"
+       rx="0"
+       ry="0"
        y="0.37797493"
-       ry="17.842806"
-       rx="17.949762" />
+       x="-4.3579954e-14"
+       height="145.02946"
+       width="317.5"
+       id="rect997"
+       style="opacity:1;fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke-width:8.87824;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
     <rect
-       style="fill:#2b1100;fill-opacity:1;fill-rule:evenodd;stroke-width:8.94427;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-       id="rect936"
-       width="12.095238"
-       height="98.084824"
-       x="152.70238"
+       ry="7.5595236"
        y="23.850296"
-       ry="7.5595236" />
+       x="152.70238"
+       height="98.084824"
+       width="12.095238"
+       id="rect936"
+       style="fill:#2b1100;fill-opacity:1;fill-rule:evenodd;stroke-width:8.94427;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
     <circle
-       r="38.5"
-       transform="scale(-1)"
-       style="fill:#782121;fill-opacity:1;fill-rule:evenodd;stroke-width:10.1879;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-       id="path96"
+       cy="-72.892708"
        cx="-158.75"
-       cy="-72.892708" />
+       id="path96"
+       style="fill:#782121;fill-opacity:1;fill-rule:evenodd;stroke-width:10.1879;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       transform="scale(-1)"
+       r="38.5" />
     <g
-       transform="matrix(0.99649929,0,0,1.0371727,0.55572251,-2.6116078)"
-       id="g938">
+       id="g938"
+       transform="matrix(0.99649929,0,0,1.0371727,0.55572251,-2.6116078)">
       <ellipse
-         style="fill:#241c1c;fill-opacity:1;fill-rule:evenodd;stroke-width:7.67857;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-         id="ellipse982"
-         cx="158.75002"
-         cy="72.79821"
+         ry="28.442709"
          rx="29.603634"
-         ry="28.442709" />
+         cy="72.79821"
+         cx="158.75002"
+         id="ellipse982"
+         style="fill:#241c1c;fill-opacity:1;fill-rule:evenodd;stroke-width:7.67857;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
       <ellipse
-         cx="142.21353"
-         cy="68.160599"
-         rx="6.0476179"
-         ry="6.4181833"
-         style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke-width:1.64862;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-         id="path934" />
-      <ellipse
-         id="ellipse85"
+         id="path934"
          style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke-width:1.64862;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
          ry="6.4181833"
          rx="6.0476179"
          cy="68.160599"
-         cx="173.9631" />
+         cx="142.21353" />
+      <ellipse
+         cx="173.9631"
+         cy="68.160599"
+         rx="6.0476179"
+         ry="6.4181833"
+         style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke-width:1.64862;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         id="ellipse85" />
     </g>
     <rect
-       style="opacity:1;fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke-width:6.95224;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-       id="rect1456"
-       width="11.495741"
-       height="127.59606"
-       x="59.869598"
-       y="9.0946751"
-       ry="5.7478704" />
-    <rect
        ry="5.7478704"
-       y="9.0946808"
-       x="246.13466"
+       y="9.0946751"
+       x="59.869598"
        height="127.59606"
        width="11.495741"
-       id="rect48"
+       id="rect1456"
        style="opacity:1;fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke-width:6.95224;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+    <rect
+       style="opacity:1;fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke-width:6.95224;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect48"
+       width="11.495741"
+       height="127.59606"
+       x="246.13466"
+       y="9.0946808"
+       ry="5.7478704" />
   </g>
 </svg>
