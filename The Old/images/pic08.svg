@@ -8,1776 +8,1717 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="368mm"
-   height="256mm"
-   viewBox="0 0 368 256"
-   version="1.1"
-   id="svg963"
+   sodipodi:docname="pic08.svg"
    inkscape:version="1.0 (4035a4f, 2020-05-01)"
-   sodipodi:docname="pic08.svg">
+   id="svg963"
+   version="1.1"
+   viewBox="0 0 368 256"
+   height="256mm"
+   width="368mm">
   <defs
      id="defs957">
     <filter
-       id="filter921"
+       color-interpolation-filters="sRGB"
+       height="1.15459"
+       y="-0.077295095"
+       width="1.13359"
+       x="-0.066793822"
+       id="filter921">
+      <feGaussianBlur
+         stdDeviation="14.953217"
+         id="feGaussianBlur923" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.19337"
+       y="-0.096685737"
+       width="1.1671"
+       x="-0.083550133"
+       id="filter942">
+      <feGaussianBlur
+         stdDeviation="21.31752"
+         id="feGaussianBlur944" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.15605"
+       y="-0.078022949"
+       width="1.12625"
+       x="-0.063125998"
+       id="filter948">
+      <feGaussianBlur
+         stdDeviation="20.344574"
+         id="feGaussianBlur950" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.18089"
+       y="-0.090445414"
+       width="1.15483"
+       x="-0.077413283"
+       id="filter954">
+      <feGaussianBlur
+         stdDeviation="22.528033"
+         id="feGaussianBlur956" />
+    </filter>
+    <filter
        x="-0.066793822"
        width="1.13359"
        y="-0.077295095"
        height="1.15459"
-       color-interpolation-filters="sRGB">
+       color-interpolation-filters="sRGB"
+       id="filter921-3">
       <feGaussianBlur
-         id="feGaussianBlur923"
-         stdDeviation="14.953217" />
+         stdDeviation="14.953217"
+         id="feGaussianBlur923-5" />
     </filter>
     <filter
-       id="filter942"
        x="-0.083550133"
        width="1.1671"
        y="-0.096685737"
        height="1.19337"
-       color-interpolation-filters="sRGB">
+       color-interpolation-filters="sRGB"
+       id="filter942-4">
       <feGaussianBlur
-         id="feGaussianBlur944"
-         stdDeviation="21.31752" />
+         stdDeviation="21.31752"
+         id="feGaussianBlur944-3" />
     </filter>
     <filter
-       id="filter948"
        x="-0.063125998"
        width="1.12625"
        y="-0.078022949"
        height="1.15605"
-       color-interpolation-filters="sRGB">
+       color-interpolation-filters="sRGB"
+       id="filter948-6">
       <feGaussianBlur
-         id="feGaussianBlur950"
-         stdDeviation="20.344574" />
+         stdDeviation="20.344574"
+         id="feGaussianBlur950-5" />
     </filter>
     <filter
-       id="filter954"
        x="-0.077413283"
        width="1.15483"
        y="-0.090445414"
        height="1.18089"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur956"
-         stdDeviation="22.528033" />
-    </filter>
-    <filter
-       id="filter921-3"
        color-interpolation-filters="sRGB"
-       height="1.15459"
-       y="-0.077295095"
-       width="1.13359"
-       x="-0.066793822">
+       id="filter954-9">
       <feGaussianBlur
-         id="feGaussianBlur923-5"
-         stdDeviation="14.953217" />
-    </filter>
-    <filter
-       id="filter942-4"
-       color-interpolation-filters="sRGB"
-       height="1.19337"
-       y="-0.096685737"
-       width="1.1671"
-       x="-0.083550133">
-      <feGaussianBlur
-         id="feGaussianBlur944-3"
-         stdDeviation="21.31752" />
-    </filter>
-    <filter
-       id="filter948-6"
-       color-interpolation-filters="sRGB"
-       height="1.15605"
-       y="-0.078022949"
-       width="1.12625"
-       x="-0.063125998">
-      <feGaussianBlur
-         id="feGaussianBlur950-5"
-         stdDeviation="20.344574" />
-    </filter>
-    <filter
-       id="filter954-9"
-       color-interpolation-filters="sRGB"
-       height="1.18089"
-       y="-0.090445414"
-       width="1.15483"
-       x="-0.077413283">
-      <feGaussianBlur
-         id="feGaussianBlur956-5"
-         stdDeviation="22.528033" />
+         stdDeviation="22.528033"
+         id="feGaussianBlur956-5" />
     </filter>
     <radialGradient
-       id="Gradient-0"
-       cx="22.5823"
-       cy="6.02452"
-       r="11.7114"
-       fx="22.5823"
+       gradientUnits="userSpaceOnUse"
        fy="6.02452"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0"
-         stop-color="#000000"
-         id="stop65" />
-      <stop
-         offset="1"
-         stop-color="#2d2d27"
-         id="stop67" />
-    </radialGradient>
-    <radialGradient
-       id="Gradient-1"
-       cx="6.89985"
-       cy="0.772368"
+       fx="22.5823"
        r="11.7114"
-       fx="6.89985"
-       fy="0.772368"
-       gradientUnits="userSpaceOnUse">
+       cy="6.02452"
+       cx="22.5823"
+       id="Gradient-0">
       <stop
-         offset="0"
-         stop-color="#1b1b1a"
-         id="stop70" />
-      <stop
-         offset="1"
+         id="stop65"
          stop-color="#000000"
+         offset="0" />
+      <stop
+         id="stop67"
+         stop-color="#2d2d27"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       fy="0.772368"
+       fx="6.89985"
+       r="11.7114"
+       cy="0.772368"
+       cx="6.89985"
+       id="Gradient-1">
+      <stop
+         id="stop70"
+         stop-color="#1b1b1a"
+         offset="0" />
+      <stop
+         id="stop72"
          stop-opacity="0.75"
-         id="stop72" />
+         stop-color="#000000"
+         offset="1" />
     </radialGradient>
     <linearGradient
-       id="Gradient-2"
-       x1="13.8199"
-       y1="0.507179"
-       x2="13.919"
+       gradientTransform="matrix(1 0 0 1 0.0247691 -1.75651)"
+       gradientUnits="userSpaceOnUse"
        y2="4.1934"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1 0 0 1 0.0247691 -1.75651)">
+       x2="13.919"
+       y1="0.507179"
+       x1="13.8199"
+       id="Gradient-2">
       <stop
-         offset="0"
+         id="stop75"
          stop-color="#1e190c"
-         id="stop75" />
+         offset="0" />
       <stop
-         offset="1"
+         id="stop77"
          stop-color="#443000"
-         id="stop77" />
+         offset="1" />
     </linearGradient>
     <linearGradient
-       id="Gradient-3"
-       x1="13.8199"
-       y1="-0.284478"
-       x2="13.919"
+       gradientTransform="matrix(1 0 0 1 0.0247691 -0.964844)"
+       gradientUnits="userSpaceOnUse"
        y2="3.40174"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1 0 0 1 0.0247691 -0.964844)">
-      <stop
-         offset="0"
-         stop-color="#1e190c"
-         id="stop80" />
-      <stop
-         offset="1"
-         stop-color="#443000"
-         id="stop82" />
-    </linearGradient>
-    <linearGradient
-       id="Gradient-4"
+       x2="13.919"
+       y1="-0.284478"
        x1="13.8199"
-       y1="-1.22461"
-       x2="13.919"
+       id="Gradient-3">
+      <stop
+         id="stop80"
+         stop-color="#1e190c"
+         offset="0" />
+      <stop
+         id="stop82"
+         stop-color="#443000"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(1 0 0 1 0.0247669 -0.0247397)"
+       gradientUnits="userSpaceOnUse"
        y2="2.4616"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1 0 0 1 0.0247669 -0.0247397)">
-      <stop
-         offset="0"
-         stop-color="#1e190c"
-         id="stop85" />
-      <stop
-         offset="1"
-         stop-color="#443000"
-         id="stop87" />
-    </linearGradient>
-    <linearGradient
-       id="Gradient-5"
-       x1="13.919"
-       y1="-2.21419"
        x2="13.919"
-       y2="1.47203"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1 0 0 1 0.0247674 0.964849)">
+       y1="-1.22461"
+       x1="13.8199"
+       id="Gradient-4">
       <stop
-         offset="0"
+         id="stop85"
          stop-color="#1e190c"
-         id="stop90" />
+         offset="0" />
       <stop
-         offset="1"
+         id="stop87"
          stop-color="#443000"
-         id="stop92" />
+         offset="1" />
     </linearGradient>
     <linearGradient
-       id="Gradient-6"
-       x1="30.4215"
-       y1="66.7835"
-       x2="29.76"
+       gradientTransform="matrix(1 0 0 1 0.0247674 0.964849)"
+       gradientUnits="userSpaceOnUse"
+       y2="1.47203"
+       x2="13.919"
+       y1="-2.21419"
+       x1="13.919"
+       id="Gradient-5">
+      <stop
+         id="stop90"
+         stop-color="#1e190c"
+         offset="0" />
+      <stop
+         id="stop92"
+         stop-color="#443000"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(1,0,0,1.50089,0,9.59048)"
+       gradientUnits="userSpaceOnUse"
        y2="-38.1867"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,1.50089,0,9.59048)">
+       x2="29.76"
+       y1="66.7835"
+       x1="30.4215"
+       id="Gradient-6">
       <stop
-         offset="0"
+         id="stop95"
          stop-color="#50443d"
-         id="stop95" />
+         offset="0" />
       <stop
-         offset="1"
+         id="stop97"
          stop-color="#28170b"
-         id="stop97" />
+         offset="1" />
     </linearGradient>
     <radialGradient
-       id="Gradient-7"
-       cx="254"
-       cy="142.875"
-       r="160.659"
-       fx="254"
-       fy="142.875"
+       gradientTransform="matrix(26.0926,0.522793,-0.0850496,4.24481,-5655.38,-199.267)"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(26.0926,0.522793,-0.0850496,4.24481,-5655.38,-199.267)">
+       fy="142.875"
+       fx="254"
+       r="160.659"
+       cy="142.875"
+       cx="254"
+       id="Gradient-7">
       <stop
-         offset="0"
+         id="stop100"
          stop-color="#6c5d53"
-         id="stop100" />
+         offset="0" />
       <stop
-         offset="0.898437"
+         id="stop102"
          stop-color="#28170b"
-         id="stop102" />
+         offset="0.898437" />
     </radialGradient>
     <radialGradient
-       id="Gradient-8"
-       cx="254"
-       cy="142.875"
-       r="160.659"
-       fx="254"
-       fy="142.875"
+       gradientTransform="matrix(26.0926,0.522793,-0.0850496,4.24481,-5655.38,-199.267)"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(26.0926,0.522793,-0.0850496,4.24481,-5655.38,-199.267)">
+       fy="142.875"
+       fx="254"
+       r="160.659"
+       cy="142.875"
+       cx="254"
+       id="Gradient-8">
       <stop
-         offset="0"
+         id="stop105"
          stop-color="#6c5d53"
-         id="stop105" />
+         offset="0" />
       <stop
-         offset="1"
+         id="stop107"
          stop-color="#28170b"
-         id="stop107" />
+         offset="1" />
     </radialGradient>
     <linearGradient
-       y2="4.1934"
-       x2="13.919"
-       y1="0.507179"
-       x1="13.8199"
-       gradientTransform="translate(0.0247691,-1.75651)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient649"
-       xlink:href="#Gradient-2"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="3.40174"
-       x2="13.919"
-       y1="-0.284478"
-       x1="13.8199"
-       gradientTransform="translate(0.0247691,-0.964844)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient651"
-       xlink:href="#Gradient-3"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="2.4616"
-       x2="13.919"
-       y1="-1.22461"
-       x1="13.8199"
-       gradientTransform="translate(0.0247669,-0.0247397)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient653"
-       xlink:href="#Gradient-4"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="1.47203"
-       x2="13.919"
-       y1="-2.21419"
-       x1="13.919"
-       gradientTransform="translate(0.0247674,0.964849)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient655"
+       inkscape:collect="always"
        xlink:href="#Gradient-5"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="2.4616"
-       x2="13.919"
-       y1="-1.22461"
-       x1="13.8199"
-       gradientTransform="translate(0.0247669,-0.0247397)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient661"
-       xlink:href="#Gradient-4"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="1.47203"
-       x2="13.919"
-       y1="-2.21419"
-       x1="13.919"
-       gradientTransform="translate(0.0247674,0.964849)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient663"
-       xlink:href="#Gradient-5"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="1.47203"
-       x2="13.919"
-       y1="-2.21419"
-       x1="13.919"
-       gradientTransform="translate(0.0247674,0.964849)"
-       gradientUnits="userSpaceOnUse"
        id="linearGradient665"
-       xlink:href="#Gradient-5"
-       inkscape:collect="always" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.0247674,0.964849)"
+       x1="13.919"
+       y1="-2.21419"
+       x2="13.919"
+       y2="1.47203" />
     <clipPath
-       id="clipPath780"
-       clipPathUnits="userSpaceOnUse">
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath780">
       <g
-         id="use782"
-         inkscape:label="Clip">
+         inkscape:label="Clip"
+         id="use782">
         <g
-           transform="translate(-79.125673,-9.1928802)"
-           id="g1583">
+           id="g1583"
+           transform="translate(-79.125673,-9.1928802)">
           <g
-             transform="translate(-9.872,-21.555)"
-             id="g1375">
+             id="g1375"
+             transform="translate(-9.872,-21.555)">
             <rect
-               style="fill:url(#radialGradient1589);paint-order:fill markers stroke"
-               transform="matrix(21.3659,0,0,21.3894,-2.18091e-4,52.659528)"
-               stroke-width="0.551979"
-               stroke-linejoin="round"
-               stroke-linecap="square"
-               fill-rule="evenodd"
-               fill-opacity="1"
-               fill="url(#Gradient-0)"
-               width="25.0394"
-               height="13.2024"
+               y="0"
+               x="0"
                id="rect1369"
-               x="0"
-               y="0" />
-            <rect
-               style="fill:url(#radialGradient1591);paint-order:fill markers stroke"
-               transform="matrix(21.3659,0,0,21.3894,5.0693532,3.2504e-6)"
-               stroke-width="0.551979"
-               stroke-linejoin="round"
-               stroke-linecap="square"
-               fill-rule="evenodd"
-               fill-opacity="1"
-               fill="url(#Gradient-1)"
-               width="23.776199"
-               height="12.7715"
-               id="rect1371"
-               x="0"
-               y="0" />
-            <rect
-               style="paint-order:fill markers stroke"
-               transform="matrix(-19.746,0,0,-20.123,278.70401,212.74626)"
-               stroke-width="1.92187"
-               stroke-miterlimit="4"
-               stroke-linejoin="round"
-               stroke-linecap="round"
-               stroke-dasharray="none"
-               stroke="none"
-               fill-rule="evenodd"
-               fill-opacity="1"
-               fill="#2b0011"
-               height="7.1359401"
-               width="0.98389602"
-               id="rect1373"
-               x="0"
-               y="0" />
-          </g>
-          <g
-             id="g1551"
-             transform="translate(-8.376,-45.45)">
-            <g
-               transform="translate(0,229.6807)"
-               id="g1453">
-              <rect
-                 style="fill:url(#linearGradient1593);paint-order:fill markers stroke"
-                 transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,14.124393)"
-                 filter="brightness(0.7)"
-                 stroke-width="0.551979"
-                 stroke-miterlimit="4"
-                 stroke-linejoin="round"
-                 stroke-linecap="square"
-                 stroke-dasharray="none"
-                 stroke="none"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="url(#Gradient-2)"
-                 height="2.5976701"
-                 width="25.0394"
-                 id="rect1377"
-                 x="0"
-                 y="0" />
-              <path
-                 transform="matrix(21.3659,0,0,21.3894,487.23794,5.4707928)"
-                 d="M 0,0 H 0.528561 V 2.77896 H 0 Z"
-                 stroke-width="0.879047"
-                 stroke-miterlimit="4"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 stroke-dasharray="none"
-                 stroke="none"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="#2b0011"
-                 id="path1379" />
-              <rect
-                 style="paint-order:fill markers stroke"
-                 transform="matrix(21.3659,0,0,21.3894,73.600677,3.953714)"
-                 stroke-width="0.816618"
-                 stroke-miterlimit="4"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 stroke-dasharray="none"
-                 stroke="none"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="#2b0011"
-                 height="2.77896"
-                 width="0.45615101"
-                 id="rect1381"
-                 x="0"
-                 y="0" />
-              <g
-                 transform="matrix(3.32378,0,0,3.3021,65.1064,-6.5107)"
-                 id="g1411">
-                <g
-                   transform="matrix(1.5834,0,0,1.5834,122.334,-3.37401)"
-                   id="g1395">
-                  <circle
-                     style="paint-order:fill markers stroke"
-                     transform="translate(4.02173,9.48666)"
-                     stroke-width="0.0890342"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     fill-rule="evenodd"
-                     fill-opacity="1"
-                     fill="#782121"
-                     display="inline"
-                     id="circle1383"
-                     cx="0"
-                     cy="0"
-                     r="3.7083299" />
-                  <circle
-                     style="paint-order:fill markers stroke"
-                     transform="translate(4.02173,9.48666)"
-                     filter="blur(0.4px)"
-                     stroke-width="0.0890342"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     fill-rule="evenodd"
-                     fill-opacity="1"
-                     fill="#782121"
-                     display="inline"
-                     id="circle1385"
-                     cx="0"
-                     cy="0"
-                     r="3.7083299" />
-                  <circle
-                     style="paint-order:fill markers stroke"
-                     transform="translate(4.02173,9.48666)"
-                     stroke-width="0.0686616"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     fill-rule="evenodd"
-                     fill="#280b0b"
-                     display="inline"
-                     id="circle1387"
-                     cx="0"
-                     cy="0"
-                     r="2.8598101" />
-                  <g
-                     transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7041,-3.26178)"
-                     id="g1393">
-                    <ellipse
-                       style="paint-order:fill markers stroke"
-                       transform="translate(235.836,150.3)"
-                       stroke-width="1.81691"
-                       stroke-linejoin="round"
-                       stroke-linecap="round"
-                       fill-rule="evenodd"
-                       fill-opacity="1"
-                       fill="#d45500"
-                       rx="6.6649699"
-                       ry="7.07336"
-                       id="ellipse1389"
-                       cx="0"
-                       cy="0" />
-                    <ellipse
-                       style="paint-order:fill markers stroke"
-                       transform="translate(270.105,149.992)"
-                       display="inline"
-                       ry="7.07336"
-                       rx="6.6649699"
-                       fill="#d45500"
-                       fill-opacity="1"
-                       fill-rule="evenodd"
-                       stroke-linecap="round"
-                       stroke-linejoin="round"
-                       stroke-width="1.81691"
-                       id="ellipse1391"
-                       cx="0"
-                       cy="0" />
-                  </g>
-                </g>
-                <g
-                   id="g1409"
-                   transform="translate(0.3134,4.07939)">
-                  <circle
-                     style="paint-order:fill markers stroke"
-                     transform="translate(3.70833,3.70833)"
-                     stroke-width="0.0890342"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     fill-rule="evenodd"
-                     fill="#782121"
-                     display="inline"
-                     id="circle1397"
-                     cx="0"
-                     cy="0"
-                     r="3.7083299" />
-                  <circle
-                     style="paint-order:fill markers stroke"
-                     transform="translate(3.70833,3.70833)"
-                     filter="blur(0.4px)"
-                     stroke-width="0.0890342"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     fill-rule="evenodd"
-                     fill="#782121"
-                     display="inline"
-                     id="circle1399"
-                     cx="0"
-                     cy="0"
-                     r="3.7083299" />
-                  <circle
-                     style="paint-order:fill markers stroke"
-                     transform="translate(3.70833,3.70833)"
-                     stroke-width="0.0686616"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     fill-rule="evenodd"
-                     fill="#280b0b"
-                     display="inline"
-                     id="circle1401"
-                     cx="0"
-                     cy="0"
-                     r="2.8598101" />
-                  <g
-                     transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-17.0175,-9.04011)"
-                     display="inline"
-                     id="g1407">
-                    <ellipse
-                       style="paint-order:fill markers stroke"
-                       transform="translate(235.836,150.3)"
-                       stroke-width="1.81691"
-                       stroke-linejoin="round"
-                       stroke-linecap="round"
-                       fill-rule="evenodd"
-                       fill-opacity="1"
-                       fill="#d45500"
-                       rx="6.6649699"
-                       ry="7.07336"
-                       id="ellipse1403"
-                       cx="0"
-                       cy="0" />
-                    <ellipse
-                       style="paint-order:fill markers stroke"
-                       transform="translate(270.105,149.992)"
-                       display="inline"
-                       ry="7.07336"
-                       rx="6.6649699"
-                       fill="#d45500"
-                       fill-opacity="1"
-                       fill-rule="evenodd"
-                       stroke-linecap="round"
-                       stroke-linejoin="round"
-                       stroke-width="1.81691"
-                       id="ellipse1405"
-                       cx="0"
-                       cy="0" />
-                  </g>
-                </g>
-              </g>
-              <rect
-                 style="fill:url(#linearGradient1595);paint-order:fill markers stroke"
-                 transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,30.576098)"
-                 filter="brightness(0.85)"
-                 stroke-width="0.551979"
-                 stroke-miterlimit="4"
-                 stroke-linejoin="round"
-                 stroke-linecap="square"
-                 stroke-dasharray="none"
-                 stroke="none"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="url(#Gradient-3)"
-                 width="25.0394"
-                 height="2.5976701"
-                 id="rect1413"
-                 x="0"
-                 y="0" />
-              <rect
-                 style="paint-order:fill markers stroke"
-                 transform="matrix(21.3659,0,0,21.3894,381.82636,19.325013)"
-                 stroke-width="1.4778"
-                 stroke-miterlimit="4"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 stroke-dasharray="none"
-                 stroke="none"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="#2b0011"
-                 width="0.59043598"
-                 height="5.1707101"
-                 id="rect1415"
-                 x="0"
-                 y="0" />
-              <g
-                 transform="matrix(4.96481,0,0,4.93241,368.167,-1.7763)"
-                 display="none"
-                 id="g1429">
-                <circle
-                   style="paint-order:fill markers stroke"
-                   transform="translate(4.02173,9.48666)"
-                   stroke-width="0.0890342"
-                   stroke-linejoin="round"
-                   stroke-linecap="round"
-                   fill-rule="evenodd"
-                   fill="#782121"
-                   id="circle1417"
-                   cx="0"
-                   cy="0"
-                   r="3.7083299" />
-                <circle
-                   style="paint-order:fill markers stroke"
-                   transform="translate(4.02173,9.48666)"
-                   filter="blur(0.4px)"
-                   stroke-width="0.0890342"
-                   stroke-linejoin="round"
-                   stroke-linecap="round"
-                   fill-rule="evenodd"
-                   fill="#782121"
-                   id="circle1419"
-                   cx="0"
-                   cy="0"
-                   r="3.7083299" />
-                <circle
-                   style="paint-order:fill markers stroke"
-                   transform="translate(4.02173,9.48666)"
-                   stroke-width="0.0686616"
-                   stroke-linejoin="round"
-                   stroke-linecap="round"
-                   fill-rule="evenodd"
-                   fill="#280b0b"
-                   id="circle1421"
-                   cx="0"
-                   cy="0"
-                   r="2.8598101" />
-                <g
-                   transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7041,-3.26178)"
-                   id="g1427">
-                  <ellipse
-                     style="paint-order:fill markers stroke"
-                     transform="translate(235.836,150.3)"
-                     ry="7.07336"
-                     rx="6.6649699"
-                     fill="#d45500"
-                     fill-opacity="1"
-                     fill-rule="evenodd"
-                     stroke-linecap="round"
-                     stroke-linejoin="round"
-                     stroke-width="1.81691"
-                     id="ellipse1423"
-                     cx="0"
-                     cy="0" />
-                  <ellipse
-                     style="paint-order:fill markers stroke"
-                     transform="translate(270.105,149.992)"
-                     stroke-width="1.81691"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     fill-rule="evenodd"
-                     fill-opacity="1"
-                     fill="#d45500"
-                     rx="6.6649699"
-                     ry="7.07336"
-                     id="ellipse1425"
-                     cx="0"
-                     cy="0" />
-                </g>
-              </g>
-              <rect
-                 style="fill:url(#linearGradient1597);paint-order:fill markers stroke"
-                 transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,50.378412)"
-                 filter="brightness(0.95)"
-                 stroke-width="0.551979"
-                 stroke-miterlimit="4"
-                 stroke-linejoin="round"
-                 stroke-linecap="square"
-                 stroke-dasharray="none"
-                 stroke="none"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="url(#Gradient-4)"
-                 height="2.5976701"
-                 width="25.0394"
-                 id="rect1431"
-                 x="0"
-                 y="0" />
-              <rect
-                 style="paint-order:fill markers stroke"
-                 transform="matrix(16.3354,0,0,16.3534,191.99365,36.491248)"
-                 stroke-width="1.84168"
-                 stroke-miterlimit="4"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 stroke-dasharray="none"
-                 stroke="none"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="#2b0011"
-                 height="5.0309801"
-                 width="0.91699398"
-                 id="rect1433"
-                 x="0"
-                 y="0" />
-              <g
-                 id="g1449"
-                 transform="translate(178.8267,40.7538)"
-                 display="none">
-                <g
-                   transform="matrix(5.57023,0,0,5.53387,-1.74571,-31.9765)"
-                   id="g1447">
-                  <circle
-                     style="paint-order:fill markers stroke"
-                     transform="translate(4.02173,9.48666)"
-                     stroke-width="0.0890342"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     fill-rule="evenodd"
-                     fill="#782121"
-                     id="circle1435"
-                     cx="0"
-                     cy="0"
-                     r="3.7083299" />
-                  <circle
-                     style="paint-order:fill markers stroke"
-                     transform="translate(4.02173,9.48666)"
-                     filter="blur(0.4px)"
-                     stroke-width="0.0890342"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     fill-rule="evenodd"
-                     fill="#782121"
-                     id="circle1437"
-                     cx="0"
-                     cy="0"
-                     r="3.7083299" />
-                  <circle
-                     style="paint-order:fill markers stroke"
-                     transform="translate(4.02173,9.48666)"
-                     stroke-width="0.0686616"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     fill-rule="evenodd"
-                     fill="#280b0b"
-                     id="circle1439"
-                     cx="0"
-                     cy="0"
-                     r="2.8598101" />
-                  <g
-                     transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7041,-3.26178)"
-                     id="g1445">
-                    <ellipse
-                       style="paint-order:fill markers stroke"
-                       transform="translate(235.836,150.3)"
-                       stroke-width="1.81691"
-                       stroke-linejoin="round"
-                       stroke-linecap="round"
-                       fill-rule="evenodd"
-                       fill-opacity="1"
-                       fill="#d45500"
-                       rx="6.6649699"
-                       ry="7.07336"
-                       id="ellipse1441"
-                       cx="0"
-                       cy="0" />
-                    <ellipse
-                       style="paint-order:fill markers stroke"
-                       transform="translate(270.105,149.992)"
-                       ry="7.07336"
-                       rx="6.6649699"
-                       fill="#d45500"
-                       fill-opacity="1"
-                       fill-rule="evenodd"
-                       stroke-linecap="round"
-                       stroke-linejoin="round"
-                       stroke-width="1.81691"
-                       id="ellipse1443"
-                       cx="0"
-                       cy="0" />
-                  </g>
-                </g>
-              </g>
-              <rect
-                 style="fill:url(#linearGradient1599);paint-order:fill markers stroke"
-                 transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,72.180223)"
-                 stroke-width="0.551979"
-                 stroke-miterlimit="4"
-                 stroke-linejoin="round"
-                 stroke-linecap="square"
-                 stroke-dasharray="none"
-                 stroke="none"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="url(#Gradient-5)"
-                 width="25.0394"
-                 height="2.5976701"
-                 id="rect1451"
-                 x="0"
-                 y="0" />
-            </g>
-            <g
-               transform="rotate(180,267.495,56.8852)"
-               id="g1549">
-              <path
-                 transform="matrix(-13.6843,0,0,-13.6994,337.49142,80.008459)"
-                 d="M 0,0 H 0.384515 V 7.03098 H 0 Z"
-                 stroke-width="1.19258"
-                 stroke-miterlimit="4"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 stroke-dasharray="none"
-                 stroke="none"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="#2b0011"
-                 id="path1455" />
-              <g
-                 transform="matrix(2.69629,0,0,2.67869,324.017,-28.6704)"
-                 id="g1469">
-                <circle
-                   style="paint-order:fill markers stroke"
-                   transform="translate(4.02173,9.48666)"
-                   stroke-width="0.0890342"
-                   stroke-linejoin="round"
-                   stroke-linecap="round"
-                   fill-rule="evenodd"
-                   fill="#782121"
-                   id="circle1457"
-                   cx="0"
-                   cy="0"
-                   r="3.7083299" />
-                <circle
-                   style="paint-order:fill markers stroke"
-                   transform="translate(4.02173,9.48666)"
-                   filter="blur(0.4px)"
-                   stroke-width="0.0890342"
-                   stroke-linejoin="round"
-                   stroke-linecap="round"
-                   fill-rule="evenodd"
-                   fill="#782121"
-                   id="circle1459"
-                   cx="0"
-                   cy="0"
-                   r="3.7083299" />
-                <circle
-                   style="paint-order:fill markers stroke"
-                   transform="translate(4.02173,9.48666)"
-                   stroke-width="0.0686616"
-                   stroke-linejoin="round"
-                   stroke-linecap="round"
-                   fill-rule="evenodd"
-                   fill="#280b0b"
-                   display="inline"
-                   id="circle1461"
-                   cx="0"
-                   cy="0"
-                   r="2.8598101" />
-                <g
-                   transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7041,-3.26178)"
-                   id="g1467">
-                  <ellipse
-                     style="paint-order:fill markers stroke"
-                     transform="translate(235.836,150.3)"
-                     stroke-width="1.81691"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     fill-rule="evenodd"
-                     fill-opacity="1"
-                     fill="#d45500"
-                     rx="6.6649699"
-                     ry="7.07336"
-                     id="ellipse1463"
-                     cx="0"
-                     cy="0" />
-                  <ellipse
-                     style="paint-order:fill markers stroke"
-                     transform="translate(270.105,149.992)"
-                     ry="7.07336"
-                     rx="6.6649699"
-                     fill="#d45500"
-                     fill-opacity="1"
-                     fill-rule="evenodd"
-                     stroke-linecap="round"
-                     stroke-linejoin="round"
-                     stroke-width="1.81691"
-                     id="ellipse1465"
-                     cx="0"
-                     cy="0" />
-                </g>
-              </g>
-              <rect
-                 style="fill:url(#linearGradient1601);paint-order:fill markers stroke"
-                 transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,-5.9166069)"
-                 filter="brightness(0.7)"
-                 stroke-width="0.551979"
-                 stroke-miterlimit="4"
-                 stroke-linejoin="round"
-                 stroke-linecap="square"
-                 stroke-dasharray="none"
-                 stroke="none"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="url(#Gradient-2)"
-                 height="2.5976701"
-                 width="25.0394"
-                 id="rect1471"
-                 x="0"
-                 y="0" />
-              <g
-                 transform="matrix(4.20982,0,0,4.18235,52.6627,-28.0426)"
-                 id="g1489">
-                <g
-                   id="g1475"
-                   transform="matrix(0.3,0,0,0.2,2.789345,4.6256)">
-                  <rect
-                     style="paint-order:fill markers stroke"
-                     transform="matrix(21.3659,0,0,21.3894,-2.7838e-4,-4.4113587)"
-                     stroke-width="1.19258"
-                     stroke-miterlimit="4"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     stroke-dasharray="none"
-                     stroke="none"
-                     fill-rule="evenodd"
-                     fill-opacity="1"
-                     fill="#2b0011"
-                     width="0.38451499"
-                     height="5.9204602"
-                     id="rect1473"
-                     x="0"
-                     y="0" />
-                </g>
-                <g
-                   transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7042,-3.64371)"
-                   id="g1487">
-                  <circle
-                     style="paint-order:fill markers stroke"
-                     transform="matrix(12.077023,-0.24461223,0.22186084,12.920857,253.13424,159.65091)"
-                     stroke-width="0.0890342"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     fill-rule="evenodd"
-                     fill="#782121"
-                     id="circle1477"
-                     cx="0"
-                     cy="0"
-                     r="3.7083299" />
-                  <circle
-                     style="paint-order:fill markers stroke"
-                     transform="matrix(12.077023,-0.24461223,0.22186084,12.920857,253.13424,159.65091)"
-                     filter="blur(0.4px)"
-                     stroke-width="0.0890342"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     fill-rule="evenodd"
-                     fill="#782121"
-                     id="circle1479"
-                     cx="0"
-                     cy="0"
-                     r="3.7083299" />
-                  <circle
-                     style="paint-order:fill markers stroke"
-                     transform="matrix(12.077023,-0.24461223,0.22186084,12.920857,253.13424,159.65091)"
-                     stroke-width="0.0686616"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     fill-rule="evenodd"
-                     fill="#280b0b"
-                     display="inline"
-                     id="circle1481"
-                     cx="0"
-                     cy="0"
-                     r="2.8598101" />
-                  <ellipse
-                     style="paint-order:fill markers stroke"
-                     transform="translate(235.836,150.3)"
-                     ry="7.07336"
-                     rx="6.6649699"
-                     fill="#d45500"
-                     fill-opacity="1"
-                     fill-rule="evenodd"
-                     stroke-linecap="round"
-                     stroke-linejoin="round"
-                     stroke-width="1.81691"
-                     id="ellipse1483"
-                     cx="0"
-                     cy="0" />
-                  <ellipse
-                     style="paint-order:fill markers stroke"
-                     transform="translate(270.105,149.992)"
-                     stroke-width="1.81691"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     fill-rule="evenodd"
-                     fill-opacity="1"
-                     fill="#d45500"
-                     rx="6.6649699"
-                     ry="7.07336"
-                     id="ellipse1485"
-                     cx="0"
-                     cy="0" />
-                </g>
-              </g>
-              <rect
-                 style="fill:url(#linearGradient1603);paint-order:fill markers stroke"
-                 transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,10.449098)"
-                 filter="brightness(0.85)"
-                 stroke-width="0.551979"
-                 stroke-miterlimit="4"
-                 stroke-linejoin="round"
-                 stroke-linecap="square"
-                 stroke-dasharray="none"
-                 stroke="none"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="url(#Gradient-3)"
-                 width="25.0394"
-                 height="2.5976701"
-                 id="rect1491"
-                 x="0"
-                 y="0" />
-              <rect
-                 style="fill:url(#linearGradient1605);paint-order:fill markers stroke"
-                 transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,30.251412)"
-                 filter="brightness(0.95)"
-                 stroke-width="0.551979"
-                 stroke-miterlimit="4"
-                 stroke-linejoin="round"
-                 stroke-linecap="square"
-                 stroke-dasharray="none"
-                 stroke="none"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="url(#Gradient-4)"
-                 height="2.5976701"
-                 width="25.0394"
-                 id="rect1493"
-                 x="0"
-                 y="0" />
-              <path
-                 transform="matrix(21.3659,0,0,21.3894,456.51548,11.249425)"
-                 d="M 0,0 H 0.952019 V 4.90173 H 0 Z"
-                 stroke-width="1.92265"
-                 stroke-miterlimit="4"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 stroke-dasharray="none"
-                 stroke="none"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="#2b0011"
-                 id="path1495" />
-              <g
-                 transform="matrix(7.59819,0,0,7.54862,436.128,-23.901)"
-                 id="g1509">
-                <circle
-                   style="paint-order:fill markers stroke"
-                   transform="translate(4.02173,9.48666)"
-                   stroke-width="0.0890342"
-                   stroke-linejoin="round"
-                   stroke-linecap="round"
-                   fill-rule="evenodd"
-                   fill="#782121"
-                   id="circle1497"
-                   cx="0"
-                   cy="0"
-                   r="3.7083299" />
-                <circle
-                   style="paint-order:fill markers stroke"
-                   transform="translate(4.02173,9.48666)"
-                   filter="blur(0.4px)"
-                   stroke-width="0.0890342"
-                   stroke-linejoin="round"
-                   stroke-linecap="round"
-                   fill-rule="evenodd"
-                   fill="#782121"
-                   id="circle1499"
-                   cx="0"
-                   cy="0"
-                   r="3.7083299" />
-                <circle
-                   style="paint-order:fill markers stroke"
-                   transform="translate(4.02173,9.48666)"
-                   stroke-width="0.0686616"
-                   stroke-linejoin="round"
-                   stroke-linecap="round"
-                   fill-rule="evenodd"
-                   fill="#280b0b"
-                   display="inline"
-                   id="circle1501"
-                   cx="0"
-                   cy="0"
-                   r="2.8598101" />
-                <g
-                   transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7041,-3.26178)"
-                   id="g1507">
-                  <path
-                     transform="translate(234.24654,150.33219)"
-                     d="M 6.66497,0 C 6.66497,3.90651 3.68096,7.07336 0,7.07336 -3.68096,7.07336 -6.66497,3.90651 -6.66497,0 c 0,-3.90651 2.98401,-7.07336 6.66497,-7.07336 3.68096,0 6.66497,3.16685 6.66497,7.07336 z"
-                     stroke-width="1.81691"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     fill-rule="evenodd"
-                     fill-opacity="1"
-                     fill="#d45500"
-                     id="path1503" />
-                  <ellipse
-                     style="paint-order:fill markers stroke"
-                     transform="translate(266.92608,150.05639)"
-                     stroke-width="1.81691"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     fill-rule="evenodd"
-                     fill-opacity="1"
-                     fill="#d45500"
-                     rx="6.6649699"
-                     ry="7.07336"
-                     id="ellipse1505"
-                     cx="0"
-                     cy="0" />
-                </g>
-              </g>
-              <g
-                 transform="matrix(-7.1842298,2.4737287,-2.4575903,-7.1373604,295.68236,-352.29996)"
-                 id="g1523">
-                <circle
-                   style="paint-order:fill markers stroke"
-                   transform="translate(4.02173,9.48666)"
-                   stroke-width="0.0890342"
-                   stroke-linejoin="round"
-                   stroke-linecap="round"
-                   fill-rule="evenodd"
-                   fill="#782121"
-                   id="circle1511"
-                   cx="0"
-                   cy="0"
-                   r="3.7083299" />
-                <circle
-                   style="paint-order:fill markers stroke"
-                   transform="translate(4.02173,9.48666)"
-                   filter="blur(0.4px)"
-                   stroke-width="0.0890342"
-                   stroke-linejoin="round"
-                   stroke-linecap="round"
-                   fill-rule="evenodd"
-                   fill="#782121"
-                   id="circle1513"
-                   cx="0"
-                   cy="0"
-                   r="3.7083299" />
-                <circle
-                   style="paint-order:fill markers stroke"
-                   transform="translate(4.02173,9.48666)"
-                   stroke-width="0.0686616"
-                   stroke-linejoin="round"
-                   stroke-linecap="round"
-                   fill-rule="evenodd"
-                   fill="#280b0b"
-                   id="circle1515"
-                   cx="0"
-                   cy="0"
-                   r="2.8598101" />
-                <g
-                   transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7041,-3.26178)"
-                   id="g1521">
-                  <path
-                     transform="translate(234.24654,150.33219)"
-                     d="M 6.66497,0 C 6.66497,3.90651 3.68096,7.07336 0,7.07336 -3.68096,7.07336 -6.66497,3.90651 -6.66497,0 c 0,-3.90651 2.98401,-7.07336 6.66497,-7.07336 3.68096,0 6.66497,3.16685 6.66497,7.07336 z"
-                     stroke-width="1.81691"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     fill-rule="evenodd"
-                     fill-opacity="1"
-                     fill="#d45500"
-                     id="path1517" />
-                  <ellipse
-                     style="paint-order:fill markers stroke"
-                     transform="translate(266.92608,150.05639)"
-                     stroke-width="1.81691"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     fill-rule="evenodd"
-                     fill-opacity="1"
-                     fill="#d45500"
-                     rx="6.6649699"
-                     ry="7.07336"
-                     id="ellipse1519"
-                     cx="0"
-                     cy="0" />
-                </g>
-              </g>
-              <path
-                 transform="matrix(18.196,0,0,19.2257,-38.845478,-235.1567)"
-                 d="m 0,-4.22871 h 0.952019 l 2.86e-4,3.1703 L 0.655115,-1.37248 0.292819,-1.05841 0,-1.37248 Z"
-                 stroke-width="1.92265"
-                 stroke-miterlimit="4"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 stroke-dasharray="none"
-                 stroke="none"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="#2b0011"
-                 id="path1525" />
-              <path
-                 transform="matrix(18.196,0,0,19.2257,609.58252,-229.1567)"
-                 d="m 0,-4.22871 h 0.952019 v 2.85623 L 0.659201,-1.75869 0.274501,-1.37248 0,-1.75869 Z"
-                 stroke-width="1.92265"
-                 stroke-miterlimit="4"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 stroke-dasharray="none"
-                 stroke="none"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="#2b0011"
-                 id="path1527" />
-              <rect
-                 style="fill:url(#linearGradient1607);paint-order:fill markers stroke"
-                 transform="matrix(-0.4,0,0,-0.4,279.041,71.2347)"
-                 stroke-width="8.97812"
-                 stroke-miterlimit="4"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 stroke-dasharray="none"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="url(#Gradient-6)"
-                 ry="9.163998e-14"
-                 height="204.088"
-                 width="57.730202"
-                 id="rect1529"
-                 x="0"
-                 y="0" />
-              <rect
-                 style="paint-order:fill markers stroke"
-                 transform="matrix(-24.3428,0,0,-24.3696,187.53439,208.59026)"
-                 stroke-width="1.19258"
-                 stroke-miterlimit="4"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 stroke-dasharray="none"
-                 stroke="none"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="#2b0011"
-                 height="7.0309801"
-                 width="0.38451499"
-                 id="rect1531"
-                 x="0"
-                 y="0" />
-              <g
-                 transform="translate(165.2664,41.7577)"
-                 id="g1545">
-                <circle
-                   style="paint-order:fill markers stroke"
-                   transform="matrix(4.79638,0,0,4.76508,17.786555,17.670494)"
-                   stroke-width="0.0890342"
-                   stroke-linejoin="round"
-                   stroke-linecap="round"
-                   fill-rule="evenodd"
-                   fill="#782121"
-                   id="circle1533"
-                   cx="0"
-                   cy="0"
-                   r="3.7083299" />
-                <circle
-                   style="paint-order:fill markers stroke"
-                   transform="matrix(4.79638,0,0,4.76508,17.786555,17.670494)"
-                   filter="blur(0.4px)"
-                   stroke-width="0.0890342"
-                   stroke-linejoin="round"
-                   stroke-linecap="round"
-                   fill-rule="evenodd"
-                   fill="#782121"
-                   id="circle1535"
-                   cx="0"
-                   cy="0"
-                   r="3.7083299" />
-                <circle
-                   style="paint-order:fill markers stroke"
-                   transform="matrix(4.79638,0,0,4.76508,17.786555,17.670494)"
-                   stroke-width="0.0686616"
-                   stroke-linejoin="round"
-                   stroke-linecap="round"
-                   fill-rule="evenodd"
-                   fill="#280b0b"
-                   id="circle1537"
-                   cx="0"
-                   cy="0"
-                   r="2.8598101" />
-                <g
-                   transform="matrix(0.39701179,0.00746698,-0.00681696,0.368662,-81.6224,-43.0768)"
-                   id="g1543">
-                  <ellipse
-                     style="paint-order:fill markers stroke"
-                     transform="translate(235.836,150.3)"
-                     stroke-width="1.81691"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     fill-rule="evenodd"
-                     fill-opacity="1"
-                     fill="#d45500"
-                     rx="6.6649699"
-                     ry="7.07336"
-                     id="ellipse1539"
-                     cx="0"
-                     cy="0" />
-                  <ellipse
-                     style="paint-order:fill markers stroke"
-                     transform="translate(270.105,149.992)"
-                     stroke-width="1.81691"
-                     stroke-linejoin="round"
-                     stroke-linecap="round"
-                     fill-rule="evenodd"
-                     fill-opacity="1"
-                     fill="#d45500"
-                     ry="7.07336"
-                     rx="6.6649699"
-                     id="ellipse1541"
-                     cx="0"
-                     cy="0" />
-                </g>
-              </g>
-              <rect
-                 style="fill:url(#linearGradient1609);paint-order:fill markers stroke"
-                 transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,52.053223)"
-                 stroke-width="0.551979"
-                 stroke-miterlimit="4"
-                 stroke-linejoin="round"
-                 stroke-linecap="square"
-                 stroke-dasharray="none"
-                 stroke="none"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="url(#Gradient-5)"
-                 width="25.0394"
-                 height="2.5976701"
-                 id="rect1547"
-                 x="0"
-                 y="0" />
-            </g>
-          </g>
-          <g
-             id="g1567"
-             transform="matrix(0.4,0,0,0.4,194.8548,52.0392)">
-            <g
-               transform="matrix(40.4123,0,0,40.1487,-1.86444,-172.549)"
-               id="g1565">
-              <circle
-                 style="paint-order:fill markers stroke"
-                 transform="translate(4.02173,9.48666)"
-                 stroke-width="0.0890342"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 fill-rule="evenodd"
-                 fill="#782121"
-                 display="inline"
-                 id="circle1553"
-                 cx="0"
-                 cy="0"
-                 r="3.7083299" />
-              <circle
-                 style="paint-order:fill markers stroke"
-                 transform="translate(4.02173,9.48666)"
-                 filter="blur(0.2px)"
-                 stroke-width="0.0890342"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 fill-rule="evenodd"
-                 fill="#782121"
-                 display="inline"
-                 id="circle1555"
-                 cx="0"
-                 cy="0"
-                 r="3.7083299" />
-              <circle
-                 style="paint-order:fill markers stroke"
-                 transform="translate(4.02173,9.48666)"
-                 stroke-width="0.0686616"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 fill-rule="evenodd"
-                 fill="#280b0b"
-                 display="inline"
-                 id="circle1557"
-                 cx="0"
-                 cy="0"
-                 r="2.8598101" />
-              <g
-                 transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7041,-3.26178)"
-                 display="inline"
-                 id="g1563">
-                <ellipse
-                   style="paint-order:fill markers stroke"
-                   transform="translate(235.836,150.3)"
-                   ry="7.07336"
-                   rx="6.6649699"
-                   fill="#d45500"
-                   fill-opacity="1"
-                   fill-rule="evenodd"
-                   stroke-linecap="round"
-                   stroke-linejoin="round"
-                   stroke-width="1.81691"
-                   id="ellipse1559"
-                   cx="0"
-                   cy="0" />
-                <ellipse
-                   style="paint-order:fill markers stroke"
-                   transform="translate(270.105,149.992)"
-                   display="inline"
-                   stroke-width="1.81691"
-                   stroke-linejoin="round"
-                   stroke-linecap="round"
-                   fill-rule="evenodd"
-                   fill-opacity="1"
-                   fill="#d45500"
-                   rx="6.6649699"
-                   ry="7.07336"
-                   id="ellipse1561"
-                   cx="0"
-                   cy="0" />
-              </g>
-            </g>
-          </g>
-          <g
-             transform="matrix(0.44,0,0,0.44,188.42848,23.85508)"
-             id="g1577">
-            <g
-               transform="translate(-0.001,0.001)"
-               filter="blur(10px)"
-               id="g1571">
-              <path
-                 style="fill:url(#radialGradient1611);paint-order:fill markers stroke"
-                 transform="matrix(0.264583,0,0,0.264583,-93.3409,65.01)"
-                 filter="blur(20px) brightness(1.31)"
-                 stroke-width="18.7604"
-                 stroke-miterlimit="4"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 stroke-dasharray="none"
-                 fill-rule="evenodd"
-                 fill="url(#Gradient-7)"
-                 d="m 500.607,160.988 c -81.893,0 -147.822,65.929 -147.822,147.823 v 462.378 c 0,81.894 65.929,147.823 147.822,147.823 h 918.783 c 81.9,0 147.82,-65.929 147.82,-147.823 V 308.811 c 0,-81.894 -65.92,-147.823 -147.82,-147.823 z m 995.123,159.141"
-                 id="path1569" />
-            </g>
-            <path
-               transform="translate(111.4811,89.4992)"
-               filter=""
-               d="m 0,0 h 98.3552 c 0,0 0,0 0,0 v 25.1233 c 0,0 0,0 0,0 H 0 c 0,0 0,0 0,0 V 0 c 0,0 0,0 0,0 z"
-               stroke-width="5.56066"
-               stroke-miterlimit="4"
-               stroke-linejoin="round"
-               stroke-linecap="round"
-               stroke-dasharray="none"
-               fill-rule="evenodd"
-               fill="#550000"
-               id="path1573" />
-            <path
-               style="fill:url(#radialGradient1613);paint-order:fill markers stroke"
-               transform="matrix(0.264583,0,0,0.264583,-93.3409,64.7373)"
-               stroke-width="18.7604"
-               stroke-miterlimit="4"
-               stroke-linejoin="round"
-               stroke-linecap="round"
-               stroke-dasharray="none"
-               fill-rule="evenodd"
-               fill="url(#Gradient-8)"
-               d="m 500.607,160.988 c -81.893,0 -147.822,65.929 -147.822,147.823 v 462.378 c 0,81.894 65.929,147.823 147.822,147.823 h 918.783 c 81.9,0 147.82,-65.929 147.82,-147.823 V 308.811 c 0,-81.894 -65.92,-147.823 -147.82,-147.823 z m 995.123,159.141"
-               id="path1575" />
-          </g>
-          <g
-             id="g1581"
-             transform="rotate(180,263.3075,5.42745)">
-            <rect
-               style="fill:url(#linearGradient1615);paint-order:fill markers stroke"
-               transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,-5.2457771)"
-               stroke-width="0.551979"
-               stroke-miterlimit="4"
-               stroke-linejoin="round"
-               stroke-linecap="square"
-               stroke-dasharray="none"
-               stroke="none"
-               fill-rule="evenodd"
-               fill-opacity="1"
-               fill="url(#Gradient-5)"
+               height="13.2024"
                width="25.0394"
-               height="2.5976701"
-               id="rect1579"
+               fill="url(#Gradient-0)"
+               fill-opacity="1"
+               fill-rule="evenodd"
+               stroke-linecap="square"
+               stroke-linejoin="round"
+               stroke-width="0.551979"
+               transform="matrix(21.3659,0,0,21.3894,-2.18091e-4,52.659528)"
+               style="fill:url(#radialGradient1589);paint-order:fill markers stroke" />
+            <rect
+               y="0"
                x="0"
-               y="0" />
+               id="rect1371"
+               height="12.7715"
+               width="23.776199"
+               fill="url(#Gradient-1)"
+               fill-opacity="1"
+               fill-rule="evenodd"
+               stroke-linecap="square"
+               stroke-linejoin="round"
+               stroke-width="0.551979"
+               transform="matrix(21.3659,0,0,21.3894,5.0693532,3.2504e-6)"
+               style="fill:url(#radialGradient1591);paint-order:fill markers stroke" />
+            <rect
+               y="0"
+               x="0"
+               id="rect1373"
+               width="0.98389602"
+               height="7.1359401"
+               fill="#2b0011"
+               fill-opacity="1"
+               fill-rule="evenodd"
+               stroke="none"
+               stroke-dasharray="none"
+               stroke-linecap="round"
+               stroke-linejoin="round"
+               stroke-miterlimit="4"
+               stroke-width="1.92187"
+               transform="matrix(-19.746,0,0,-20.123,278.70401,212.74626)"
+               style="paint-order:fill markers stroke" />
+          </g>
+          <g
+             transform="translate(-8.376,-45.45)"
+             id="g1551">
+            <g
+               id="g1453"
+               transform="translate(0,229.6807)">
+              <rect
+                 y="0"
+                 x="0"
+                 id="rect1377"
+                 width="25.0394"
+                 height="2.5976701"
+                 fill="url(#Gradient-2)"
+                 fill-opacity="1"
+                 fill-rule="evenodd"
+                 stroke="none"
+                 stroke-dasharray="none"
+                 stroke-linecap="square"
+                 stroke-linejoin="round"
+                 stroke-miterlimit="4"
+                 stroke-width="0.551979"
+                 filter="brightness(0.7)"
+                 transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,14.124393)"
+                 style="fill:url(#linearGradient1593);paint-order:fill markers stroke" />
+              <path
+                 id="path1379"
+                 fill="#2b0011"
+                 fill-opacity="1"
+                 fill-rule="evenodd"
+                 stroke="none"
+                 stroke-dasharray="none"
+                 stroke-linecap="round"
+                 stroke-linejoin="round"
+                 stroke-miterlimit="4"
+                 stroke-width="0.879047"
+                 d="M 0,0 H 0.528561 V 2.77896 H 0 Z"
+                 transform="matrix(21.3659,0,0,21.3894,487.23794,5.4707928)" />
+              <rect
+                 y="0"
+                 x="0"
+                 id="rect1381"
+                 width="0.45615101"
+                 height="2.77896"
+                 fill="#2b0011"
+                 fill-opacity="1"
+                 fill-rule="evenodd"
+                 stroke="none"
+                 stroke-dasharray="none"
+                 stroke-linecap="round"
+                 stroke-linejoin="round"
+                 stroke-miterlimit="4"
+                 stroke-width="0.816618"
+                 transform="matrix(21.3659,0,0,21.3894,73.600677,3.953714)"
+                 style="paint-order:fill markers stroke" />
+              <g
+                 id="g1411"
+                 transform="matrix(3.32378,0,0,3.3021,65.1064,-6.5107)">
+                <g
+                   id="g1395"
+                   transform="matrix(1.5834,0,0,1.5834,122.334,-3.37401)">
+                  <circle
+                     r="3.7083299"
+                     cy="0"
+                     cx="0"
+                     id="circle1383"
+                     display="inline"
+                     fill="#782121"
+                     fill-opacity="1"
+                     fill-rule="evenodd"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-width="0.0890342"
+                     transform="translate(4.02173,9.48666)"
+                     style="paint-order:fill markers stroke" />
+                  <circle
+                     r="3.7083299"
+                     cy="0"
+                     cx="0"
+                     id="circle1385"
+                     display="inline"
+                     fill="#782121"
+                     fill-opacity="1"
+                     fill-rule="evenodd"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-width="0.0890342"
+                     filter="blur(0.4px)"
+                     transform="translate(4.02173,9.48666)"
+                     style="paint-order:fill markers stroke" />
+                  <circle
+                     r="2.8598101"
+                     cy="0"
+                     cx="0"
+                     id="circle1387"
+                     display="inline"
+                     fill="#280b0b"
+                     fill-rule="evenodd"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-width="0.0686616"
+                     transform="translate(4.02173,9.48666)"
+                     style="paint-order:fill markers stroke" />
+                  <g
+                     id="g1393"
+                     transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7041,-3.26178)">
+                    <ellipse
+                       cy="0"
+                       cx="0"
+                       id="ellipse1389"
+                       ry="7.07336"
+                       rx="6.6649699"
+                       fill="#d45500"
+                       fill-opacity="1"
+                       fill-rule="evenodd"
+                       stroke-linecap="round"
+                       stroke-linejoin="round"
+                       stroke-width="1.81691"
+                       transform="translate(235.836,150.3)"
+                       style="paint-order:fill markers stroke" />
+                    <ellipse
+                       cy="0"
+                       cx="0"
+                       id="ellipse1391"
+                       stroke-width="1.81691"
+                       stroke-linejoin="round"
+                       stroke-linecap="round"
+                       fill-rule="evenodd"
+                       fill-opacity="1"
+                       fill="#d45500"
+                       rx="6.6649699"
+                       ry="7.07336"
+                       display="inline"
+                       transform="translate(270.105,149.992)"
+                       style="paint-order:fill markers stroke" />
+                  </g>
+                </g>
+                <g
+                   transform="translate(0.3134,4.07939)"
+                   id="g1409">
+                  <circle
+                     r="3.7083299"
+                     cy="0"
+                     cx="0"
+                     id="circle1397"
+                     display="inline"
+                     fill="#782121"
+                     fill-rule="evenodd"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-width="0.0890342"
+                     transform="translate(3.70833,3.70833)"
+                     style="paint-order:fill markers stroke" />
+                  <circle
+                     r="3.7083299"
+                     cy="0"
+                     cx="0"
+                     id="circle1399"
+                     display="inline"
+                     fill="#782121"
+                     fill-rule="evenodd"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-width="0.0890342"
+                     filter="blur(0.4px)"
+                     transform="translate(3.70833,3.70833)"
+                     style="paint-order:fill markers stroke" />
+                  <circle
+                     r="2.8598101"
+                     cy="0"
+                     cx="0"
+                     id="circle1401"
+                     display="inline"
+                     fill="#280b0b"
+                     fill-rule="evenodd"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-width="0.0686616"
+                     transform="translate(3.70833,3.70833)"
+                     style="paint-order:fill markers stroke" />
+                  <g
+                     id="g1407"
+                     display="inline"
+                     transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-17.0175,-9.04011)">
+                    <ellipse
+                       cy="0"
+                       cx="0"
+                       id="ellipse1403"
+                       ry="7.07336"
+                       rx="6.6649699"
+                       fill="#d45500"
+                       fill-opacity="1"
+                       fill-rule="evenodd"
+                       stroke-linecap="round"
+                       stroke-linejoin="round"
+                       stroke-width="1.81691"
+                       transform="translate(235.836,150.3)"
+                       style="paint-order:fill markers stroke" />
+                    <ellipse
+                       cy="0"
+                       cx="0"
+                       id="ellipse1405"
+                       stroke-width="1.81691"
+                       stroke-linejoin="round"
+                       stroke-linecap="round"
+                       fill-rule="evenodd"
+                       fill-opacity="1"
+                       fill="#d45500"
+                       rx="6.6649699"
+                       ry="7.07336"
+                       display="inline"
+                       transform="translate(270.105,149.992)"
+                       style="paint-order:fill markers stroke" />
+                  </g>
+                </g>
+              </g>
+              <rect
+                 y="0"
+                 x="0"
+                 id="rect1413"
+                 height="2.5976701"
+                 width="25.0394"
+                 fill="url(#Gradient-3)"
+                 fill-opacity="1"
+                 fill-rule="evenodd"
+                 stroke="none"
+                 stroke-dasharray="none"
+                 stroke-linecap="square"
+                 stroke-linejoin="round"
+                 stroke-miterlimit="4"
+                 stroke-width="0.551979"
+                 filter="brightness(0.85)"
+                 transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,30.576098)"
+                 style="fill:url(#linearGradient1595);paint-order:fill markers stroke" />
+              <rect
+                 y="0"
+                 x="0"
+                 id="rect1415"
+                 height="5.1707101"
+                 width="0.59043598"
+                 fill="#2b0011"
+                 fill-opacity="1"
+                 fill-rule="evenodd"
+                 stroke="none"
+                 stroke-dasharray="none"
+                 stroke-linecap="round"
+                 stroke-linejoin="round"
+                 stroke-miterlimit="4"
+                 stroke-width="1.4778"
+                 transform="matrix(21.3659,0,0,21.3894,381.82636,19.325013)"
+                 style="paint-order:fill markers stroke" />
+              <g
+                 id="g1429"
+                 display="none"
+                 transform="matrix(4.96481,0,0,4.93241,368.167,-1.7763)">
+                <circle
+                   r="3.7083299"
+                   cy="0"
+                   cx="0"
+                   id="circle1417"
+                   fill="#782121"
+                   fill-rule="evenodd"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-width="0.0890342"
+                   transform="translate(4.02173,9.48666)"
+                   style="paint-order:fill markers stroke" />
+                <circle
+                   r="3.7083299"
+                   cy="0"
+                   cx="0"
+                   id="circle1419"
+                   fill="#782121"
+                   fill-rule="evenodd"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-width="0.0890342"
+                   filter="blur(0.4px)"
+                   transform="translate(4.02173,9.48666)"
+                   style="paint-order:fill markers stroke" />
+                <circle
+                   r="2.8598101"
+                   cy="0"
+                   cx="0"
+                   id="circle1421"
+                   fill="#280b0b"
+                   fill-rule="evenodd"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-width="0.0686616"
+                   transform="translate(4.02173,9.48666)"
+                   style="paint-order:fill markers stroke" />
+                <g
+                   id="g1427"
+                   transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7041,-3.26178)">
+                  <ellipse
+                     cy="0"
+                     cx="0"
+                     id="ellipse1423"
+                     stroke-width="1.81691"
+                     stroke-linejoin="round"
+                     stroke-linecap="round"
+                     fill-rule="evenodd"
+                     fill-opacity="1"
+                     fill="#d45500"
+                     rx="6.6649699"
+                     ry="7.07336"
+                     transform="translate(235.836,150.3)"
+                     style="paint-order:fill markers stroke" />
+                  <ellipse
+                     cy="0"
+                     cx="0"
+                     id="ellipse1425"
+                     ry="7.07336"
+                     rx="6.6649699"
+                     fill="#d45500"
+                     fill-opacity="1"
+                     fill-rule="evenodd"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-width="1.81691"
+                     transform="translate(270.105,149.992)"
+                     style="paint-order:fill markers stroke" />
+                </g>
+              </g>
+              <rect
+                 y="0"
+                 x="0"
+                 id="rect1431"
+                 width="25.0394"
+                 height="2.5976701"
+                 fill="url(#Gradient-4)"
+                 fill-opacity="1"
+                 fill-rule="evenodd"
+                 stroke="none"
+                 stroke-dasharray="none"
+                 stroke-linecap="square"
+                 stroke-linejoin="round"
+                 stroke-miterlimit="4"
+                 stroke-width="0.551979"
+                 filter="brightness(0.95)"
+                 transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,50.378412)"
+                 style="fill:url(#linearGradient1597);paint-order:fill markers stroke" />
+              <rect
+                 y="0"
+                 x="0"
+                 id="rect1433"
+                 width="0.91699398"
+                 height="5.0309801"
+                 fill="#2b0011"
+                 fill-opacity="1"
+                 fill-rule="evenodd"
+                 stroke="none"
+                 stroke-dasharray="none"
+                 stroke-linecap="round"
+                 stroke-linejoin="round"
+                 stroke-miterlimit="4"
+                 stroke-width="1.84168"
+                 transform="matrix(16.3354,0,0,16.3534,191.99365,36.491248)"
+                 style="paint-order:fill markers stroke" />
+              <g
+                 display="none"
+                 transform="translate(178.8267,40.7538)"
+                 id="g1449">
+                <g
+                   id="g1447"
+                   transform="matrix(5.57023,0,0,5.53387,-1.74571,-31.9765)">
+                  <circle
+                     r="3.7083299"
+                     cy="0"
+                     cx="0"
+                     id="circle1435"
+                     fill="#782121"
+                     fill-rule="evenodd"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-width="0.0890342"
+                     transform="translate(4.02173,9.48666)"
+                     style="paint-order:fill markers stroke" />
+                  <circle
+                     r="3.7083299"
+                     cy="0"
+                     cx="0"
+                     id="circle1437"
+                     fill="#782121"
+                     fill-rule="evenodd"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-width="0.0890342"
+                     filter="blur(0.4px)"
+                     transform="translate(4.02173,9.48666)"
+                     style="paint-order:fill markers stroke" />
+                  <circle
+                     r="2.8598101"
+                     cy="0"
+                     cx="0"
+                     id="circle1439"
+                     fill="#280b0b"
+                     fill-rule="evenodd"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-width="0.0686616"
+                     transform="translate(4.02173,9.48666)"
+                     style="paint-order:fill markers stroke" />
+                  <g
+                     id="g1445"
+                     transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7041,-3.26178)">
+                    <ellipse
+                       cy="0"
+                       cx="0"
+                       id="ellipse1441"
+                       ry="7.07336"
+                       rx="6.6649699"
+                       fill="#d45500"
+                       fill-opacity="1"
+                       fill-rule="evenodd"
+                       stroke-linecap="round"
+                       stroke-linejoin="round"
+                       stroke-width="1.81691"
+                       transform="translate(235.836,150.3)"
+                       style="paint-order:fill markers stroke" />
+                    <ellipse
+                       cy="0"
+                       cx="0"
+                       id="ellipse1443"
+                       stroke-width="1.81691"
+                       stroke-linejoin="round"
+                       stroke-linecap="round"
+                       fill-rule="evenodd"
+                       fill-opacity="1"
+                       fill="#d45500"
+                       rx="6.6649699"
+                       ry="7.07336"
+                       transform="translate(270.105,149.992)"
+                       style="paint-order:fill markers stroke" />
+                  </g>
+                </g>
+              </g>
+              <rect
+                 y="0"
+                 x="0"
+                 id="rect1451"
+                 height="2.5976701"
+                 width="25.0394"
+                 fill="url(#Gradient-5)"
+                 fill-opacity="1"
+                 fill-rule="evenodd"
+                 stroke="none"
+                 stroke-dasharray="none"
+                 stroke-linecap="square"
+                 stroke-linejoin="round"
+                 stroke-miterlimit="4"
+                 stroke-width="0.551979"
+                 transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,72.180223)"
+                 style="fill:url(#linearGradient1599);paint-order:fill markers stroke" />
+            </g>
+            <g
+               id="g1549"
+               transform="rotate(180,267.495,56.8852)">
+              <path
+                 id="path1455"
+                 fill="#2b0011"
+                 fill-opacity="1"
+                 fill-rule="evenodd"
+                 stroke="none"
+                 stroke-dasharray="none"
+                 stroke-linecap="round"
+                 stroke-linejoin="round"
+                 stroke-miterlimit="4"
+                 stroke-width="1.19258"
+                 d="M 0,0 H 0.384515 V 7.03098 H 0 Z"
+                 transform="matrix(-13.6843,0,0,-13.6994,337.49142,80.008459)" />
+              <g
+                 id="g1469"
+                 transform="matrix(2.69629,0,0,2.67869,324.017,-28.6704)">
+                <circle
+                   r="3.7083299"
+                   cy="0"
+                   cx="0"
+                   id="circle1457"
+                   fill="#782121"
+                   fill-rule="evenodd"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-width="0.0890342"
+                   transform="translate(4.02173,9.48666)"
+                   style="paint-order:fill markers stroke" />
+                <circle
+                   r="3.7083299"
+                   cy="0"
+                   cx="0"
+                   id="circle1459"
+                   fill="#782121"
+                   fill-rule="evenodd"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-width="0.0890342"
+                   filter="blur(0.4px)"
+                   transform="translate(4.02173,9.48666)"
+                   style="paint-order:fill markers stroke" />
+                <circle
+                   r="2.8598101"
+                   cy="0"
+                   cx="0"
+                   id="circle1461"
+                   display="inline"
+                   fill="#280b0b"
+                   fill-rule="evenodd"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-width="0.0686616"
+                   transform="translate(4.02173,9.48666)"
+                   style="paint-order:fill markers stroke" />
+                <g
+                   id="g1467"
+                   transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7041,-3.26178)">
+                  <ellipse
+                     cy="0"
+                     cx="0"
+                     id="ellipse1463"
+                     ry="7.07336"
+                     rx="6.6649699"
+                     fill="#d45500"
+                     fill-opacity="1"
+                     fill-rule="evenodd"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-width="1.81691"
+                     transform="translate(235.836,150.3)"
+                     style="paint-order:fill markers stroke" />
+                  <ellipse
+                     cy="0"
+                     cx="0"
+                     id="ellipse1465"
+                     stroke-width="1.81691"
+                     stroke-linejoin="round"
+                     stroke-linecap="round"
+                     fill-rule="evenodd"
+                     fill-opacity="1"
+                     fill="#d45500"
+                     rx="6.6649699"
+                     ry="7.07336"
+                     transform="translate(270.105,149.992)"
+                     style="paint-order:fill markers stroke" />
+                </g>
+              </g>
+              <rect
+                 y="0"
+                 x="0"
+                 id="rect1471"
+                 width="25.0394"
+                 height="2.5976701"
+                 fill="url(#Gradient-2)"
+                 fill-opacity="1"
+                 fill-rule="evenodd"
+                 stroke="none"
+                 stroke-dasharray="none"
+                 stroke-linecap="square"
+                 stroke-linejoin="round"
+                 stroke-miterlimit="4"
+                 stroke-width="0.551979"
+                 filter="brightness(0.7)"
+                 transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,-5.9166069)"
+                 style="fill:url(#linearGradient1601);paint-order:fill markers stroke" />
+              <g
+                 id="g1489"
+                 transform="matrix(4.20982,0,0,4.18235,52.6627,-28.0426)">
+                <g
+                   transform="matrix(0.3,0,0,0.2,2.789345,4.6256)"
+                   id="g1475">
+                  <rect
+                     y="0"
+                     x="0"
+                     id="rect1473"
+                     height="5.9204602"
+                     width="0.38451499"
+                     fill="#2b0011"
+                     fill-opacity="1"
+                     fill-rule="evenodd"
+                     stroke="none"
+                     stroke-dasharray="none"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-miterlimit="4"
+                     stroke-width="1.19258"
+                     transform="matrix(21.3659,0,0,21.3894,-2.7838e-4,-4.4113587)"
+                     style="paint-order:fill markers stroke" />
+                </g>
+                <g
+                   id="g1487"
+                   transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7042,-3.64371)">
+                  <circle
+                     r="3.7083299"
+                     cy="0"
+                     cx="0"
+                     id="circle1477"
+                     fill="#782121"
+                     fill-rule="evenodd"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-width="0.0890342"
+                     transform="matrix(12.077023,-0.24461223,0.22186084,12.920857,253.13424,159.65091)"
+                     style="paint-order:fill markers stroke" />
+                  <circle
+                     r="3.7083299"
+                     cy="0"
+                     cx="0"
+                     id="circle1479"
+                     fill="#782121"
+                     fill-rule="evenodd"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-width="0.0890342"
+                     filter="blur(0.4px)"
+                     transform="matrix(12.077023,-0.24461223,0.22186084,12.920857,253.13424,159.65091)"
+                     style="paint-order:fill markers stroke" />
+                  <circle
+                     r="2.8598101"
+                     cy="0"
+                     cx="0"
+                     id="circle1481"
+                     display="inline"
+                     fill="#280b0b"
+                     fill-rule="evenodd"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-width="0.0686616"
+                     transform="matrix(12.077023,-0.24461223,0.22186084,12.920857,253.13424,159.65091)"
+                     style="paint-order:fill markers stroke" />
+                  <ellipse
+                     cy="0"
+                     cx="0"
+                     id="ellipse1483"
+                     stroke-width="1.81691"
+                     stroke-linejoin="round"
+                     stroke-linecap="round"
+                     fill-rule="evenodd"
+                     fill-opacity="1"
+                     fill="#d45500"
+                     rx="6.6649699"
+                     ry="7.07336"
+                     transform="translate(235.836,150.3)"
+                     style="paint-order:fill markers stroke" />
+                  <ellipse
+                     cy="0"
+                     cx="0"
+                     id="ellipse1485"
+                     ry="7.07336"
+                     rx="6.6649699"
+                     fill="#d45500"
+                     fill-opacity="1"
+                     fill-rule="evenodd"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-width="1.81691"
+                     transform="translate(270.105,149.992)"
+                     style="paint-order:fill markers stroke" />
+                </g>
+              </g>
+              <rect
+                 y="0"
+                 x="0"
+                 id="rect1491"
+                 height="2.5976701"
+                 width="25.0394"
+                 fill="url(#Gradient-3)"
+                 fill-opacity="1"
+                 fill-rule="evenodd"
+                 stroke="none"
+                 stroke-dasharray="none"
+                 stroke-linecap="square"
+                 stroke-linejoin="round"
+                 stroke-miterlimit="4"
+                 stroke-width="0.551979"
+                 filter="brightness(0.85)"
+                 transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,10.449098)"
+                 style="fill:url(#linearGradient1603);paint-order:fill markers stroke" />
+              <rect
+                 y="0"
+                 x="0"
+                 id="rect1493"
+                 width="25.0394"
+                 height="2.5976701"
+                 fill="url(#Gradient-4)"
+                 fill-opacity="1"
+                 fill-rule="evenodd"
+                 stroke="none"
+                 stroke-dasharray="none"
+                 stroke-linecap="square"
+                 stroke-linejoin="round"
+                 stroke-miterlimit="4"
+                 stroke-width="0.551979"
+                 filter="brightness(0.95)"
+                 transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,30.251412)"
+                 style="fill:url(#linearGradient1605);paint-order:fill markers stroke" />
+              <path
+                 id="path1495"
+                 fill="#2b0011"
+                 fill-opacity="1"
+                 fill-rule="evenodd"
+                 stroke="none"
+                 stroke-dasharray="none"
+                 stroke-linecap="round"
+                 stroke-linejoin="round"
+                 stroke-miterlimit="4"
+                 stroke-width="1.92265"
+                 d="M 0,0 H 0.952019 V 4.90173 H 0 Z"
+                 transform="matrix(21.3659,0,0,21.3894,456.51548,11.249425)" />
+              <g
+                 id="g1509"
+                 transform="matrix(7.59819,0,0,7.54862,436.128,-23.901)">
+                <circle
+                   r="3.7083299"
+                   cy="0"
+                   cx="0"
+                   id="circle1497"
+                   fill="#782121"
+                   fill-rule="evenodd"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-width="0.0890342"
+                   transform="translate(4.02173,9.48666)"
+                   style="paint-order:fill markers stroke" />
+                <circle
+                   r="3.7083299"
+                   cy="0"
+                   cx="0"
+                   id="circle1499"
+                   fill="#782121"
+                   fill-rule="evenodd"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-width="0.0890342"
+                   filter="blur(0.4px)"
+                   transform="translate(4.02173,9.48666)"
+                   style="paint-order:fill markers stroke" />
+                <circle
+                   r="2.8598101"
+                   cy="0"
+                   cx="0"
+                   id="circle1501"
+                   display="inline"
+                   fill="#280b0b"
+                   fill-rule="evenodd"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-width="0.0686616"
+                   transform="translate(4.02173,9.48666)"
+                   style="paint-order:fill markers stroke" />
+                <g
+                   id="g1507"
+                   transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7041,-3.26178)">
+                  <path
+                     id="path1503"
+                     fill="#d45500"
+                     fill-opacity="1"
+                     fill-rule="evenodd"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-width="1.81691"
+                     d="M 6.66497,0 C 6.66497,3.90651 3.68096,7.07336 0,7.07336 -3.68096,7.07336 -6.66497,3.90651 -6.66497,0 c 0,-3.90651 2.98401,-7.07336 6.66497,-7.07336 3.68096,0 6.66497,3.16685 6.66497,7.07336 z"
+                     transform="translate(234.24654,150.33219)" />
+                  <ellipse
+                     cy="0"
+                     cx="0"
+                     id="ellipse1505"
+                     ry="7.07336"
+                     rx="6.6649699"
+                     fill="#d45500"
+                     fill-opacity="1"
+                     fill-rule="evenodd"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-width="1.81691"
+                     transform="translate(266.92608,150.05639)"
+                     style="paint-order:fill markers stroke" />
+                </g>
+              </g>
+              <g
+                 id="g1523"
+                 transform="matrix(-7.1842298,2.4737287,-2.4575903,-7.1373604,295.68236,-352.29996)">
+                <circle
+                   r="3.7083299"
+                   cy="0"
+                   cx="0"
+                   id="circle1511"
+                   fill="#782121"
+                   fill-rule="evenodd"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-width="0.0890342"
+                   transform="translate(4.02173,9.48666)"
+                   style="paint-order:fill markers stroke" />
+                <circle
+                   r="3.7083299"
+                   cy="0"
+                   cx="0"
+                   id="circle1513"
+                   fill="#782121"
+                   fill-rule="evenodd"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-width="0.0890342"
+                   filter="blur(0.4px)"
+                   transform="translate(4.02173,9.48666)"
+                   style="paint-order:fill markers stroke" />
+                <circle
+                   r="2.8598101"
+                   cy="0"
+                   cx="0"
+                   id="circle1515"
+                   fill="#280b0b"
+                   fill-rule="evenodd"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-width="0.0686616"
+                   transform="translate(4.02173,9.48666)"
+                   style="paint-order:fill markers stroke" />
+                <g
+                   id="g1521"
+                   transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7041,-3.26178)">
+                  <path
+                     id="path1517"
+                     fill="#d45500"
+                     fill-opacity="1"
+                     fill-rule="evenodd"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-width="1.81691"
+                     d="M 6.66497,0 C 6.66497,3.90651 3.68096,7.07336 0,7.07336 -3.68096,7.07336 -6.66497,3.90651 -6.66497,0 c 0,-3.90651 2.98401,-7.07336 6.66497,-7.07336 3.68096,0 6.66497,3.16685 6.66497,7.07336 z"
+                     transform="translate(234.24654,150.33219)" />
+                  <ellipse
+                     cy="0"
+                     cx="0"
+                     id="ellipse1519"
+                     ry="7.07336"
+                     rx="6.6649699"
+                     fill="#d45500"
+                     fill-opacity="1"
+                     fill-rule="evenodd"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-width="1.81691"
+                     transform="translate(266.92608,150.05639)"
+                     style="paint-order:fill markers stroke" />
+                </g>
+              </g>
+              <path
+                 id="path1525"
+                 fill="#2b0011"
+                 fill-opacity="1"
+                 fill-rule="evenodd"
+                 stroke="none"
+                 stroke-dasharray="none"
+                 stroke-linecap="round"
+                 stroke-linejoin="round"
+                 stroke-miterlimit="4"
+                 stroke-width="1.92265"
+                 d="m 0,-4.22871 h 0.952019 l 2.86e-4,3.1703 L 0.655115,-1.37248 0.292819,-1.05841 0,-1.37248 Z"
+                 transform="matrix(18.196,0,0,19.2257,-38.845478,-235.1567)" />
+              <path
+                 id="path1527"
+                 fill="#2b0011"
+                 fill-opacity="1"
+                 fill-rule="evenodd"
+                 stroke="none"
+                 stroke-dasharray="none"
+                 stroke-linecap="round"
+                 stroke-linejoin="round"
+                 stroke-miterlimit="4"
+                 stroke-width="1.92265"
+                 d="m 0,-4.22871 h 0.952019 v 2.85623 L 0.659201,-1.75869 0.274501,-1.37248 0,-1.75869 Z"
+                 transform="matrix(18.196,0,0,19.2257,609.58252,-229.1567)" />
+              <rect
+                 y="0"
+                 x="0"
+                 id="rect1529"
+                 width="57.730202"
+                 height="204.088"
+                 ry="9.163998e-14"
+                 fill="url(#Gradient-6)"
+                 fill-opacity="1"
+                 fill-rule="evenodd"
+                 stroke-dasharray="none"
+                 stroke-linecap="round"
+                 stroke-linejoin="round"
+                 stroke-miterlimit="4"
+                 stroke-width="8.97812"
+                 transform="matrix(-0.4,0,0,-0.4,279.041,71.2347)"
+                 style="fill:url(#linearGradient1607);paint-order:fill markers stroke" />
+              <rect
+                 y="0"
+                 x="0"
+                 id="rect1531"
+                 width="0.38451499"
+                 height="7.0309801"
+                 fill="#2b0011"
+                 fill-opacity="1"
+                 fill-rule="evenodd"
+                 stroke="none"
+                 stroke-dasharray="none"
+                 stroke-linecap="round"
+                 stroke-linejoin="round"
+                 stroke-miterlimit="4"
+                 stroke-width="1.19258"
+                 transform="matrix(-24.3428,0,0,-24.3696,187.53439,208.59026)"
+                 style="paint-order:fill markers stroke" />
+              <g
+                 id="g1545"
+                 transform="translate(165.2664,41.7577)">
+                <circle
+                   r="3.7083299"
+                   cy="0"
+                   cx="0"
+                   id="circle1533"
+                   fill="#782121"
+                   fill-rule="evenodd"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-width="0.0890342"
+                   transform="matrix(4.79638,0,0,4.76508,17.786555,17.670494)"
+                   style="paint-order:fill markers stroke" />
+                <circle
+                   r="3.7083299"
+                   cy="0"
+                   cx="0"
+                   id="circle1535"
+                   fill="#782121"
+                   fill-rule="evenodd"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-width="0.0890342"
+                   filter="blur(0.4px)"
+                   transform="matrix(4.79638,0,0,4.76508,17.786555,17.670494)"
+                   style="paint-order:fill markers stroke" />
+                <circle
+                   r="2.8598101"
+                   cy="0"
+                   cx="0"
+                   id="circle1537"
+                   fill="#280b0b"
+                   fill-rule="evenodd"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-width="0.0686616"
+                   transform="matrix(4.79638,0,0,4.76508,17.786555,17.670494)"
+                   style="paint-order:fill markers stroke" />
+                <g
+                   id="g1543"
+                   transform="matrix(0.39701179,0.00746698,-0.00681696,0.368662,-81.6224,-43.0768)">
+                  <ellipse
+                     cy="0"
+                     cx="0"
+                     id="ellipse1539"
+                     ry="7.07336"
+                     rx="6.6649699"
+                     fill="#d45500"
+                     fill-opacity="1"
+                     fill-rule="evenodd"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-width="1.81691"
+                     transform="translate(235.836,150.3)"
+                     style="paint-order:fill markers stroke" />
+                  <ellipse
+                     cy="0"
+                     cx="0"
+                     id="ellipse1541"
+                     rx="6.6649699"
+                     ry="7.07336"
+                     fill="#d45500"
+                     fill-opacity="1"
+                     fill-rule="evenodd"
+                     stroke-linecap="round"
+                     stroke-linejoin="round"
+                     stroke-width="1.81691"
+                     transform="translate(270.105,149.992)"
+                     style="paint-order:fill markers stroke" />
+                </g>
+              </g>
+              <rect
+                 y="0"
+                 x="0"
+                 id="rect1547"
+                 height="2.5976701"
+                 width="25.0394"
+                 fill="url(#Gradient-5)"
+                 fill-opacity="1"
+                 fill-rule="evenodd"
+                 stroke="none"
+                 stroke-dasharray="none"
+                 stroke-linecap="square"
+                 stroke-linejoin="round"
+                 stroke-miterlimit="4"
+                 stroke-width="0.551979"
+                 transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,52.053223)"
+                 style="fill:url(#linearGradient1609);paint-order:fill markers stroke" />
+            </g>
+          </g>
+          <g
+             transform="matrix(0.4,0,0,0.4,194.8548,52.0392)"
+             id="g1567">
+            <g
+               id="g1565"
+               transform="matrix(40.4123,0,0,40.1487,-1.86444,-172.549)">
+              <circle
+                 r="3.7083299"
+                 cy="0"
+                 cx="0"
+                 id="circle1553"
+                 display="inline"
+                 fill="#782121"
+                 fill-rule="evenodd"
+                 stroke-linecap="round"
+                 stroke-linejoin="round"
+                 stroke-width="0.0890342"
+                 transform="translate(4.02173,9.48666)"
+                 style="paint-order:fill markers stroke" />
+              <circle
+                 r="3.7083299"
+                 cy="0"
+                 cx="0"
+                 id="circle1555"
+                 display="inline"
+                 fill="#782121"
+                 fill-rule="evenodd"
+                 stroke-linecap="round"
+                 stroke-linejoin="round"
+                 stroke-width="0.0890342"
+                 filter="blur(0.2px)"
+                 transform="translate(4.02173,9.48666)"
+                 style="paint-order:fill markers stroke" />
+              <circle
+                 r="2.8598101"
+                 cy="0"
+                 cx="0"
+                 id="circle1557"
+                 display="inline"
+                 fill="#280b0b"
+                 fill-rule="evenodd"
+                 stroke-linecap="round"
+                 stroke-linejoin="round"
+                 stroke-width="0.0686616"
+                 transform="translate(4.02173,9.48666)"
+                 style="paint-order:fill markers stroke" />
+              <g
+                 id="g1563"
+                 display="inline"
+                 transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7041,-3.26178)">
+                <ellipse
+                   cy="0"
+                   cx="0"
+                   id="ellipse1559"
+                   stroke-width="1.81691"
+                   stroke-linejoin="round"
+                   stroke-linecap="round"
+                   fill-rule="evenodd"
+                   fill-opacity="1"
+                   fill="#d45500"
+                   rx="6.6649699"
+                   ry="7.07336"
+                   transform="translate(235.836,150.3)"
+                   style="paint-order:fill markers stroke" />
+                <ellipse
+                   cy="0"
+                   cx="0"
+                   id="ellipse1561"
+                   ry="7.07336"
+                   rx="6.6649699"
+                   fill="#d45500"
+                   fill-opacity="1"
+                   fill-rule="evenodd"
+                   stroke-linecap="round"
+                   stroke-linejoin="round"
+                   stroke-width="1.81691"
+                   display="inline"
+                   transform="translate(270.105,149.992)"
+                   style="paint-order:fill markers stroke" />
+              </g>
+            </g>
+          </g>
+          <g
+             id="g1577"
+             transform="matrix(0.44,0,0,0.44,188.42848,23.85508)">
+            <g
+               id="g1571"
+               filter="blur(10px)"
+               transform="translate(-0.001,0.001)">
+              <path
+                 id="path1569"
+                 d="m 500.607,160.988 c -81.893,0 -147.822,65.929 -147.822,147.823 v 462.378 c 0,81.894 65.929,147.823 147.822,147.823 h 918.783 c 81.9,0 147.82,-65.929 147.82,-147.823 V 308.811 c 0,-81.894 -65.92,-147.823 -147.82,-147.823 z m 995.123,159.141"
+                 fill="url(#Gradient-7)"
+                 fill-rule="evenodd"
+                 stroke-dasharray="none"
+                 stroke-linecap="round"
+                 stroke-linejoin="round"
+                 stroke-miterlimit="4"
+                 stroke-width="18.7604"
+                 filter="blur(20px) brightness(1.31)"
+                 transform="matrix(0.264583,0,0,0.264583,-93.3409,65.01)"
+                 style="fill:url(#radialGradient1611);paint-order:fill markers stroke" />
+            </g>
+            <path
+               id="path1573"
+               fill="#550000"
+               fill-rule="evenodd"
+               stroke-dasharray="none"
+               stroke-linecap="round"
+               stroke-linejoin="round"
+               stroke-miterlimit="4"
+               stroke-width="5.56066"
+               d="m 0,0 h 98.3552 c 0,0 0,0 0,0 v 25.1233 c 0,0 0,0 0,0 H 0 c 0,0 0,0 0,0 V 0 c 0,0 0,0 0,0 z"
+               filter=""
+               transform="translate(111.4811,89.4992)" />
+            <path
+               id="path1575"
+               d="m 500.607,160.988 c -81.893,0 -147.822,65.929 -147.822,147.823 v 462.378 c 0,81.894 65.929,147.823 147.822,147.823 h 918.783 c 81.9,0 147.82,-65.929 147.82,-147.823 V 308.811 c 0,-81.894 -65.92,-147.823 -147.82,-147.823 z m 995.123,159.141"
+               fill="url(#Gradient-8)"
+               fill-rule="evenodd"
+               stroke-dasharray="none"
+               stroke-linecap="round"
+               stroke-linejoin="round"
+               stroke-miterlimit="4"
+               stroke-width="18.7604"
+               transform="matrix(0.264583,0,0,0.264583,-93.3409,64.7373)"
+               style="fill:url(#radialGradient1613);paint-order:fill markers stroke" />
+          </g>
+          <g
+             transform="rotate(180,263.3075,5.42745)"
+             id="g1581">
+            <rect
+               y="0"
+               x="0"
+               id="rect1579"
+               height="2.5976701"
+               width="25.0394"
+               fill="url(#Gradient-5)"
+               fill-opacity="1"
+               fill-rule="evenodd"
+               stroke="none"
+               stroke-dasharray="none"
+               stroke-linecap="square"
+               stroke-linejoin="round"
+               stroke-miterlimit="4"
+               stroke-width="0.551979"
+               transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,-5.2457771)"
+               style="fill:url(#linearGradient1615);paint-order:fill markers stroke" />
           </g>
         </g>
         <rect
-           style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke-width:12.6992;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-           id="rect1585"
-           width="368"
-           height="256"
-           x="-3.6748382e-14"
-           y="-1.6209256e-14"
+           rx="45.660717"
            ry="0"
-           rx="45.660717" />
+           y="-1.6209256e-14"
+           x="-3.6748382e-14"
+           height="256"
+           width="368"
+           id="rect1585"
+           style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke-width:12.6992;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
       </g>
     </clipPath>
     <radialGradient
-       r="11.7114"
-       fy="6.02452"
-       fx="22.5823"
-       cy="6.02452"
-       cx="22.5823"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient1589"
+       inkscape:collect="always"
        xlink:href="#Gradient-0"
-       inkscape:collect="always" />
-    <radialGradient
-       r="11.7114"
-       fy="0.772368"
-       fx="6.89985"
-       cy="0.772368"
-       cx="6.89985"
+       id="radialGradient1589"
        gradientUnits="userSpaceOnUse"
-       id="radialGradient1591"
+       cx="22.5823"
+       cy="6.02452"
+       fx="22.5823"
+       fy="6.02452"
+       r="11.7114" />
+    <radialGradient
+       inkscape:collect="always"
        xlink:href="#Gradient-1"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="4.1934"
-       x2="13.919"
-       y1="0.507179"
-       x1="13.8199"
-       gradientTransform="translate(0.0247691,-1.75651)"
+       id="radialGradient1591"
        gradientUnits="userSpaceOnUse"
+       cx="6.89985"
+       cy="0.772368"
+       fx="6.89985"
+       fy="0.772368"
+       r="11.7114" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient-2"
        id="linearGradient1593"
-       xlink:href="#Gradient-2"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="3.40174"
-       x2="13.919"
-       y1="-0.284478"
-       x1="13.8199"
-       gradientTransform="translate(0.0247691,-0.964844)"
        gradientUnits="userSpaceOnUse"
-       id="linearGradient1595"
-       xlink:href="#Gradient-3"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="2.4616"
-       x2="13.919"
-       y1="-1.22461"
-       x1="13.8199"
-       gradientTransform="translate(0.0247669,-0.0247397)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient1597"
-       xlink:href="#Gradient-4"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="1.47203"
-       x2="13.919"
-       y1="-2.21419"
-       x1="13.919"
-       gradientTransform="translate(0.0247674,0.964849)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient1599"
-       xlink:href="#Gradient-5"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="4.1934"
-       x2="13.919"
-       y1="0.507179"
-       x1="13.8199"
        gradientTransform="translate(0.0247691,-1.75651)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient1601"
-       xlink:href="#Gradient-2"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="3.40174"
-       x2="13.919"
-       y1="-0.284478"
        x1="13.8199"
-       gradientTransform="translate(0.0247691,-0.964844)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient1603"
+       y1="0.507179"
+       x2="13.919"
+       y2="4.1934" />
+    <linearGradient
+       inkscape:collect="always"
        xlink:href="#Gradient-3"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="2.4616"
-       x2="13.919"
-       y1="-1.22461"
+       id="linearGradient1595"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.0247691,-0.964844)"
        x1="13.8199"
-       gradientTransform="translate(0.0247669,-0.0247397)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient1605"
+       y1="-0.284478"
+       x2="13.919"
+       y2="3.40174" />
+    <linearGradient
+       inkscape:collect="always"
        xlink:href="#Gradient-4"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="-38.1867"
-       x2="29.76"
-       y1="66.7835"
-       x1="30.4215"
-       gradientTransform="matrix(1,0,0,1.50089,0,9.59048)"
+       id="linearGradient1597"
        gradientUnits="userSpaceOnUse"
-       id="linearGradient1607"
+       gradientTransform="translate(0.0247669,-0.0247397)"
+       x1="13.8199"
+       y1="-1.22461"
+       x2="13.919"
+       y2="2.4616" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient-5"
+       id="linearGradient1599"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.0247674,0.964849)"
+       x1="13.919"
+       y1="-2.21419"
+       x2="13.919"
+       y2="1.47203" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient-2"
+       id="linearGradient1601"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.0247691,-1.75651)"
+       x1="13.8199"
+       y1="0.507179"
+       x2="13.919"
+       y2="4.1934" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient-3"
+       id="linearGradient1603"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.0247691,-0.964844)"
+       x1="13.8199"
+       y1="-0.284478"
+       x2="13.919"
+       y2="3.40174" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient-4"
+       id="linearGradient1605"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.0247669,-0.0247397)"
+       x1="13.8199"
+       y1="-1.22461"
+       x2="13.919"
+       y2="2.4616" />
+    <linearGradient
+       inkscape:collect="always"
        xlink:href="#Gradient-6"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="1.47203"
-       x2="13.919"
-       y1="-2.21419"
-       x1="13.919"
-       gradientTransform="translate(0.0247674,0.964849)"
+       id="linearGradient1607"
        gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.50089,0,9.59048)"
+       x1="30.4215"
+       y1="66.7835"
+       x2="29.76"
+       y2="-38.1867" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient-5"
        id="linearGradient1609"
-       xlink:href="#Gradient-5"
-       inkscape:collect="always" />
-    <radialGradient
-       r="160.659"
-       fy="142.875"
-       fx="254"
-       cy="142.875"
-       cx="254"
-       gradientTransform="matrix(26.0926,0.522793,-0.0850496,4.24481,-5655.38,-199.267)"
        gradientUnits="userSpaceOnUse"
-       id="radialGradient1611"
-       xlink:href="#Gradient-7"
-       inkscape:collect="always" />
-    <radialGradient
-       r="160.659"
-       fy="142.875"
-       fx="254"
-       cy="142.875"
-       cx="254"
-       gradientTransform="matrix(26.0926,0.522793,-0.0850496,4.24481,-5655.38,-199.267)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient1613"
-       xlink:href="#Gradient-8"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="1.47203"
-       x2="13.919"
-       y1="-2.21419"
-       x1="13.919"
        gradientTransform="translate(0.0247674,0.964849)"
+       x1="13.919"
+       y1="-2.21419"
+       x2="13.919"
+       y2="1.47203" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient-7"
+       id="radialGradient1611"
        gradientUnits="userSpaceOnUse"
-       id="linearGradient1615"
+       gradientTransform="matrix(26.0926,0.522793,-0.0850496,4.24481,-5655.38,-199.267)"
+       cx="254"
+       cy="142.875"
+       fx="254"
+       fy="142.875"
+       r="160.659" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient-8"
+       id="radialGradient1613"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(26.0926,0.522793,-0.0850496,4.24481,-5655.38,-199.267)"
+       cx="254"
+       cy="142.875"
+       fx="254"
+       fy="142.875"
+       r="160.659" />
+    <linearGradient
+       inkscape:collect="always"
        xlink:href="#Gradient-5"
-       inkscape:collect="always" />
+       id="linearGradient1615"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.0247674,0.964849)"
+       x1="13.919"
+       y1="-2.21419"
+       x2="13.919"
+       y2="1.47203" />
     <clipPath
-       id="clipPath1843"
-       clipPathUnits="userSpaceOnUse">
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1843">
       <rect
-         style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke-width:12.6992;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-         id="rect1845"
-         width="368"
-         height="256"
-         x="79.125671"
-         y="9.1928806"
+         rx="45.660717"
          ry="0"
-         rx="45.660717" />
+         y="9.1928806"
+         x="79.125671"
+         height="256"
+         width="368"
+         id="rect1845"
+         style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke-width:12.6992;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
     </clipPath>
     <radialGradient
-       r="11.7114"
-       fy="6.02452"
-       fx="22.5823"
-       cy="6.02452"
-       cx="22.5823"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient1924"
+       inkscape:collect="always"
        xlink:href="#Gradient-0"
-       inkscape:collect="always" />
-    <radialGradient
-       r="11.7114"
-       fy="0.772368"
-       fx="6.89985"
-       cy="0.772368"
-       cx="6.89985"
+       id="radialGradient1924"
        gradientUnits="userSpaceOnUse"
-       id="radialGradient1926"
+       cx="22.5823"
+       cy="6.02452"
+       fx="22.5823"
+       fy="6.02452"
+       r="11.7114" />
+    <radialGradient
+       gradientTransform="matrix(21.3659,0,0,23.105927,5.0693532,3.2504e-6)"
+       inkscape:collect="always"
        xlink:href="#Gradient-1"
-       inkscape:collect="always" />
+       id="radialGradient1926"
+       gradientUnits="userSpaceOnUse"
+       cx="6.89985"
+       cy="0.772368"
+       fx="6.89985"
+       fy="0.772368"
+       r="11.7114" />
     <filter
-       height="1.1628032"
-       y="-0.081401579"
-       width="1.1628032"
-       x="-0.081401579"
-       id="filter2779"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter2779"
+       x="-0.081401579"
+       width="1.1628032"
+       y="-0.081401579"
+       height="1.1628032">
       <feGaussianBlur
-         id="feGaussianBlur2781"
+         inkscape:collect="always"
          stdDeviation="0.25155326"
-         inkscape:collect="always" />
+         id="feGaussianBlur2781" />
     </filter>
     <filter
-       height="1.2735718"
-       y="-0.13678592"
-       width="1.2735718"
-       x="-0.13678592"
-       id="filter3965"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter3965"
+       x="-0.13678592"
+       width="1.2735718"
+       y="-0.13678592"
+       height="1.2735718">
       <feGaussianBlur
-         id="feGaussianBlur3967"
+         inkscape:collect="always"
          stdDeviation="0.42270609"
-         inkscape:collect="always" />
+         id="feGaussianBlur3967" />
     </filter>
   </defs>
   <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="921.44309"
-     inkscape:cy="403.00054"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1-7"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="716"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-page="true"
-     showguides="true"
+     showborder="false"
      inkscape:snap-global="false"
-     showborder="false" />
+     showguides="true"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="716"
+     inkscape:window-width="1440"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="Bakcorund"
+     inkscape:document-units="mm"
+     inkscape:cy="585.85768"
+     inkscape:cx="508.58595"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <metadata
      id="metadata960">
     <rdf:RDF>
@@ -1791,828 +1732,84 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     id="layer1"
      inkscape:groupmode="layer"
-     id="layer1">
+     inkscape:label="Layer 1">
     <g
-       clip-path="url(#clipPath1843)"
+       id="layer1-7"
        transform="translate(-79.125671,-9.1928802)"
-       id="layer1-7">
+       clip-path="url(#clipPath1843)">
       <g
-         transform="translate(-9.872,-21.555)"
-         id="Bakcorund">
+         id="Bakcorund"
+         transform="translate(-9.872,-21.555)">
         <rect
-           style="fill:url(#radialGradient1924);paint-order:fill markers stroke"
-           transform="matrix(21.3659,0,0,21.3894,-2.18091e-4,52.659528)"
-           stroke-width="0.551979"
-           stroke-linejoin="round"
-           stroke-linecap="square"
-           fill-rule="evenodd"
-           fill-opacity="1"
-           fill="url(#Gradient-0)"
-           width="25.0394"
-           height="13.2024"
-           id="rect999"
+           y="0"
            x="0"
-           y="0" />
-        <rect
-           transform="matrix(21.3659,0,0,21.3894,5.0693532,3.2504e-6)"
-           style="fill:url(#radialGradient1926);paint-order:fill markers stroke"
+           id="rect999"
+           height="13.2024"
+           width="25.0394"
+           fill="url(#Gradient-0)"
+           fill-opacity="1"
+           fill-rule="evenodd"
+           stroke-linecap="square"
+           stroke-linejoin="round"
            stroke-width="0.551979"
+           transform="matrix(21.3659,0,0,21.3894,-2.18091e-4,52.659528)"
+           style="fill:url(#radialGradient1924);paint-order:fill markers stroke" />
+        <rect
+           y="3.2503999e-06"
+           x="5.0693531"
+           id="rect999-2"
+           height="295.09732"
+           width="507.99991"
+           fill="url(#Gradient-1)"
+           fill-opacity="1"
+           fill-rule="evenodd"
+           stroke-linecap="square"
+           stroke-linejoin="round"
+           stroke-width="12.2644"
+           style="fill:url(#radialGradient1926);paint-order:fill markers stroke" />
+        <rect
+           style="fill:#333333;paint-order:fill markers stroke"
+           stroke-width="7.25263"
            stroke-linejoin="round"
            stroke-linecap="square"
            fill-rule="evenodd"
            fill-opacity="1"
            fill="url(#Gradient-1)"
-           width="23.776199"
-           height="12.7715"
-           id="rect999-2"
-           x="0"
-           y="0" />
+           width="177.64871"
+           height="295.09732"
+           id="rect524"
+           x="183.41736"
+           y="-12.851187" />
+        <rect
+           y="231.83121"
+           x="66.622665"
+           height="63.5"
+           width="428.625"
+           id="rect530"
+           style="fill:#1a1a1a;fill-rule:evenodd;stroke-width:17.2535;stroke-linecap:square;stroke-linejoin:round;paint-order:fill markers stroke" />
       </g>
       <g
-         id="g206"
-         transform="translate(-8.376,-30.633324)">
+         transform="matrix(0.45776223,0,0,0.45776223,184.99611,48.297096)"
+         id="g215">
         <g
-           transform="translate(0,245.02663)"
-           id="Bottem">
-          <rect
-             style="fill:url(#linearGradient649);paint-order:fill markers stroke"
-             transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,14.124393)"
-             filter="brightness(0.7)"
-             stroke-width="0.551979"
-             stroke-miterlimit="4"
-             stroke-linejoin="round"
-             stroke-linecap="square"
-             stroke-dasharray="none"
-             stroke="none"
-             fill-rule="evenodd"
-             fill-opacity="1"
-             fill="url(#Gradient-2)"
-             height="2.5976701"
-             width="25.0394"
-             id="rect995-3"
-             x="0"
-             y="0" />
-          <path
-             transform="matrix(21.3659,0,0,21.3894,487.23794,5.4707928)"
-             d="M 0,0 H 0.528561 V 2.77896 H 0 Z"
-             stroke-width="0.879047"
-             stroke-miterlimit="4"
-             stroke-linejoin="round"
-             stroke-linecap="round"
-             stroke-dasharray="none"
-             stroke="none"
-             fill-rule="evenodd"
-             fill-opacity="1"
-             fill="#2b0011"
-             id="rect914" />
-          <rect
-             style="paint-order:fill markers stroke"
-             transform="matrix(21.3659,0,0,21.3894,73.600677,3.953714)"
-             stroke-width="0.816618"
-             stroke-miterlimit="4"
-             stroke-linejoin="round"
-             stroke-linecap="round"
-             stroke-dasharray="none"
-             stroke="none"
-             fill-rule="evenodd"
-             fill-opacity="1"
-             fill="#2b0011"
-             height="2.77896"
-             width="0.45615101"
-             id="rect912"
-             x="0"
-             y="0" />
-          <g
-             transform="matrix(3.32378,0,0,3.3021,65.1064,-6.5107)"
-             id="Tonigh">
-            <g
-               transform="matrix(1.5834,0,0,1.5834,122.334,-3.37401)"
-               id="g1325">
-              <circle
-                 style="paint-order:fill markers stroke"
-                 transform="translate(4.02173,9.48666)"
-                 stroke-width="0.0890342"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="#782121"
-                 display="inline"
-                 id="circle1315"
-                 cx="0"
-                 cy="0"
-                 r="3.7083299" />
-              <circle
-                 style="paint-order:fill markers stroke"
-                 transform="translate(4.02173,9.48666)"
-                 filter="blur(0.4px)"
-                 stroke-width="0.0890342"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="#782121"
-                 display="inline"
-                 id="circle1315-2"
-                 cx="0"
-                 cy="0"
-                 r="3.7083299" />
-              <circle
-                 style="paint-order:fill markers stroke"
-                 transform="translate(4.02173,9.48666)"
-                 stroke-width="0.0686616"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 fill-rule="evenodd"
-                 fill="#280b0b"
-                 display="inline"
-                 id="circle1317"
-                 cx="0"
-                 cy="0"
-                 r="2.8598101" />
-              <g
-                 transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7041,-3.26178)"
-                 id="g1323">
-                <ellipse
-                   style="paint-order:fill markers stroke"
-                   transform="translate(235.836,150.3)"
-                   stroke-width="1.81691"
-                   stroke-linejoin="round"
-                   stroke-linecap="round"
-                   fill-rule="evenodd"
-                   fill-opacity="1"
-                   fill="#d45500"
-                   rx="6.6649699"
-                   ry="7.07336"
-                   id="ellipse1319"
-                   cx="0"
-                   cy="0" />
-                <ellipse
-                   style="paint-order:fill markers stroke"
-                   transform="translate(270.105,149.992)"
-                   display="inline"
-                   ry="7.07336"
-                   rx="6.6649699"
-                   fill="#d45500"
-                   fill-opacity="1"
-                   fill-rule="evenodd"
-                   stroke-linecap="round"
-                   stroke-linejoin="round"
-                   stroke-width="1.81691"
-                   id="ellipse1321"
-                   cx="0"
-                   cy="0" />
-              </g>
-            </g>
-            <g
-               id="g132"
-               transform="translate(0.3134,4.07939)">
-              <g
-                 transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-17.0175,-9.04011)"
-                 display="inline"
-                 id="g1422">
-                <ellipse
-                   style="paint-order:fill markers stroke"
-                   transform="translate(235.836,150.3)"
-                   stroke-width="1.81691"
-                   stroke-linejoin="round"
-                   stroke-linecap="round"
-                   fill-rule="evenodd"
-                   fill-opacity="1"
-                   fill="#d45500"
-                   rx="6.6649699"
-                   ry="7.07336"
-                   id="ellipse1418"
-                   cx="0"
-                   cy="0" />
-                <ellipse
-                   style="paint-order:fill markers stroke"
-                   transform="translate(270.105,149.992)"
-                   display="inline"
-                   ry="7.07336"
-                   rx="6.6649699"
-                   fill="#d45500"
-                   fill-opacity="1"
-                   fill-rule="evenodd"
-                   stroke-linecap="round"
-                   stroke-linejoin="round"
-                   stroke-width="1.81691"
-                   id="ellipse1420"
-                   cx="0"
-                   cy="0" />
-              </g>
-            </g>
-          </g>
-          <rect
-             style="fill:url(#linearGradient651);paint-order:fill markers stroke"
-             transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,30.576098)"
-             filter="brightness(0.85)"
-             stroke-width="0.551979"
-             stroke-miterlimit="4"
-             stroke-linejoin="round"
-             stroke-linecap="square"
-             stroke-dasharray="none"
-             stroke="none"
-             fill-rule="evenodd"
-             fill-opacity="1"
-             fill="url(#Gradient-3)"
-             width="25.0394"
-             height="2.5976701"
-             id="rect1290-5"
-             x="0"
-             y="0" />
-          <rect
-             style="paint-order:fill markers stroke"
-             transform="matrix(21.3659,0,0,21.3894,381.82636,19.325013)"
-             stroke-width="1.4778"
-             stroke-miterlimit="4"
-             stroke-linejoin="round"
-             stroke-linecap="round"
-             stroke-dasharray="none"
-             stroke="none"
-             fill-rule="evenodd"
-             fill-opacity="1"
-             fill="#2b0011"
-             width="0.59043598"
-             height="5.1707101"
-             id="rect918"
-             x="0"
-             y="0" />
-          <g
-             transform="matrix(4.96481,0,0,4.93241,368.167,-1.7763)"
-             display="none"
-             id="SAIL">
-            <circle
-               style="paint-order:fill markers stroke"
-               transform="translate(4.02173,9.48666)"
-               stroke-width="0.0890342"
-               stroke-linejoin="round"
-               stroke-linecap="round"
-               fill-rule="evenodd"
-               fill="#782121"
-               id="circle1295"
-               cx="0"
-               cy="0"
-               r="3.7083299" />
-            <circle
-               style="paint-order:fill markers stroke"
-               transform="translate(4.02173,9.48666)"
-               filter="blur(0.4px)"
-               stroke-width="0.0890342"
-               stroke-linejoin="round"
-               stroke-linecap="round"
-               fill-rule="evenodd"
-               fill="#782121"
-               id="circle1295-2"
-               cx="0"
-               cy="0"
-               r="3.7083299" />
-            <circle
-               style="paint-order:fill markers stroke"
-               transform="translate(4.02173,9.48666)"
-               stroke-width="0.0686616"
-               stroke-linejoin="round"
-               stroke-linecap="round"
-               fill-rule="evenodd"
-               fill="#280b0b"
-               id="circle1297"
-               cx="0"
-               cy="0"
-               r="2.8598101" />
-            <g
-               transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7041,-3.26178)"
-               id="g1303">
-              <ellipse
-                 style="paint-order:fill markers stroke"
-                 transform="translate(235.836,150.3)"
-                 ry="7.07336"
-                 rx="6.6649699"
-                 fill="#d45500"
-                 fill-opacity="1"
-                 fill-rule="evenodd"
-                 stroke-linecap="round"
-                 stroke-linejoin="round"
-                 stroke-width="1.81691"
-                 id="ellipse1299"
-                 cx="0"
-                 cy="0" />
-              <ellipse
-                 style="paint-order:fill markers stroke"
-                 transform="translate(270.105,149.992)"
-                 stroke-width="1.81691"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="#d45500"
-                 rx="6.6649699"
-                 ry="7.07336"
-                 id="ellipse1301"
-                 cx="0"
-                 cy="0" />
-            </g>
-          </g>
-          <rect
-             style="fill:url(#linearGradient653);paint-order:fill markers stroke"
-             transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,50.378412)"
-             filter="brightness(0.95)"
-             stroke-width="0.551979"
-             stroke-miterlimit="4"
-             stroke-linejoin="round"
-             stroke-linecap="square"
-             stroke-dasharray="none"
-             stroke="none"
-             fill-rule="evenodd"
-             fill-opacity="1"
-             fill="url(#Gradient-4)"
-             height="2.5976701"
-             width="25.0394"
-             id="rect1290"
-             x="0"
-             y="0" />
-          <rect
-             style="paint-order:fill markers stroke"
-             transform="matrix(16.3354,0,0,16.3534,191.99365,36.491248)"
-             stroke-width="1.84168"
-             stroke-miterlimit="4"
-             stroke-linejoin="round"
-             stroke-linecap="round"
-             stroke-dasharray="none"
-             stroke="none"
-             fill-rule="evenodd"
-             fill-opacity="1"
-             fill="#2b0011"
-             height="5.0309801"
-             width="0.91699398"
-             id="rect916"
-             x="0"
-             y="0" />
-          <g
-             id="g153"
-             transform="translate(178.8267,40.7538)"
-             display="none">
-            <g
-               transform="matrix(5.57023,0,0,5.53387,-1.74571,-31.9765)"
-               id="g1018-3">
-              <circle
-                 style="paint-order:fill markers stroke"
-                 transform="translate(4.02173,9.48666)"
-                 stroke-width="0.0890342"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 fill-rule="evenodd"
-                 fill="#782121"
-                 id="path168-8"
-                 cx="0"
-                 cy="0"
-                 r="3.7083299" />
-              <circle
-                 style="paint-order:fill markers stroke"
-                 transform="translate(4.02173,9.48666)"
-                 filter="blur(0.4px)"
-                 stroke-width="0.0890342"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 fill-rule="evenodd"
-                 fill="#782121"
-                 id="path168-2"
-                 cx="0"
-                 cy="0"
-                 r="3.7083299" />
-              <circle
-                 style="paint-order:fill markers stroke"
-                 transform="translate(4.02173,9.48666)"
-                 stroke-width="0.0686616"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 fill-rule="evenodd"
-                 fill="#280b0b"
-                 id="circle170-7"
-                 cx="0"
-                 cy="0"
-                 r="2.8598101" />
-              <g
-                 transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7041,-3.26178)"
-                 id="g33-8">
-                <ellipse
-                   style="paint-order:fill markers stroke"
-                   transform="translate(235.836,150.3)"
-                   stroke-width="1.81691"
-                   stroke-linejoin="round"
-                   stroke-linecap="round"
-                   fill-rule="evenodd"
-                   fill-opacity="1"
-                   fill="#d45500"
-                   rx="6.6649699"
-                   ry="7.07336"
-                   id="ellipse213-0"
-                   cx="0"
-                   cy="0" />
-                <ellipse
-                   style="paint-order:fill markers stroke"
-                   transform="translate(270.105,149.992)"
-                   ry="7.07336"
-                   rx="6.6649699"
-                   fill="#d45500"
-                   fill-opacity="1"
-                   fill-rule="evenodd"
-                   stroke-linecap="round"
-                   stroke-linejoin="round"
-                   stroke-width="1.81691"
-                   id="ellipse213-9-4"
-                   cx="0"
-                   cy="0" />
-              </g>
-            </g>
-          </g>
-          <rect
-             style="fill:url(#linearGradient655);paint-order:fill markers stroke"
-             transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,72.180223)"
-             stroke-width="0.551979"
-             stroke-miterlimit="4"
-             stroke-linejoin="round"
-             stroke-linecap="square"
-             stroke-dasharray="none"
-             stroke="none"
-             fill-rule="evenodd"
-             fill-opacity="1"
-             fill="url(#Gradient-5)"
-             width="25.0394"
-             height="2.5976701"
-             id="rect920"
-             x="0"
-             y="0" />
-        </g>
-        <g
-           transform="rotate(180,267.495,56.8852)"
-           id="PARTY">
-          <g
-             transform="matrix(2.69629,0,0,2.67869,324.017,-28.6704)"
-             id="g1664">
-            <g
-               transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7041,-3.26178)"
-               id="g1662" />
-          </g>
-          <g
-             transform="matrix(4.20982,0,0,4.18235,52.6627,-28.0426)"
-             id="g1356-8">
-            <g
-               id="g167"
-               transform="matrix(0.3,0,0,0.2,2.789345,4.6256)">
-              <rect
-                 style="paint-order:fill markers stroke"
-                 transform="matrix(21.3659,0,0,21.3894,-2.7838e-4,-4.4113587)"
-                 stroke-width="1.19258"
-                 stroke-miterlimit="4"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 stroke-dasharray="none"
-                 stroke="none"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="#2b0011"
-                 width="0.38451499"
-                 height="5.9204602"
-                 id="rect1058-2"
-                 x="0"
-                 y="0" />
-            </g>
-            <g
-               transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7042,-3.64371)"
-               id="g1354-4">
-              <ellipse
-                 style="paint-order:fill markers stroke"
-                 transform="translate(235.836,150.3)"
-                 ry="7.07336"
-                 rx="6.6649699"
-                 fill="#d45500"
-                 fill-opacity="1"
-                 fill-rule="evenodd"
-                 stroke-linecap="round"
-                 stroke-linejoin="round"
-                 stroke-width="1.81691"
-                 id="ellipse1350-3"
-                 cx="0"
-                 cy="0" />
-              <ellipse
-                 style="paint-order:fill markers stroke"
-                 transform="translate(270.105,149.992)"
-                 stroke-width="1.81691"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="#d45500"
-                 rx="6.6649699"
-                 ry="7.07336"
-                 id="ellipse1352-9"
-                 cx="0"
-                 cy="0" />
-            </g>
-          </g>
-          <rect
-             style="fill:url(#linearGradient661);paint-order:fill markers stroke"
-             transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,30.251412)"
-             filter="brightness(0.95)"
-             stroke-width="0.551979"
-             stroke-miterlimit="4"
-             stroke-linejoin="round"
-             stroke-linecap="square"
-             stroke-dasharray="none"
-             stroke="none"
-             fill-rule="evenodd"
-             fill-opacity="1"
-             fill="url(#Gradient-4)"
-             height="2.5976701"
-             width="25.0394"
-             id="rect1290-3"
-             x="0"
-             y="0" />
-          <path
-             transform="matrix(21.3659,0,0,21.3894,456.51548,11.249425)"
-             d="M 0,0 H 0.952019 V 4.90173 H 0 Z"
-             stroke-width="1.92265"
-             stroke-miterlimit="4"
-             stroke-linejoin="round"
-             stroke-linecap="round"
-             stroke-dasharray="none"
-             stroke="none"
-             fill-rule="evenodd"
-             fill-opacity="1"
-             fill="#2b0011"
-             id="rect1050" />
-          <g
-             transform="matrix(7.59819,0,0,7.54862,436.128,-23.901)"
-             id="g1018-3-3">
-            <circle
-               style="paint-order:fill markers stroke"
-               transform="translate(4.02173,9.48666)"
-               stroke-width="0.0890342"
-               stroke-linejoin="round"
-               stroke-linecap="round"
-               fill-rule="evenodd"
-               fill="#782121"
-               id="path168-8-3"
-               cx="0"
-               cy="0"
-               r="3.7083299" />
-            <circle
-               style="paint-order:fill markers stroke"
-               transform="translate(4.02173,9.48666)"
-               filter="blur(0.4px)"
-               stroke-width="0.0890342"
-               stroke-linejoin="round"
-               stroke-linecap="round"
-               fill-rule="evenodd"
-               fill="#782121"
-               id="path168-8-2"
-               cx="0"
-               cy="0"
-               r="3.7083299" />
-            <circle
-               style="paint-order:fill markers stroke"
-               transform="translate(4.02173,9.48666)"
-               stroke-width="0.0686616"
-               stroke-linejoin="round"
-               stroke-linecap="round"
-               fill-rule="evenodd"
-               fill="#280b0b"
-               display="inline"
-               id="circle170-7-5"
-               cx="0"
-               cy="0"
-               r="2.8598101" />
-            <g
-               transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7041,-3.26178)"
-               id="g33-8-0">
-              <path
-                 transform="translate(234.24654,150.33219)"
-                 d="M 6.66497,0 C 6.66497,3.90651 3.68096,7.07336 0,7.07336 -3.68096,7.07336 -6.66497,3.90651 -6.66497,0 c 0,-3.90651 2.98401,-7.07336 6.66497,-7.07336 3.68096,0 6.66497,3.16685 6.66497,7.07336 z"
-                 stroke-width="1.81691"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="#d45500"
-                 id="ellipse213-0-2" />
-              <ellipse
-                 style="paint-order:fill markers stroke"
-                 transform="translate(266.92608,150.05639)"
-                 stroke-width="1.81691"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="#d45500"
-                 rx="6.6649699"
-                 ry="7.07336"
-                 id="ellipse213-9-4-3"
-                 cx="0"
-                 cy="0" />
-            </g>
-          </g>
-          <g
-             transform="matrix(-7.1842298,2.4737287,-2.4575903,-7.1373604,295.68236,-352.29996)"
-             id="Spin-Away">
-            <circle
-               style="paint-order:fill markers stroke"
-               transform="translate(4.02173,9.48666)"
-               stroke-width="0.0890342"
-               stroke-linejoin="round"
-               stroke-linecap="round"
-               fill-rule="evenodd"
-               fill="#782121"
-               id="path168-8-4"
-               cx="0"
-               cy="0"
-               r="3.7083299" />
-            <circle
-               style="paint-order:fill markers stroke"
-               transform="translate(4.02173,9.48666)"
-               filter="blur(0.4px)"
-               stroke-width="0.0890342"
-               stroke-linejoin="round"
-               stroke-linecap="round"
-               fill-rule="evenodd"
-               fill="#782121"
-               id="path168-8-5"
-               cx="0"
-               cy="0"
-               r="3.7083299" />
-            <circle
-               style="paint-order:fill markers stroke"
-               transform="translate(4.02173,9.48666)"
-               stroke-width="0.0686616"
-               stroke-linejoin="round"
-               stroke-linecap="round"
-               fill-rule="evenodd"
-               fill="#280b0b"
-               id="circle170-7-2"
-               cx="0"
-               cy="0"
-               r="2.8598101" />
-            <g
-               transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.7041,-3.26178)"
-               id="g33-8-2">
-              <path
-                 transform="translate(234.24654,150.33219)"
-                 d="M 6.66497,0 C 6.66497,3.90651 3.68096,7.07336 0,7.07336 -3.68096,7.07336 -6.66497,3.90651 -6.66497,0 c 0,-3.90651 2.98401,-7.07336 6.66497,-7.07336 3.68096,0 6.66497,3.16685 6.66497,7.07336 z"
-                 stroke-width="1.81691"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="#d45500"
-                 id="ellipse213-0-3" />
-              <ellipse
-                 style="paint-order:fill markers stroke"
-                 transform="translate(266.92608,150.05639)"
-                 stroke-width="1.81691"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="#d45500"
-                 rx="6.6649699"
-                 ry="7.07336"
-                 id="ellipse213-9-4-2"
-                 cx="0"
-                 cy="0" />
-            </g>
-          </g>
-          <path
-             transform="matrix(18.196,0,0,19.2257,-38.845478,-235.1567)"
-             d="m 0,-4.22871 h 0.952019 l 2.86e-4,3.1703 L 0.655115,-1.37248 0.292819,-1.05841 0,-1.37248 Z"
-             stroke-width="1.92265"
-             stroke-miterlimit="4"
-             stroke-linejoin="round"
-             stroke-linecap="round"
-             stroke-dasharray="none"
-             stroke="none"
-             fill-rule="evenodd"
-             fill-opacity="1"
-             fill="#2b0011"
-             id="crack" />
-          <path
-             transform="matrix(18.196,0,0,19.2257,609.58252,-229.1567)"
-             d="m 0,-4.22871 h 0.952019 v 2.85623 L 0.659201,-1.75869 0.274501,-1.37248 0,-1.75869 Z"
-             stroke-width="1.92265"
-             stroke-miterlimit="4"
-             stroke-linejoin="round"
-             stroke-linecap="round"
-             stroke-dasharray="none"
-             stroke="none"
-             fill-rule="evenodd"
-             fill-opacity="1"
-             fill="#2b0011"
-             id="crack-back" />
-          <rect
-             style="paint-order:fill markers stroke"
-             transform="matrix(-24.3428,0,0,-24.3696,187.53439,208.59026)"
-             stroke-width="1.19258"
-             stroke-miterlimit="4"
-             stroke-linejoin="round"
-             stroke-linecap="round"
-             stroke-dasharray="none"
-             stroke="none"
-             fill-rule="evenodd"
-             fill-opacity="1"
-             fill="#2b0011"
-             height="7.0309801"
-             width="0.38451499"
-             id="rect1672-2"
-             x="0"
-             y="0" />
-          <g
-             transform="translate(165.2664,41.7577)"
-             id="Dayz">
-            <g
-               transform="matrix(0.39701179,0.00746698,-0.00681696,0.368662,-81.6224,-43.0768)"
-               id="g1688">
-              <ellipse
-                 style="paint-order:fill markers stroke"
-                 transform="translate(235.836,150.3)"
-                 stroke-width="1.81691"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="#d45500"
-                 rx="6.6649699"
-                 ry="7.07336"
-                 id="ellipse1684"
-                 cx="0"
-                 cy="0" />
-              <ellipse
-                 style="paint-order:fill markers stroke"
-                 transform="translate(270.105,149.992)"
-                 stroke-width="1.81691"
-                 stroke-linejoin="round"
-                 stroke-linecap="round"
-                 fill-rule="evenodd"
-                 fill-opacity="1"
-                 fill="#d45500"
-                 ry="7.07336"
-                 rx="6.6649699"
-                 id="ellipse1686"
-                 cx="0"
-                 cy="0" />
-            </g>
-          </g>
-          <rect
-             style="fill:url(#linearGradient663);paint-order:fill markers stroke"
-             transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,52.053223)"
-             stroke-width="0.551979"
-             stroke-miterlimit="4"
-             stroke-linejoin="round"
-             stroke-linecap="square"
-             stroke-dasharray="none"
-             stroke="none"
-             fill-rule="evenodd"
-             fill-opacity="1"
-             fill="url(#Gradient-5)"
-             width="25.0394"
-             height="2.5976701"
-             id="rect920-3"
-             x="0"
-             y="0" />
-        </g>
-      </g>
-      <g
-         id="g215"
-         transform="matrix(0.45776223,0,0,0.45776223,184.99611,48.297096)">
-        <g
-           transform="matrix(40.4123,0,0,40.1487,-1.864441,-172.549)"
-           id="g1018">
+           id="g1018"
+           transform="matrix(40.4123,0,0,40.1487,-1.864441,-172.549)">
           <circle
-             r="3.7083299"
-             style="paint-order:fill markers stroke;filter:url(#filter2779)"
-             stroke-width="0.0890342"
-             stroke-linejoin="round"
-             stroke-linecap="round"
-             fill-rule="evenodd"
-             fill="#782121"
-             display="inline"
-             id="path168"
-             cx="4.2695322"
-             cy="9.1058846" />
-          <circle
-             r="3.7083299"
              cy="9.1058846"
              cx="4.2695322"
-             id="circle3955"
+             id="path168"
              display="inline"
              fill="#782121"
              fill-rule="evenodd"
              stroke-linecap="round"
              stroke-linejoin="round"
              stroke-width="0.0890342"
-             filter="blur(0.2px)"
-             style="paint-order:fill markers stroke;filter:url(#filter3965)" />
+             style="paint-order:fill markers stroke;filter:url(#filter2779)"
+             r="3.7083299" />
           <circle
-             style="paint-order:fill markers stroke"
+             style="paint-order:fill markers stroke;filter:url(#filter3965)"
              filter="blur(0.2px)"
              stroke-width="0.0890342"
              stroke-linejoin="round"
@@ -2620,42 +1817,43 @@
              fill-rule="evenodd"
              fill="#782121"
              display="inline"
-             id="path168-3"
+             id="circle3955"
              cx="4.2695322"
              cy="9.1058846"
              r="3.7083299" />
           <circle
-             style="paint-order:fill markers stroke"
-             stroke-width="0.0686616"
-             stroke-linejoin="round"
-             stroke-linecap="round"
-             fill-rule="evenodd"
-             fill="#280b0b"
-             display="inline"
-             id="circle170"
-             cx="4.2695322"
+             r="3.7083299"
              cy="9.1058846"
-             r="2.8598101" />
-          <g
-             transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.704041,-3.591284)"
+             cx="4.2695322"
+             id="path168-3"
              display="inline"
-             id="g33">
+             fill="#782121"
+             fill-rule="evenodd"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="0.0890342"
+             filter="blur(0.2px)"
+             style="paint-order:fill markers stroke" />
+          <circle
+             r="2.8598101"
+             cy="9.1058846"
+             cx="4.2695322"
+             id="circle170"
+             display="inline"
+             fill="#280b0b"
+             fill-rule="evenodd"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-width="0.0686616"
+             style="paint-order:fill markers stroke" />
+          <g
+             id="g33"
+             display="inline"
+             transform="matrix(0.08277317,0.00156703,-0.00142128,0.07736746,-16.704041,-3.591284)">
             <ellipse
-               style="paint-order:fill markers stroke"
-               ry="7.07336"
-               rx="6.6649699"
-               fill="#d45500"
-               fill-opacity="1"
-               fill-rule="evenodd"
-               stroke-linecap="round"
-               stroke-linejoin="round"
-               stroke-width="1.81691"
-               id="ellipse213"
+               cy="150.23938"
                cx="238.8287"
-               cy="150.23938" />
-            <ellipse
-               style="paint-order:fill markers stroke"
-               display="inline"
+               id="ellipse213"
                stroke-width="1.81691"
                stroke-linejoin="round"
                stroke-linecap="round"
@@ -2664,59 +1862,71 @@
                fill="#d45500"
                rx="6.6649699"
                ry="7.07336"
-               id="ellipse213-9"
+               style="paint-order:fill markers stroke" />
+            <ellipse
+               cy="149.93138"
                cx="273.09772"
-               cy="149.93138" />
+               id="ellipse213-9"
+               ry="7.07336"
+               rx="6.6649699"
+               fill="#d45500"
+               fill-opacity="1"
+               fill-rule="evenodd"
+               stroke-linecap="round"
+               stroke-linejoin="round"
+               stroke-width="1.81691"
+               display="inline"
+               style="paint-order:fill markers stroke" />
           </g>
         </g>
       </g>
       <g
-         transform="matrix(0.44,0,0,0.44,188.42848,23.85508)"
-         id="The-Sky">
+         id="The-Sky"
+         transform="matrix(0.44,0,0,0.44,188.42848,23.85508)">
         <g
-           transform="translate(-0.001,0.001)"
+           id="The-Sky-2"
            filter="blur(10px)"
-           id="The-Sky-2" />
+           transform="translate(-0.001,0.001)" />
       </g>
       <g
-         id="g223"
-         transform="rotate(180,263.3075,5.42745)">
+         transform="rotate(180,263.3075,5.42745)"
+         id="g223">
         <rect
-           style="fill:url(#linearGradient665);paint-order:fill markers stroke"
-           transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,-5.2457771)"
-           stroke-width="0.551979"
-           stroke-miterlimit="4"
-           stroke-linejoin="round"
-           stroke-linecap="square"
-           stroke-dasharray="none"
-           stroke="none"
-           fill-rule="evenodd"
-           fill-opacity="1"
-           fill="url(#Gradient-5)"
-           width="25.0394"
-           height="2.5976701"
-           id="rect920-2"
+           y="0"
            x="0"
-           y="0" />
+           id="rect920-2"
+           height="2.5976701"
+           width="25.0394"
+           fill="url(#Gradient-5)"
+           fill-opacity="1"
+           fill-rule="evenodd"
+           stroke="none"
+           stroke-dasharray="none"
+           stroke-linecap="square"
+           stroke-linejoin="round"
+           stroke-miterlimit="4"
+           stroke-width="0.551979"
+           transform="matrix(21.3659,0,0,21.3894,-4.57295e-4,-5.2457771)"
+           style="fill:url(#linearGradient665);paint-order:fill markers stroke" />
       </g>
       <path
-         style="fill:#002255;fill-rule:evenodd;stroke-width:12.699;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         id="rect20"
          d="m 124.78645,-2.9779537 c -24.38082,0 -44.177062,18.9185107 -45.578097,42.9358727 H 447.04326 c -1.40104,-24.017362 -21.1978,-42.9358727 -45.5786,-42.9358727 z"
-         id="rect20" />
+         style="fill:#002255;fill-rule:evenodd;stroke-width:12.699;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
       <rect
-         id="rect20-7"
-         style="paint-order:fill markers stroke"
-         stroke-width="2.57929"
-         stroke-linejoin="round"
-         stroke-linecap="round"
-         fill-rule="evenodd"
-         fill="#002255"
-         ry="0"
-         rx="0"
-         height="10.56094"
-         width="368"
+         x="79.125671"
          y="51.070244"
-         x="79.125671" />
+         width="368"
+         height="10.56094"
+         rx="0"
+         ry="0"
+         fill="#002255"
+         fill-rule="evenodd"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2.57929"
+         style="paint-order:fill markers stroke"
+         id="rect20-7" />
     </g>
   </g>
 </svg>
