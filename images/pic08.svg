@@ -16,6 +16,7 @@
 @keyframes a4_h { 0% { height: 44.7092px; } 4.3514% { height: 44.7092px; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 27.3514% { height: 40.2908px; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 44.7027% { height: 44.7092px; } 100% { height: 44.7092px; } }
 @keyframes a5_t { 0% { transform: translate(14.3388px,-7.554561px); } 4.3513% { transform: translate(14.3388px,-7.554561px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 27.3513% { transform: translate(14.3388px,1.12049px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 44.7027% { transform: translate(14.3388px,-26.94881px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 56.2702% { transform: translate(14.3389px,-7.554604px); } 100% { transform: translate(14.3389px,-7.554604px); } }
 @keyframes rect1149_t { 0% { transform: translate(285.809043px,175.68505px) rotate(21deg) scale(0.8,0.8) translate(-28.8651px,-39.6406px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 51.3513% { transform: translate(286.96077px,173.968326px) rotate(21deg) scale(0.8,0.8) translate(-28.8651px,-39.6406px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(285.809042px,175.68505px) rotate(21deg) scale(0.8,0.8) translate(-28.8651px,-39.6406px); } }
+@keyframes rect1149-2_t { 0% { transform: translate(285.809043px,175.68505px) rotate(21deg) scale(0.8,0.8) translate(-28.8651px,-39.6406px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 51.3513% { transform: translate(286.96077px,173.968326px) rotate(21deg) scale(0.8,0.8) translate(-28.8651px,-39.6406px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(285.809042px,175.68505px) rotate(21deg) scale(0.8,0.8) translate(-28.8651px,-39.6406px); } }
 @keyframes a6_t { 0% { transform: translate(555.858px,327.246px) scale(1.6,1.6) translate(-47.9558px,-47.6431px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 48.5675% { transform: translate(555.858px,322.997px) scale(1.6,1.6) translate(-47.9558px,-47.6431px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 97.1351% { transform: translate(555.858px,327.246px) scale(1.6,1.6) translate(-47.9558px,-47.6431px); } 100% { transform: translate(555.858px,327.246px) scale(1.6,1.6) translate(-47.9558px,-47.6431px); } }
 @keyframes a7_t { 0% { transform: translate(0px,0px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 48.5675% { transform: translate(0.023px,-6.80189px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 97.1351% { transform: translate(0px,0px); } 100% { transform: translate(0px,0px); } }
 @keyframes rect1018-4_t { 0% { transform: translate(642.922px,369.906px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 51.3243% { transform: translate(642.922px,364.095px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(642.922px,369.906px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); } }
@@ -33,20 +34,28 @@
             <stop offset="0" stop-color="#6c5d53"/>
             <stop offset="1" stop-color="#28170b"/>
         </radialGradient>
-        <linearGradient id="Gradient-3" x1="32.16" y1="7.37156" x2="42.3491" y2="29.3943" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#6c5d53" stop-opacity="0"/>
-            <stop offset="1" stop-color="#593a1c"/>
+        <linearGradient id="Gradient-3" x1="40.375" y1="10.9941" x2="33.8456" y2="125.601" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#49260e"/>
+            <stop offset="1" stop-color="#8f6e52"/>
         </linearGradient>
-        <linearGradient id="Gradient-4" x1="49.1776" y1="0" x2="48.8267" y2="19.3007" gradientUnits="userSpaceOnUse">
+        <linearGradient id="Gradient-4" x1="40.375" y1="10.9941" x2="33.8456" y2="125.601" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#49260e" stop-opacity="0.57"/>
+            <stop offset="1" stop-color="#8f6e52"/>
+        </linearGradient>
+        <linearGradient id="Gradient-5" x1="49.1776" y1="0" x2="48.8267" y2="19.3007" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#661414"/>
             <stop offset="1" stop-color="#550000"/>
         </linearGradient>
-        <radialGradient id="Gradient-5" cx="254" cy="142.875" r="160.659" fx="254" fy="142.875" gradientUnits="userSpaceOnUse" gradientTransform="matrix(26.0926 0.522793 -0.0850496 4.24481 -5655.38 -199.267)">
-            <stop offset="0" stop-color="#6c5d53"/>
-            <stop offset="1" stop-color="#5d3219"/>
+        <radialGradient id="Gradient-6" cx="254" cy="142.875" r="160.659" fx="254" fy="142.875" gradientUnits="userSpaceOnUse" gradientTransform="matrix(26.0926 0.522793 -0.0850496 4.24481 -5655.38 -199.267)">
+            <stop offset="0.005" stop-color="#8f6e52"/>
+            <stop offset="1" stop-color="#49260e"/>
         </radialGradient>
-        <radialGradient id="Gradient-6" cx="9.23012" cy="7.35434" r="13.4849" fx="9.23012" fy="7.35434" gradientUnits="userSpaceOnUse" gradientTransform="matrix(21.8678 -0.0871511 0.0557464 14.549 85.8646 54.3842)">
-            <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+        <radialGradient id="Gradient-7" cx="254" cy="142.875" r="160.659" fx="254" fy="142.875" gradientUnits="userSpaceOnUse" gradientTransform="matrix(26.0926 0.522793 -0.0850496 4.24481 -5655.38 -199.267)">
+            <stop offset="0.005" stop-color="#7a6244"/>
+            <stop offset="1" stop-color="#49260e"/>
+        </radialGradient>
+        <radialGradient id="Gradient-8" cx="9.23012" cy="7.35434" r="13.4849" fx="9.23012" fy="7.35434" gradientUnits="userSpaceOnUse" gradientTransform="matrix(21.8678 -0.0871511 0.0557464 14.549 85.8646 54.3842)">
+            <stop offset="0.085" stop-color="#000000" stop-opacity="0"/>
             <stop offset="0.75" stop-color="#000000"/>
         </radialGradient>
         <clipPath id="ClipPath-1">
@@ -83,10 +92,13 @@
                     <rect width="305.142" height="30" fill="#4d4b4b" stroke-width="0.551979" stroke-linecap="square" stroke-linejoin="round" stroke="none" transform="translate(141.746,152.866) translate(-150.031,-15)"/>
                 </g>
                 <g transform="translate(-210.176,-10.3573) rotate(-21) scale(1.3,1.3) translate(-32.9529,-37.8816)">
-                    <path id="rect1149" fill="url(#Gradient-3)" fill-opacity="1" fill-rule="evenodd" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="8.97812" d="M0,0L19.3039,-0.4577L33.8687,-0.435026L58.1984,1.01125C58.1984,1.01125,58.6372,28.2122,58.6372,28.2122L57.7302,79.2813C57.7302,79.2813,57.7302,79.2813,57.7302,79.2813L0,79.2813C0,79.2813,0,79.2813,0,79.2813C0,79.2813,0,0,0,0Z" stroke="none" transform="translate(285.809,175.685) rotate(21) scale(0.8,0.8) translate(-28.8651,-39.6406)" style="animation: 3.7s linear infinite both rect1149_t;"/>
+                    <path id="rect1149" fill="url(#Gradient-3)" fill-opacity="1" fill-rule="evenodd" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="8.97812" d="M-0.909665,25.6482L6.21808,28.0619L16.1461,19.1011L27.4343,24.3813L36.2167,11.3967L43.5924,18.1788L50.2505,6.00966L58.1984,12.5721C58.1984,12.5721,57.7302,67.4414,57.7302,67.4414C57.7302,67.4414,57.7302,67.4414,57.7302,67.4414L0,67.4414C0,67.4414,0,67.4414,0,67.4414C0,67.4414,-0.909665,25.6482,-0.909665,25.6482Z" stroke="none" filter="blur(2px)" transform="translate(285.809,175.685) rotate(21) scale(0.8,0.8) translate(-28.8651,-39.6406)" style="animation: 3.7s linear infinite both rect1149_t;"/>
+                    <path id="rect1149-2" fill="url(#Gradient-4)" fill-opacity="1" fill-rule="evenodd" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="8.97812" d="M1.71095,29.792L6.21808,28.0619L19.0268,21.2393L27.4343,24.3813L36.2167,11.3967L43.5924,18.1788L50.2505,6.00966L58.1984,12.5721C58.1984,12.5721,57.7302,67.4414,57.7302,67.4414C57.7302,67.4414,57.7302,67.4414,57.7302,67.4414L0,67.4414C0,67.4414,0,67.4414,0,67.4414C0,67.4414,1.71095,29.792,1.71095,29.792Z" stroke="none" filter="blur(0px)" transform="translate(285.809,175.685) rotate(21) scale(0.8,0.8) translate(-28.8651,-39.6406)" style="animation: 3.7s linear infinite both rect1149-2_t;"/>
                 </g>
-                <rect id="rect1147" width="98.3552" height="25.1233" ry="3.515329e-14" fill="url(#Gradient-4)" fill-rule="evenodd" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="5.56066" transform="translate(160.659,59.4778) translate(-49.1776,-12.5617)" style="paint-order: fill markers stroke;"/>
-                <path id="rect991" d="M500.607,160.988C418.714,160.988,352.785,226.917,352.785,308.811L352.785,771.189C352.785,853.083,418.714,919.012,500.607,919.012L1419.39,919.012C1501.29,919.012,1567.21,853.083,1567.21,771.189L1567.21,308.811C1567.21,226.917,1501.29,160.988,1419.39,160.988ZM514.975,229.42L1405.03,229.42C1455.28,229.42,1495.73,269.876,1495.73,320.129L1495.73,759.871C1495.73,810.124,1455.28,850.58,1405.03,850.58L514.975,850.58C464.722,850.58,424.266,810.124,424.266,759.871L424.266,320.129C424.266,269.876,464.722,229.42,514.975,229.42Z" fill="url(#Gradient-5)" fill-rule="evenodd" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="18.7604" transform="translate(160.659,162.022) scale(0.264583,0.264583) translate(-960,-540)" style="paint-order: fill markers stroke;"/>
+                <rect id="rect1147" width="98.3552" height="25.1233" ry="3.515329e-14" fill="url(#Gradient-5)" fill-rule="evenodd" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="5.56066" filter="blur(2.2px)" transform="translate(160.659,59.4778) translate(-49.1776,-12.5617)" style="paint-order: fill markers stroke;"/>
+                <rect id="rect1147-2" width="98.3552" height="25.1233" ry="3.515329e-14" fill="url(#Gradient-5)" fill-rule="evenodd" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="5.56066" filter="blur(0px)" transform="translate(160.659,59.4778) translate(-49.1776,-12.5617)" style="paint-order: fill markers stroke;"/>
+                <path id="rect991" d="M500.607,160.988C418.714,160.988,352.785,226.917,352.785,308.811L352.785,771.189C352.785,853.083,418.714,919.012,500.607,919.012L1419.39,919.012C1501.29,919.012,1567.21,853.083,1567.21,771.189L1567.21,308.811C1567.21,226.917,1501.29,160.988,1419.39,160.988ZM514.975,229.42L1405.03,229.42C1455.28,229.42,1495.73,269.876,1495.73,320.129L1495.73,759.871C1495.73,810.124,1455.28,850.58,1405.03,850.58L514.975,850.58C464.722,850.58,424.266,810.124,424.266,759.871L424.266,320.129C424.266,269.876,464.722,229.42,514.975,229.42Z" fill="url(#Gradient-6)" fill-rule="evenodd" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="18.7604" transform="translate(160.659,162.022) scale(0.264583,0.264583) translate(-960,-540)" style="paint-order: fill markers stroke;"/>
+                <path id="rect991-3" d="M500.607,160.988C418.714,160.988,352.785,226.917,352.785,308.811L352.785,771.189C352.785,853.083,418.714,919.012,500.607,919.012L1419.39,919.012C1501.29,919.012,1567.21,853.083,1567.21,771.189L1567.21,308.811C1567.21,226.917,1501.29,160.988,1419.39,160.988ZM514.975,229.42L1405.03,229.42C1455.28,229.42,1495.73,269.876,1495.73,320.129L1495.73,759.871C1495.73,810.124,1455.28,850.58,1405.03,850.58L514.975,850.58C464.722,850.58,424.266,810.124,424.266,759.871L424.266,320.129C424.266,269.876,464.722,229.42,514.975,229.42Z" fill="url(#Gradient-7)" fill-rule="evenodd" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="18.7604" filter="blur(7.8px)" transform="translate(160.659,162.022) scale(0.264583,0.264583) translate(-960,-540)" style="paint-order: fill markers stroke;"/>
             </g>
         </g>
         <g opacity="1" transform="translate(555.858,327.246) scale(1.6,1.6) translate(-47.9558,-47.6431)" style="animation: 3.7s linear infinite both a6_t;">
@@ -98,5 +110,5 @@
         </g>
         <rect id="rect1018-4" height="2.59767" width="25.0394" display="inline" fill="url(#Gradient-1)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="0.551979" transform="translate(642.922,369.906) rotate(162) scale(-32.0489,32.0841) translate(-12.5197,-1.29883)" style="paint-order: fill markers stroke; animation: 3.7s linear infinite both rect1018-4_t;"/>
     </g>
-    <path id="rect1722" display="inline" fill="url(#Gradient-6)" fill-opacity="1" fill-rule="evenodd" opacity="0.79" stroke-linecap="square" stroke-linejoin="round" stroke-width="12.1318" d="M0,0L576.233,0L576.233,321.156L0,321.156Z" transform="translate(192.507,128) scale(0.8,0.8) translate(-288.117,-160.578)"/>
+    <path id="rect1722" display="inline" fill="url(#Gradient-8)" fill-opacity="1" fill-rule="evenodd" opacity="0.79" stroke-linecap="square" stroke-linejoin="round" stroke-width="12.1318" d="M0,0L576.233,0L576.233,321.156L0,321.156Z" transform="translate(192.507,128) scale(0.8,0.8) translate(-288.117,-160.578)"/>
 </svg>
