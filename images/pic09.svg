@@ -27,7 +27,7 @@
     </defs>
     <metadata id="metadata960"/>
     <g id="layer3" display="inline" transform="translate(184,128) translate(-184,-128)">
-        <rect id="rect999" height="14.2048" width="26.9698" fill="#140d00" fill-opacity="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="round" stroke-width="0.551979" transform="translate(183,127.841) scale(21.3659,21.3894) translate(-13.4849,-7.10241)" style="paint-order: fill markers stroke;"/>
+        <rect id="rect999" height="14.2048" width="26.9698" fill="#000000" fill-opacity="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="round" stroke-width="0.551979" transform="translate(183,127.841) scale(21.3659,21.3894) translate(-13.4849,-7.10241)" style="paint-order: fill markers stroke;"/>
     </g>
     <g transform="translate(229.652,227.569) translate(-9.71401,-71.7983)">
         <path id="rect1114-3" fill="#30020f" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="1.92187" d="M0,0L0.983896,0L0.983896,7.13594L0,7.13594Z" filter="none" transform="translate(-87.9378,128.18) rotate(180) scale(19.746,20.123) translate(-0.491948,-3.56797)" style="animation: 3.7s linear infinite both rect1114-3_t;"/>

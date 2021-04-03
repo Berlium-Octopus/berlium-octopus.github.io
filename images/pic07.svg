@@ -32,7 +32,7 @@
     </defs>
     <metadata id="metadata960"/>
     <g id="layer3" display="inline" transform="translate(184,128) translate(-184,-128)">
-        <rect id="rect999" height="14.2048" width="26.9698" fill="#140d00" fill-opacity="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="round" stroke-width="0.551979" transform="translate(183,127.841) scale(21.3659,21.3894) translate(-13.4849,-7.10241)" style="paint-order: fill markers stroke;"/>
+        <rect id="rect999" height="14.2048" width="26.9698" fill="#000000" fill-opacity="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="round" stroke-width="0.551979" transform="translate(183,127.841) scale(21.3659,21.3894) translate(-13.4849,-7.10241)" style="paint-order: fill markers stroke;"/>
     </g>
     <path id="rect1018-6" d="M0,0L25.0394,0L25.0394,2.59767L0,2.59767Z" display="inline" fill="url(#Gradient-0)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="0.551979" transform="translate(200.166,235.007) rotate(162) scale(-32.0489,32.0841) translate(-12.5197,-1.29883)" style="animation: 3.7s linear infinite both rect1018-6_t;"/>
     <g transform="translate(184,128) translate(-518.702,-266.764)">
