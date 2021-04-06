@@ -2,14 +2,14 @@
 <!-- Created with Keyshape -->
 <svg xmlns="http://www.w3.org/2000/svg" id="svg8" width="1200" height="551" viewBox="0 0 317.5 145.78541">
     <style>
-@keyframes Longer-Small-6_t { 0% { transform: translate(296.399px,90.6369px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 50% { transform: translate(296.443264px,90.211577px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(296.399px,90.6369px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); } }
-@keyframes Longer-Small-2_t { 0% { transform: translate(127px,35.599998px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 49.6595% { transform: translate(126.876509px,34.699999px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(127px,35.6px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); } }
-@keyframes Longer-Small-4_t { 0% { transform: translate(296.399px,90.6369px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 50% { transform: translate(296.443264px,90.211577px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(296.399px,90.6369px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); } }
-@keyframes Longer-Small-3_t { 0% { transform: translate(127px,35.599998px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 49.6595% { transform: translate(126.876509px,34.699999px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(127px,35.6px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); } }
-@keyframes Long_t { 0% { transform: translate(71.7989px,44.9129px) rotate(90deg) scale(19.746,20.123) translate(-0.491948px,-16.782204px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 48.4255% { transform: translate(71.7989px,43.755px) rotate(90deg) scale(19.746,20.123) translate(-0.491948px,-16.782204px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 97.8723% { transform: translate(71.7989px,44.9129px) rotate(90deg) scale(19.746,20.123) translate(-0.491948px,-16.782204px); animation-timing-function: cubic-bezier(0.419421,0,0.710385,0.497387); } 100% { transform: translate(71.7989px,44.9129px) rotate(90deg) scale(19.746,20.123) translate(-0.491948px,-16.782204px); } }
-@keyframes Red_t { 0% { transform: translate(258.799px,46.4691px) scale(0.6,0.6) translate(-76.7291px,-76.2292px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 50.3404% { transform: translate(258.700013px,45.900001px) scale(0.6,0.6) translate(-76.7291px,-76.2292px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 99.8297% { transform: translate(258.799px,46.4691px) scale(0.6,0.6) translate(-76.7291px,-76.2292px); animation-timing-function: cubic-bezier(0.420627,0,0.709549,0.502919); } 100% { transform: translate(258.799px,46.4691px) scale(0.6,0.6) translate(-76.7291px,-76.2292px); } }
-@keyframes a0_t { 0% { transform: translate(47.0134px,64.9px) scale(1.6,1.6); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 49.9148% { transform: translate(47.0134px,63.799996px) scale(1.6,1.6); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(47.0134px,64.9px) scale(1.6,1.6); animation-timing-function: cubic-bezier(0.42,0,0.71,0.5); } }
-@keyframes a1_t { 0% { transform: translate(106.371px,64.9px) scale(1.6,1.6); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 49.9148% { transform: translate(106.371px,63.799997px) scale(1.6,1.6); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(106.371px,64.9px) scale(1.6,1.6); animation-timing-function: cubic-bezier(0.42,0,0.71,0.5); } }
+@keyframes Longer-Small-6_t { 0% { transform: translate(296.399px,90.6369px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 49.9855% { transform: translate(296.443px,90.2116px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(296.399px,90.6369px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); } }
+@keyframes Longer-Small-3_t { 0% { transform: translate(296.399px,90.6369px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 49.9855% { transform: translate(296.443px,90.2116px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(296.399px,90.6369px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); } }
+@keyframes Long_t { 0% { transform: translate(-28.791985px,9.77186px) rotate(90deg) scale(19.746,20.123) translate(-0.491948px,-16.7822px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 47.7357% { transform: translate(-28.791985px,8.61396px) rotate(90deg) scale(19.746,20.123) translate(-0.491948px,-16.7822px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 96.5099% { transform: translate(-28.791985px,9.77186px) rotate(90deg) scale(19.746,20.123) translate(-0.491948px,-16.7822px); } 100% { transform: translate(-28.791985px,9.77186px) rotate(90deg) scale(19.746,20.123) translate(-0.491948px,-16.7822px); } }
+@keyframes Longer-Small-2_t { 0% { transform: translate(127px,35.6px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 48.9472% { transform: translate(127.099999px,35.100001px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 98.5578% { transform: translate(127px,35.6px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); } 100% { transform: translate(127px,35.6px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); } }
+@keyframes Longer-Small-4_t { 0% { transform: translate(127px,35.6px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 48.9472% { transform: translate(127.099999px,35.100001px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 98.5578% { transform: translate(127px,35.6px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); } 100% { transform: translate(127px,35.6px) rotate(95deg) scale(9.92,10.0972) translate(-2.338px,-16.2003px); } }
+@keyframes Red_t { 0% { transform: translate(258.799px,46.4691px) scale(0.6,0.6) translate(-76.7291px,-76.2292px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 49.6394% { transform: translate(258.7px,45.9px) scale(0.6,0.6) translate(-76.7291px,-76.2292px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 98.4424% { transform: translate(258.799px,46.4691px) scale(0.6,0.6) translate(-76.7291px,-76.2292px); } 100% { transform: translate(258.799px,46.4691px) scale(0.6,0.6) translate(-76.7291px,-76.2292px); } }
+@keyframes a0_t { 0% { transform: translate(47.0134px,64.9px) scale(1.6,1.6); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 49.2068% { transform: translate(47.0134px,63.8px) scale(1.6,1.6); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 98.5578% { transform: translate(47.0134px,64.9px) scale(1.6,1.6); } 100% { transform: translate(47.0134px,64.9px) scale(1.6,1.6); } }
+@keyframes a1_t { 0% { transform: translate(106.371px,64.9px) scale(1.6,1.6); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 49.2068% { transform: translate(106.371px,63.8px) scale(1.6,1.6); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 98.5578% { transform: translate(106.371px,64.9px) scale(1.6,1.6); } 100% { transform: translate(106.371px,64.9px) scale(1.6,1.6); } }
     </style>
     <rect width="325.948" height="156" fill="#000000" stroke-width="11.8" stroke-linecap="square" stroke-linejoin="round" stroke="none" transform="translate(147.026,73) translate(-159.922,-78)"/>
     <defs id="defs2">
@@ -17,14 +17,14 @@
             <stop offset="0" stop-color="#4f350c"/>
             <stop offset="0.56" stop-color="#1b1301"/>
         </linearGradient>
-        <linearGradient id="Gradient-1" x1="-1.48108" y1="13.3372" x2="1.81106" y2="12.9535" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#95590d"/>
-            <stop offset="1" stop-color="#231b01"/>
-        </linearGradient>
-        <radialGradient id="Gradient-2" cx="0.491948" cy="7.6757" r="7.6757" fx="0.491948" fy="7.6757" gradientUnits="userSpaceOnUse">
+        <radialGradient id="Gradient-1" cx="0.491948" cy="7.6757" r="7.6757" fx="0.491948" fy="7.6757" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#2b0011"/>
             <stop offset="1" stop-color="#15020c"/>
         </radialGradient>
+        <linearGradient id="Gradient-2" x1="-1.48108" y1="13.3372" x2="1.81106" y2="12.9535" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#95590d"/>
+            <stop offset="1" stop-color="#231b01"/>
+        </linearGradient>
         <radialGradient id="Gradient-3" cx="0.155833" cy="1.17137" r="3.41302" fx="0.155833" fy="1.17137" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#761111"/>
             <stop offset="1" stop-color="#862020"/>
@@ -39,38 +39,32 @@
         </linearGradient>
     </defs>
     <metadata id="metadata5"/>
-    <g id="g436" transform="translate(21.8839,73) translate(-32.4304,-72.9494)"/>
-    <g id="SMollest-3" transform="translate(277.853,72.4578) scale(-1,1) translate(-18.0774,-73.3274)"/>
-    <g id="Smol-3" transform="translate(287.049,72.4578) scale(-1,1) translate(-21.9226,-73.3274)"/>
-    <g transform="translate(185.593,3.5023) rotate(7) scale(2,2) translate(-145.988,-27.6975)"/>
-    <g id="Big-3" transform="translate(310.982,72.4578) scale(-1,1) translate(-21.9226,-73.3274)"/>
-    <g id="Med-3" transform="translate(297.69,72.4578) scale(-1,1) translate(-21.9226,-73.3274)"/>
-    <g id="The" transform="translate(85.8715,147.754) translate(-290.338,-89.3878)">
-        <g transform="translate(291.179,90.3519) translate(-290.141,-91.5894)">
-            <g id="Back-Back" transform="translate(-4.29326,-58.9716) rotate(7) scale(2,2) translate(-145.988,-26.7274)">
-                <path id="Longer-Small-6" fill="url(#Gradient-0)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="1.92187" d="M0,0L2.84606,0L2.84606,28.7824L0,28.7824Z" transform="translate(296.399,90.6369) rotate(95) scale(9.92,10.0972) translate(-2.338,-16.2003)" style="animation: 2.35s linear infinite both Longer-Small-6_t;"/>
-            </g>
-            <g id="Back" transform="translate(296.409,94.9629) rotate(7) scale(2,2) translate(-145.988,-27.6975)">
-                <path id="Longer-Small-2" fill="url(#Gradient-1)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="1.92187" d="M0,0L2.84606,0L2.84606,28.7824L0,28.7824Z" transform="translate(127,35.6) rotate(95) scale(9.92,10.0972) translate(-2.338,-16.2003)" style="animation: 2.35s linear infinite both Longer-Small-2_t;"/>
-            </g>
-            <g transform="translate(423.178,-62.0856) scale(-1,-1) translate(-301.196,-88.6797)">
-                <g id="Back-Back-2" transform="translate(-4.27593,-63.9061) rotate(7) scale(2,2) translate(-145.988,-26.7274)">
-                    <path id="Longer-Small-4" fill="url(#Gradient-0)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="1.92187" d="M0,0L2.84606,0L2.84606,28.7824L0,28.7824Z" transform="translate(296.399,90.6369) rotate(95) scale(9.92,10.0972) translate(-2.338,-16.2003)" style="animation: 2.35s linear infinite both Longer-Small-4_t;"/>
+    <g id="Shadow" transform="translate(87.8235,67.9491) rotate(-38) scale(1.5,2.2) translate(-120.896,-5.03986)"/>
+    <g id="Benjamin" transform="translate(139.334,74.8752) rotate(-4) translate(-239.383,-45.7375)">
+        <g id="Echos-of-a-distant-past" transform="translate(235.648,42.8944) translate(-490.834,-377.535)">
+            <g id="Thats-Life" transform="translate(514.076,379.755) translate(-371.105,-299.616)">
+                <g id="Back-Back" transform="translate(35.7994,90.5776) rotate(26) scale(2.4,2.4) translate(-145.988,-26.7274)">
+                    <path id="Longer-Small-6" fill="url(#Gradient-0)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="1.92187" d="M0,0L2.84606,0L2.84606,28.7824L0,28.7824Z" transform="translate(296.399,90.6369) rotate(95) scale(9.92,10.0972) translate(-2.338,-16.2003)" style="animation: 3.467s linear infinite both Longer-Small-6_t;"/>
                 </g>
-                <g id="Back-2" transform="translate(296.426,90.0284) rotate(7) scale(2,2) translate(-145.988,-27.6975)">
-                    <path id="Longer-Small-3" fill="url(#Gradient-1)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="1.92187" d="M0,0L2.84606,0L2.84606,28.7824L0,28.7824Z" transform="translate(127,35.6) rotate(95) scale(9.92,10.0972) translate(-2.338,-16.2003)" style="animation: 2.35s linear infinite both Longer-Small-3_t;"/>
+                <g id="Back-Back-2" transform="translate(706.411,508.654) rotate(-154) scale(2.4,2.4) translate(-145.988,-26.7274)">
+                    <path id="Longer-Small-3" fill="url(#Gradient-0)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="1.92187" d="M0,0L2.84606,0L2.84606,28.7824L0,28.7824Z" transform="translate(296.399,90.6369) rotate(95) scale(9.92,10.0972) translate(-2.338,-16.2003)" style="animation: 3.467s linear infinite both Longer-Small-3_t;"/>
+                </g>
+                <g transform="translate(371.096,300.473) scale(1.2,1.2) translate(-154.458,-9.71401)">
+                    <rect id="Long" width="0.983896" height="15.3514" fill="url(#Gradient-1)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="1.92187" transform="translate(-28.792,9.77186) rotate(90) scale(19.746,20.123) translate(-0.491948,-16.7822)" style="paint-order: fill markers stroke; animation: 3.467s linear infinite both Long_t;"/>
+                </g>
+                <g id="Back" transform="translate(316.843,382.714) rotate(26) scale(2.4,2.4) translate(-145.988,-27.6975)">
+                    <path id="Longer-Small-2" fill="url(#Gradient-2)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="1.92187" d="M0,0L2.84606,0L2.84606,28.7824L0,28.7824Z" transform="translate(127,35.6) rotate(95) scale(9.92,10.0972) translate(-2.338,-16.2003)" style="animation: 3.467s linear infinite both Longer-Small-2_t;"/>
+                </g>
+                <g id="Back-2" transform="translate(425.367,216.518) rotate(-154) scale(2.4,2.4) translate(-145.988,-27.6975)">
+                    <path id="Longer-Small-4" fill="url(#Gradient-2)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="1.92187" d="M0,0L2.84606,0L2.84606,28.7824L0,28.7824Z" transform="translate(127,35.6) rotate(95) scale(9.92,10.0972) translate(-2.338,-16.2003)" style="animation: 3.467s linear infinite both Longer-Small-4_t;"/>
                 </g>
             </g>
         </g>
-    </g>
-    <g id="Shadow" transform="translate(87.8235,67.9491) rotate(-38) scale(1.5,2.2) translate(-120.896,-5.03986)"/>
-    <g id="Benjamin" transform="translate(139.334,74.8752) rotate(-4) translate(-239.383,-45.7375)">
-        <rect id="Long" width="0.983896" height="15.3514" fill="url(#Gradient-2)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="1.92187" transform="translate(71.7989,44.9129) rotate(90) scale(19.746,20.123) translate(-0.491948,-16.7822)" style="paint-order: fill markers stroke; animation: 2.35s linear infinite both Long_t;"/>
-        <g id="Red" transform="translate(258.799,46.4691) scale(0.6,0.6) translate(-76.7291,-76.2292)" style="animation: 2.35s linear infinite both Red_t;">
+        <g id="Red" transform="translate(258.799,46.4691) scale(0.6,0.6) translate(-76.7291,-76.2292)" style="animation: 3.467s linear infinite both Red_t;">
             <ellipse id="path168-2" rx="2.17089" ry="2.18503" fill="url(#Gradient-3)" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.0890342" transform="translate(76.7305,76.2288) rotate(4) scale(35.418,34.427)" style="paint-order: fill markers stroke;"/>
             <ellipse id="circle170-3" rx="2.85981" ry="2.85981" fill="#280b0b" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.0686616" transform="translate(-6.48456,-118.781) scale(20.691,20.5562) translate(4.02173,9.48666)" style="paint-order: fill markers stroke;"/>
-            <ellipse rx="6.90594" ry="6.90594" fill="#ca580c" stroke-width="1.81691" stroke-linecap="round" stroke-linejoin="round" stroke="none" transform="translate(47.0134,64.9) scale(1.6,1.6)" style="animation: 2.35s linear infinite both a0_t;"/>
-            <ellipse rx="6.90594" ry="6.90594" fill="#ca580c" stroke-width="1.81691" stroke-linecap="round" stroke-linejoin="round" stroke="none" transform="translate(106.371,64.9) scale(1.6,1.6)" style="animation: 2.35s linear infinite both a1_t;"/>
+            <ellipse rx="6.90594" ry="6.90594" fill="#ca580c" stroke-width="1.81691" stroke-linecap="round" stroke-linejoin="round" stroke="none" transform="translate(47.0134,64.9) scale(1.6,1.6)" style="animation: 3.467s linear infinite both a0_t;"/>
+            <ellipse rx="6.90594" ry="6.90594" fill="#ca580c" stroke-width="1.81691" stroke-linecap="round" stroke-linejoin="round" stroke="none" transform="translate(106.371,64.9) scale(1.6,1.6)" style="animation: 3.467s linear infinite both a1_t;"/>
         </g>
     </g>
     <rect width="316.823" height="146.113" fill="url(#Gradient-4)" stroke-width="11.8" stroke-linecap="square" stroke-linejoin="round" stroke="none" opacity="1" transform="translate(146.995,73.2709) translate(-146.349,-73.3274)"/>
