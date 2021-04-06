@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Keyshape -->
 <svg xmlns="http://www.w3.org/2000/svg" id="svg963" viewBox="0 0 368 256" height="256mm" width="368mm">
-    <style>
-@keyframes rect1018-4_t { 0% { transform: translate(394.482px,164.533px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 51.3499% { transform: translate(394.482px,162.533px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(394.482px,164.533px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); } }
-@keyframes rect1018-3_t { 0% { transform: translate(404.817px,196.341px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 51.3499% { transform: translate(404.817px,191.53px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(404.817px,196.341px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); } }
-@keyframes rect1018-2_t { 0% { transform: translate(394.482px,164.533px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 51.3499% { transform: translate(394.482px,162.533px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(394.482px,164.533px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); } }
-@keyframes a0_t { 0% { transform: translate(76.7295px,65.0715px) scale(1.6,1.6) translate(-47.9558px,-47.6431px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 48.625% { transform: translate(76.7295px,62.8225px) scale(1.6,1.6) translate(-47.9558px,-47.6431px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 97.275% { transform: translate(76.7295px,65.0715px) scale(1.6,1.6) translate(-47.9558px,-47.6431px); } 100% { transform: translate(76.7295px,65.0715px) scale(1.6,1.6) translate(-47.9558px,-47.6431px); } }
-@keyframes a1_t { 0% { transform: translate(0px,0px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 48.625% { transform: translate(0.023px,-5.55182px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 97.125% { transform: translate(0px,0px); } 100% { transform: translate(0px,0px); } }
-@keyframes rect1018-5_t { 0% { transform: translate(404.817px,196.341px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 51.3499% { transform: translate(404.817px,191.53px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(404.817px,196.341px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); } }
-    </style>
     <defs id="defs957">
         <linearGradient id="Gradient-0" x1="12.7072" y1="0.674507" x2="12.5948" y2="2.87609" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#2d2206"/>
@@ -40,19 +32,19 @@
     </g>
     <g transform="translate(184,128) translate(-439.911,-294.181)">
         <g transform="translate(399.65,181.61) scale(-1,-1) translate(-399.649,-178.249)">
-            <path id="rect1018-4" d="M0,0L25.0394,0L25.0394,2.59767L0,2.59767Z" display="inline" fill="url(#Gradient-0)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="0.551979" transform="translate(394.482,164.533) rotate(162) scale(-32.0489,32.0841) translate(-12.5197,-1.29883)" style="animation: 4s linear infinite both rect1018-4_t;"/>
-            <rect id="rect1018-3" height="2.59767" width="25.0394" fill="url(#Gradient-1)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="0.551979" display="inline" transform="translate(404.817,196.341) rotate(162) scale(-32.0489,32.0841) translate(-12.5197,-1.29883)" style="paint-order: fill markers stroke; animation: 4s linear infinite both rect1018-3_t;"/>
+            <path id="rect1018-4" d="M0,0L25.0394,0L25.0394,2.59767L0,2.59767Z" display="inline" fill="url(#Gradient-0)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="0.551979" transform="translate(394.482,162.653) rotate(162) scale(-32.0489,32.0841) translate(-12.5197,-1.29883)"/>
+            <rect id="rect1018-3" height="2.59767" width="25.0394" fill="url(#Gradient-1)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="0.551979" display="inline" transform="translate(404.817,191.819) rotate(162) scale(-32.0489,32.0841) translate(-12.5197,-1.29883)" style="paint-order: fill markers stroke;"/>
         </g>
         <g transform="translate(480.173,406.753) translate(-399.649,-178.249)">
-            <path id="rect1018-2" d="M0,0L25.0394,0L25.0394,2.59767L0,2.59767Z" display="inline" fill="url(#Gradient-2)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="0.551979" transform="translate(394.482,164.533) rotate(162) scale(-32.0489,32.0841) translate(-12.5197,-1.29883)" style="animation: 4s linear infinite both rect1018-2_t;"/>
+            <path id="rect1018-2" d="M0,0L25.0394,0L25.0394,2.59767L0,2.59767Z" display="inline" fill="url(#Gradient-2)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="0.551979" transform="translate(394.482,162.653) rotate(162) scale(-32.0489,32.0841) translate(-12.5197,-1.29883)"/>
             <g transform="translate(396.543,137.317) translate(-76.7292,-76.229)">
-                <g opacity="1" transform="translate(76.7295,65.0715) scale(1.6,1.6) translate(-47.9558,-47.6431)" style="animation: 4s linear infinite both a0_t;">
+                <g opacity="1" transform="translate(76.7295,62.8936) scale(1.6,1.6) translate(-47.9558,-47.6431)">
                     <g transform="translate(47.9561,56.5049) translate(-47.9558,-47.6431)">
                         <ellipse id="path168-2" rx="3.70833" ry="3.70833" fill="url(#Gradient-3)" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.0890342" transform="translate(-4.0533,-76.0917) scale(12.9319,12.8476) translate(4.02173,9.48666)" style="paint-order: fill markers stroke;"/>
                         <ellipse id="circle170-3" rx="2.85981" ry="2.85981" fill="#280b0b" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.0686616" transform="translate(-4.0533,-76.0917) scale(12.9319,12.8476) translate(4.02173,9.48666)" style="paint-order: fill markers stroke;"/>
                         <ellipse id="circle170-4" rx="2.85981" ry="2.85981" fill="#280b0b" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.0686616" transform="translate(-4.0533,-76.0917) scale(12.9319,12.8476) translate(4.02173,9.48666)" style="paint-order: fill markers stroke;"/>
                         <g clip-path="url(#ClipPath-2)" transform="translate(47.9324,38.1042) translate(-25.4553,-6.90629)">
-                            <g transform="translate(25.4553,6.90629) translate(-25.4553,-6.90629)" style="animation: 4s linear infinite both a1_t;">
+                            <g transform="translate(25.4776,1.52995) translate(-25.4553,-6.90629)">
                                 <ellipse rx="6.90594" ry="6.90594" fill="#ca580c" stroke-width="1.81691" stroke-linecap="round" stroke-linejoin="round" stroke="none" transform="translate(6.90594,6.90594)"/>
                                 <ellipse rx="6.90594" ry="6.90594" fill="#ca580c" stroke-width="1.81691" stroke-linecap="round" stroke-linejoin="round" stroke="none" transform="translate(44.0046,6.90664)"/>
                             </g>
@@ -60,7 +52,7 @@
                     </g>
                 </g>
             </g>
-            <rect id="rect1018-5" height="2.59767" width="25.0394" fill="url(#Gradient-1)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="0.551979" display="inline" transform="translate(404.817,196.341) rotate(162) scale(-32.0489,32.0841) translate(-12.5197,-1.29883)" style="paint-order: fill markers stroke; animation: 4s linear infinite both rect1018-5_t;"/>
+            <rect id="rect1018-5" height="2.59767" width="25.0394" fill="url(#Gradient-1)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="0.551979" display="inline" transform="translate(404.817,191.819) rotate(162) scale(-32.0489,32.0841) translate(-12.5197,-1.29883)" style="paint-order: fill markers stroke;"/>
         </g>
     </g>
     <path id="rect1722" fill="url(#Gradient-4)" fill-opacity="1" fill-rule="evenodd" opacity="1" stroke-linecap="square" stroke-linejoin="round" stroke-width="12.1318" d="M0,0L576.233,0L576.233,321.156L0,321.156Z" transform="translate(192.507,128) scale(0.8,0.8) translate(-288.117,-160.578)"/>
