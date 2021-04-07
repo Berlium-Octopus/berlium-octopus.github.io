@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Keyshape -->
 <svg xmlns="http://www.w3.org/2000/svg" id="svg963" viewBox="0 0 368 256" height="256mm" width="368mm">
+    <style>
+@keyframes rect1018-3_t { 0% { transform: translate(474.145582px,365.629743px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 52.4666% { transform: translate(474.145582px,364.626738px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(474.145582px,365.629743px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); } }
+@keyframes rect1018-6_t { 0% { transform: translate(394.481798px,164.003229px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 52.4666% { transform: translate(394.481798px,163.000224px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(394.481798px,164.003229px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); } }
+@keyframes rect1018-2_t { 0% { transform: translate(404.817px,196.341px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 51.3% { transform: translate(404.817px,193.532687px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(404.817px,196.341px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); } }
+@keyframes a0_t { 0% { transform: translate(36.329242px,45.024975px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 50% { transform: translate(35.56409px,43.236765px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(36.329241px,45.024975px); } }
+@keyframes a1_t { 0% { transform: translate(14.338501px,6.977705px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 48.0333% { transform: translate(13.763348px,4.831203px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 96.1% { transform: translate(14.3385px,6.977704px); } 100% { transform: translate(14.3385px,6.977704px); } }
+@keyframes a2_t { 0% { transform: translate(-0.000056px,36.747091px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 48.0333% { transform: translate(-0.57521px,34.600589px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 96.1% { transform: translate(-0.0001px,36.747053px); } 100% { transform: translate(-0.0001px,36.747053px); } }
+@keyframes a3_t { 0% { transform: translate(14.338799px,-26.147399px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 48.0333% { transform: translate(13.476068px,-29.367152px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 96.1% { transform: translate(14.3388px,-26.14741px); } 100% { transform: translate(14.3388px,-26.14741px); } }
+@keyframes rect1018-4_t { 0% { transform: translate(404.817px,196.341px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 50% { transform: translate(404.817px,193.530002px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(404.817px,196.341px) rotate(162deg) scale(-32.0489,32.0841) translate(-12.5197px,-1.29883px); } }
+    </style>
     <defs id="defs957">
         <linearGradient id="Gradient-0" x1="12.7072" y1="0.674507" x2="12.5948" y2="2.87609" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#2d2206"/>
@@ -38,23 +48,30 @@
     <rect id="rect999" height="14.2048" width="26.9698" fill="#000000" fill-opacity="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="round" stroke-width="0.551979" transform="translate(184,128.001) scale(21.3659,21.3894) translate(-13.4849,-7.10241)" style="paint-order: fill markers stroke;"/>
     <g transform="translate(131.983,19.368) rotate(180) translate(-399.649,-178.249)"/>
     <g transform="translate(137.15,18.2067) rotate(180) translate(-399.649,-178.249)">
-        <path id="rect1018-6" d="M0,0L25.0394,0L25.0394,2.59767L0,2.59767Z" display="inline" fill="url(#Gradient-0)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="0.551979" transform="translate(394.482,162.956) rotate(162) scale(-32.0489,32.0841) translate(-12.5197,-1.29883)"/>
-        <rect id="rect1018-2" height="2.59767" width="25.0394" fill="url(#Gradient-1)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="0.551979" display="inline" transform="translate(404.817,192.22) rotate(162) scale(-32.0489,32.0841) translate(-12.5197,-1.29883)" style="paint-order: fill markers stroke;"/>
+        <g transform="translate(314.818,-36.8505) scale(-1,-1) translate(-394.482,-163.623)">
+            <g transform="translate(356.501,58.317) translate(-434.314,-264.436)">
+                <path id="rect1018-3" d="M0,0L25.0394,0L25.0394,2.59767L0,2.59767Z" display="inline" fill="url(#Gradient-0)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="0.551979" transform="translate(474.146,365.63) rotate(162) scale(-32.0489,32.0841) translate(-12.5197,-1.29883)" style="animation: 3s linear infinite both rect1018-3_t;"/>
+                <g transform="translate(394.482,163.623) rotate(180) translate(-394.482,-163.623)">
+                    <path id="rect1018-6" d="M0,0L25.0394,0L25.0394,2.59767L0,2.59767Z" display="inline" fill="url(#Gradient-0)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="0.551979" transform="translate(394.482,164.003) rotate(162) scale(-32.0489,32.0841) translate(-12.5197,-1.29883)" style="animation: 3s linear infinite both rect1018-6_t;"/>
+                </g>
+            </g>
+        </g>
+        <rect id="rect1018-2" height="2.59767" width="25.0394" fill="url(#Gradient-1)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="0.551979" display="inline" transform="translate(404.817,196.341) rotate(162) scale(-32.0489,32.0841) translate(-12.5197,-1.29883)" style="paint-order: fill markers stroke; animation: 3s linear infinite both rect1018-2_t;"/>
     </g>
     <g transform="translate(186.957,129.307) translate(-518.702,-266.764)">
         <g id="Living-Spac" opacity="1" transform="translate(529.867,298.975) rotate(-3) translate(-274.537,-203.849)">
             <g transform="translate(309.85,286.269) rotate(3) translate(-399.649,-178.249)">
                 <g transform="translate(390.636,53.6079) rotate(15) scale(0.9,0.9) translate(-204.725,-140.434)">
-                    <g opacity="1" transform="translate(196.333,174.644) translate(-160.659,-131.151)">
+                    <g opacity="1" transform="translate(196.988,176.176) translate(-160.659,-131.151)" style="animation: 3s linear infinite both a0_t;">
                         <g id="Telle" clip-path="url(#ClipPath-1)" transform="translate(160.659,161.739) translate(-141.746,-82.4575)">
                             <g id="Mine" transform="translate(141.746,131.415) translate(-35.0888,-33.5)"/>
                             <path fill="#e9e6e1" stroke="none" stroke-linecap="square" stroke-linejoin="round" stroke-width="0.551979" d="M0,0L168.512,-10.106L283.493,0L283.493,164.349L0,164.349Z" transform="translate(141.746,82.7407) translate(-141.746,-82.1743)"/>
                             <g transform="translate(35.0609,33.0996) translate(-39,-34.5092)"/>
                             <g transform="translate(108.942,43.966) translate(-39,-8.8559)"/>
-                            <g id="Real-Mine" transform="translate(82.3028,98.0769) translate(-53.3388,-40.4068)">
-                                <rect width="78" height="68.7828" fill="#211f1f" stroke-width="0.551979" stroke-linecap="square" stroke-linejoin="round" stroke="none" transform="translate(62.3385,-6.40168) translate(-48,13.3915)"/>
-                                <rect width="106.678" height="40.7547" fill="#2b2323" stroke-width="0.551979" stroke-linecap="square" stroke-linejoin="round" stroke="none" transform="translate(51.6776,58.5314) translate(-51.6776,-18.4001)"/>
-                                <rect width="78" height="17.7118" fill="#312e2e" stroke-width="0.551979" stroke-linecap="square" stroke-linejoin="round" stroke="none" transform="translate(53.3388,-6.92726) translate(-39,-7.06771)"/>
+                            <g id="Real-Mine" transform="translate(103.338,101.59) translate(-53.3388,-40.4068)">
+                                <rect width="78" height="68.9961" fill="#211f1f" stroke-width="0.551979" stroke-linecap="square" stroke-linejoin="round" stroke="none" transform="translate(62.3385,-6.20052) translate(-48,13.1782)" style="animation: 3s linear infinite both a1_t;"/>
+                                <rect width="106.678" height="42.7704" fill="#2b2323" stroke-width="0.551979" stroke-linecap="square" stroke-linejoin="round" stroke="none" transform="translate(51.6775,57.1628) translate(-51.6776,-20.4157)" style="animation: 3s linear infinite both a2_t;"/>
+                                <rect width="78" height="17.7118" fill="#312e2e" stroke-width="0.551979" stroke-linecap="square" stroke-linejoin="round" stroke="none" transform="translate(53.3388,-19.0797) translate(-39,-7.06771)" style="animation: 3s linear infinite both a3_t;"/>
                             </g>
                             <rect width="305.142" height="30" fill="#4d4b4b" stroke-width="0.551979" stroke-linecap="square" stroke-linejoin="round" stroke="none" transform="translate(141.746,152.866) translate(-150.031,-15)"/>
                         </g>
@@ -65,7 +82,7 @@
                         <path id="rect991" d="M500.607,160.988C418.714,160.988,352.785,226.917,352.785,308.811L352.785,771.189C352.785,853.083,418.714,919.012,500.607,919.012L1419.39,919.012C1501.29,919.012,1567.21,853.083,1567.21,771.189L1567.21,308.811C1567.21,226.917,1501.29,160.988,1419.39,160.988ZM514.975,229.42L1405.03,229.42C1455.28,229.42,1495.73,269.876,1495.73,320.129L1495.73,759.871C1495.73,810.124,1455.28,850.58,1405.03,850.58L514.975,850.58C464.722,850.58,424.266,810.124,424.266,759.871L424.266,320.129C424.266,269.876,464.722,229.42,514.975,229.42Z" fill="url(#Gradient-5)" fill-rule="evenodd" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="18.7604" transform="translate(160.659,162.022) scale(0.264583,0.264583) translate(-960,-540)" style="paint-order: fill markers stroke;"/>
                     </g>
                 </g>
-                <rect id="rect1018-4" height="2.59767" width="25.0394" display="inline" fill="url(#Gradient-1)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="0.551979" transform="translate(404.817,192.22) rotate(162) scale(-32.0489,32.0841) translate(-12.5197,-1.29883)" style="paint-order: fill markers stroke;"/>
+                <rect id="rect1018-4" height="2.59767" width="25.0394" display="inline" fill="url(#Gradient-1)" fill-opacity="1" fill-rule="evenodd" stroke="none" stroke-dasharray="none" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="4" stroke-width="0.551979" transform="translate(404.817,196.341) rotate(162) scale(-32.0489,32.0841) translate(-12.5197,-1.29883)" style="paint-order: fill markers stroke; animation: 3s linear infinite both rect1018-4_t;"/>
             </g>
         </g>
     </g>
