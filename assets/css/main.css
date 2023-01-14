@@ -2797,6 +2797,11 @@ input, select, textarea {
 				margin: 0 0 1em 0;
 			}
 
+			.image.featured2 {
+				margin: 0 0 1em 0;
+			}
+
+
 		/* Actions */
 
 			form ul.actions {
